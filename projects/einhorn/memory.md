@@ -7,6 +7,15 @@
 - 2026-03-17 -- Cross-channel: Generic keyword performance from Feb conquest campaign ("family estate lawyers near me" at 19% CTR) validates client acquisition campaign and identifies estate planning as a high-priority expansion segment.
 - 2026-03-17 -- Conversion tracking: No CPL data available yet. Google tracking tags are live but conversion tracking needs to be confirmed/implemented to measure leads from ad traffic. Priority action before next review.
 - 2026-03-17 -- SEO: OPEN QUESTION -- SEO proposal references Personal Injury as the primary starting practice area. All paid search work targets Family Law. Need to confirm which practice area takes SEO priority and whether these are separate tracks before SEO work can begin.
+- 2026-03-18 -- Engagement: SEO advisory proposal approved by Steven. Proceeding. Two payment links to be sent: one for support hours, one for ad spend.
+- 2026-03-18 -- Scope expansion: Alissa Hascup (criminal group) is being introduced by Steven and wants similar search/digital marketing services. Budget increase likely. Engagement structure may need to be set up differently per practice group. To be scoped after connecting with Alissa.
+- 2026-03-18 -- Website: Mat (primary decision maker) does not want Liz involved unless necessary and dislikes their web work. Einhorn does not have an Instagram page. Website improvements will be needed eventually -- need to plan what next setup looks like if Liz is not the path.
+- 2026-03-18 -- SEO open question update: PI practice area (Dennis) still pending. Criminal group (Alissa Hascup) now also a potential track. Practice area prioritization for SEO still unresolved -- hold until Alissa call and Dennis feedback.
+- 2026-03-18 -- Criminal group strategy: Alissa Hascup (partner, criminal group) is the contact for criminal group expansion. Strategy vision from Steven: SEO, content, personal brand, local media/visibility. Alissa is described as comfortable on camera, in court, and on a mic. Steven referenced attorney TikTok-style content (personality-driven) as inspiration, though not necessarily the exact format. Goal is to increase criminal group's presence and inbound opportunities.
+- 2026-03-18 -- Criminal group next step: Matt and Alissa to connect week of 2026-03-25 (Wed/Thu/Fri) to discuss current state, what's worked, and strategy across SEO, content, and distribution.
+- 2026-03-19 -- Criminal group assets: Alissa has two personal sites from solo practice: patersonnjcriminallawyer.com and njjuveniledefenselawyer.com. Both are established domains that drove significant business. She stopped paying for SEO after joining EB -- sites are declining. She is considering re-engaging SEO services. These sites are a major opportunity -- established authority, real traffic history.
+- 2026-03-19 -- Criminal group social: Alissa is active on TikTok and Instagram (@attorneyalissahascup). Presence already exists -- not starting from zero. She's open to ramping this up.
+- 2026-03-19 -- Criminal group meeting: Confirmed for Friday 2026-03-28 morning. Key scoping questions to address: (1) personal sites vs. Einhorn firm site -- where does SEO investment go? (2) social strategy -- organic content vs. distribution vs. both? (3) engagement structure -- does this run through existing Einhorn engagement or separately?
 
 
 ---
@@ -17,6 +26,7 @@
 - 2026-03-17 -- Conquest -- February 2026 results: 72K impressions, 5,500 clicks, 7.6% CTR, $0.53 CPC. Exceptional efficiency vs NJ avg of $25-75/click. Competitor terms (SKM Law) performing well. Generic terms ("lawyers near me", "family estate lawyers near me") generated majority of volume with strong CTR -- direct input into client acquisition strategy.
 - 2026-03-17 -- Client Acquisition -- Two-month test campaign authorized at $5,000/month ($10,000 total). Originated from strong generic keyword signals observed during conquest campaign. Google tracking tags live on site. Mid-month-two review scheduled.
 - 2026-03-17 -- SEO -- Advisory engagement proposed. Matt Saunders as Digital Search & AI Strategy Lead. $4,000/month, up to 10 hours/month. 3-month initial term. Advisory only -- not execution. Phase 1: direction and off-site momentum. Phase 2: on-site optimization (if warranted).
+- 2026-03-18 -- SEO -- Advisory engagement approved by Steven. Payment links pending. Scope may expand to include criminal group pending call with Alissa Hascup.
 
 
 ---
@@ -30,3 +40,6 @@
 ## Session Log
 <!-- Format: [date] -- [what was done, key decisions, context for next session] -->
 <!-- 2026-03-17 -- Project scaffolded. Three sub-projects created: seo-ai-optimization, conquest-campaign, client-acquisition. -->
+- 2026-03-18 -- Logged Steven note and Matt response. SEO approved. New stakeholder: Alissa Hascup (criminal group). PI still pending Dennis. Website path (Liz out, no Instagram) clarified. Sports-based advertising (Prudential Center, AAU basketball) noted as something Steven is analyzing separately -- not a current focus.
+- 2026-03-18 -- Logged Steven intro email for Alissa Hascup (criminal group). Criminal group scope clarified: SEO, content, personal brand, local visibility. Meeting with Alissa scheduled for week of 2026-03-25.
+- 2026-03-19 -- Logged Alissa Hascup response. Key assets confirmed: two personal domains (patersonnjcriminallawyer.com, njjuveniledefenselawyer.com) and existing social presence (@attorneyalissahascup). Meeting set for 2026-03-28 morning.
