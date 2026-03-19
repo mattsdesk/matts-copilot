@@ -80,6 +80,6 @@ When insights from one sub-project have cross-impact, note it in `memory.md`. Ex
 > - Do NOT modify the structure or headings of this file
 > - At the start of every session, read `client-profile.md` then `memory.md` -- summarize relevant prior context in 1-3 bullets before starting work
 > - Identify which sub-project the current task belongs to before executing
-> - Check `/templates/` for campaign briefs and report formats before creating new outputs
+> - Check `/templates/` for campaign briefs, report formats, and proposal templates before creating new outputs — use `proposal-generator.md` any time a proposal or new scope of work is requested
 > - When cross-sub-project insights emerge, note them in `memory.md` under Decisions or Key Notes
 > - After meaningful work, append to the Session Log in `memory.md`
