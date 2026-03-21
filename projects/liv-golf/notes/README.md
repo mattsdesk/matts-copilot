@@ -39,18 +39,19 @@ Each meeting note includes:
 | Project | Status | Last Updated |
 |---------|--------|-------------|
 | [Apex App](projects/apex-app.md) | 🟢 On Track | 2026-03-11 |
-| [Apex Web](projects/apex-web.md) | 🔴 Blocked | 2026-03-19 |
+| [Apex Web](projects/apex-web.md) | 🔴 Blocked | 2026-03-20 |
 | [Legacy Web](projects/legacy-web.md) | 🟡 At Risk | 2026-03-12 |
 | [Fantasy Game](projects/fantasy-game.md) | 🟡 At Risk | 2026-03-11 |
 | [Streaming](projects/streaming.md) | 🟡 At Risk | 2026-03-19 |
 | [NYU Entrepreneurship Lab](projects/nyu-entrepreneurship-lab.md) | 🟢 On Track | 2026-03-11 |
 | [Personal Projects](projects/personal-projects.md) | 🟢 On Track | 2026-03-12 |
-| [Misc](projects/misc.md) | 🟡 At Risk | 2026-03-19 |
+| [Misc](projects/misc.md) | 🟡 At Risk | 2026-03-20 |
 
 ## Meetings Index
 
 | Date | Title | Key Topics |
 |---|---|---|
+| 2026-03-20 | [Katherine 1:1](meetings/2026/2026-03-20-katherine-1-1.md) | Denise departure timeline; Delta Tray termination; Jade HR escalation; Pulse Live vs GlobalLogic; web scope; Sergio leaving |
 | 2026-03-19 | [Lewis 1:1](meetings/2026/2026-03-19-lewis-1-1.md) | Mexico pressure; feature cuts confirmed; Delta Tray legal trigger; LivX relaunch; vendor search |
 | 2026-03-18 | [Jade Conversation about Email](meetings/2026/2026-03-18-jade-conversation-about-email.md) | Email misalignment; team clarity gap; Denise departure announced; vendor transition |
 | 2026-03-18 | [David 1:1](meetings/2026/2026-03-18-david-1-1.md) | South Africa ops; Aaron feedback pipeline; web launch timing; content population |

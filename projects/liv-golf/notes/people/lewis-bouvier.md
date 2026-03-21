@@ -18,6 +18,7 @@ Lewis is a core technical leader responsible for platform stability, development
 - **Timeline pressure** — Denise pushing for Mexico as her last event before departure. Feature cuts confirmed inevitable; critical path: messaging, video, leaderboard, shot callback.
 - **Content migration dependency** — D3 migration and Delta Tray still need Denise to trigger legal process; not yet actioned.
 - **Design system debt** — Post-launch cleanup needed: historical scores in standings, global remaining holes indicator. Aaron now supporting design.
+- **Scope narrowing post-Jade** — Katherine notes that separating Lewis from Jade should help his rehabilitation; Lewis focus narrowing to golf/data products post-stabilisation
 - **Platform completion phase** — Foundation work well progressed; leaderboard testing running on local machines (not yet on dev build).
 - **Product strategy alignment** — Three buckets identified: event experiences, stats hub relaunch, and growth features (ticketing). LivX relaunch (by Jim) will bring gaming/fantasy under umbrella.
 
@@ -29,6 +30,7 @@ Lewis is a core technical leader responsible for platform stability, development
 - Move leaderboard testing from local machines to dev build before Mexico
 - Book Spain travel
 - Deliver timeline documentation for round status management to SP for app implementation
+- Focus narrowing to golf/data products post-stabilisation; separation from Jade expected to help
 - Address divisiveness with US team; redirect focus to delivery over process
 - Delta Tray legal trigger — needs Denise to action next week
 - Design system post-launch cleanup (historical scores, global remaining holes indicator)
@@ -54,6 +56,7 @@ Denise departing in coming months; team not surprised. Foundation phase nearly c
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-03-20 | [Katherine 1:1](../meetings/2026/2026-03-20-katherine-1-1.md) | Discussed via Katherine — separating from Jade should help rehabilitation; focus narrowing to golf/data products |
 | 2026-03-19 | [Lewis 1:1](../meetings/2026/2026-03-19-lewis-1-1.md) | Mexico pressure; feature cuts confirmed; daily reviews working; Delta Tray legal trigger needed; LivX relaunch |
 | 2026-03-13 | [Katherine / Matt Catch Up & Nick/Jesse Catch Up](../meetings/2026/2026-03-13-katherine-matt-catch-up.md) | Discussed in context — creating friction during hotfix; Matt to send message about process focus |
 | 2026-03-12 | [Lewis / Matt 1:1](../meetings/2026/2026-03-12-lewis-matt-1-1.md) | Timeline pressure; Lewis taking ownership of standings/stats/ads; D3 migration dependency |

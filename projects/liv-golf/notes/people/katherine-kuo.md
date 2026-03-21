@@ -3,7 +3,7 @@
 **Role:** VP DTC Program Management
 **Organisation:** LIV Golf
 **Relationship:** Direct report
-**Last interaction:** March 13, 2026
+**Last interaction:** March 20, 2026
 
 ---
 
@@ -18,23 +18,28 @@ Katherine is a product manager and operations lead working on strategic initiati
 - **Project coordination** — Supporting web launch planning and resource allocation discussions
 - **International travel** — Regularly travels to support events; currently in Singapore; extensive event ops exposure
 - **People management** — Managing Jade performance situation; documenting behavior patterns for HR escalation
-- **Denise departure navigation** — Prepared for leadership restructure; focused on continuity and operational stability
+- **Denise departure navigation** — Prepared for leadership restructure; focused on continuity and operational stability; Denise timeline clarified as months not weeks, contingent on finishing commercial deals
+- **HR escalation leadership** — Driving formal Jade separation process: documenting to Jess, holding to concrete deliverables, external legal counsel required for UK termination
 
 ## Talking Points
 *Topics to raise in next interaction.*
 
 ## Open Items
 
-- GlobalLogic partnership final review and decision
-- Web launch coordination with Denise and stakeholders
-- Vendor evaluation and comparison (three bids process)
-- Document Jade performance issues and contact HR
-- Continue event operations support while Matt travels
-- Follow up on payroll discrepancy with Jessica
+- Review Pulse Live proposal Monday and run side-by-side comparison with GlobalLogic
+- Pulse Live proposal due Monday — vendor decision imminent (Fantasy Co not preferred)
+- Delta Tray termination letter to be sent by Denise next week; March/April team redistribution needed
+- Jade HR formal process underway — continue documentation to Jess, external legal counsel for UK termination
+- Web launch scope/timeline decision early next week (critical path: leaderboard, team sites, press releases)
+- Matt unavailable March 25–April 6
 
 ## 1:1 Notes
 
 *Running log of key points from each 1:1 — most recent first.*
+
+### 2026-03-20 — Katherine 1:1
+
+Katherine reporting from tournament (likely OKGC-adjacent event). Parking garage converted to tournament office; venue and logistics challenging. Key updates: Denise departure timeline confirmed as months not weeks, must finish commercial deals first. Sergio Alfaro leaving after Mexico (brother died, returning to California). Julian counter-offer accepted by Julian — LIV hiring process over; Denise frustrated with recruiting. Delta Tray termination letter going out within the week (60-day notice clause). Engineering vendor shortlist: Fantasy Co not preferred, GlobalLogic and Pulse Live (England-based, cheaper) are top candidates — Pulse Live proposal due Monday for side-by-side. Jade: formal HR action plan initiated, involves new Chief People Officer, UK termination requires external legal counsel and lengthy timeline. Separating Lewis from Jade should help his rehabilitation. OKGC event April 21. Denise pushing pre-Mexico web launch — critical path: leaderboard data, team sites, press releases. Ops scaling down post-stabilisation; Leah to take content/editorial ownership; Lewis focus narrowing to golf/data products. Matt unavailable March 25–April 6.
 
 ### 2026-03-13 — Katherine / Matt Catch Up (Singapore)
 
@@ -44,6 +49,7 @@ Katherine in Singapore for event; originally supposed to be at Sofitel but ended
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-03-20 | [Katherine 1:1](../meetings/2026/2026-03-20-katherine-1-1.md) | Denise departure timeline; Sergio leaving post-Mexico; Delta Tray termination; Pulse Live vs GlobalLogic; Jade HR escalation; web launch scope |
 | 2026-03-13 | [Katherine / Matt Catch Up & Nick/Jesse Catch Up](../meetings/2026/2026-03-13-katherine-matt-catch-up.md) | Singapore event ops; Jade performance escalation; Denise departure; website launch timeline; engineering vendor |
 | 2026-02-27 | [LIV Golf Catch Up](../meetings/2026/2026-02-27-liv-golf-catchup.md) | Proposal feedback, messaging refinement, executive presentation coordination |
 | 2026-02-03 | [LIV Golf / GlobalLogic Follow Up Session](../meetings/2026/2026-02-03-liv-golf-gl-follow-up-session.md) | GlobalLogic capabilities overview, team structure discussion |

@@ -2,7 +2,7 @@
 
 **Status:** 🔴 Blocked
 **Owner:** Matt Saunders
-**Last updated:** 2026-03-19
+**Last updated:** 2026-03-20
 
 ---
 
@@ -15,7 +15,7 @@
 | CMS & Design System | 🟡 At Risk | Steve / Fantasy Co | DS delivery first week of April; content population starting week of Mar 23; URL redirect mapping due Apr 3 |
 | LIV Golf Music Page | ⏳ Pending | Lewis | New request ahead of Live Nation announcement; needs decision |
 | OKGC Rebrand Integration | 🟡 At Risk | — | April 21 deadline; impacts theming/web readiness |
-| Fantasy Co Vendor Management | 🟡 At Risk | Matt / Katherine | Contract through mid-May; GlobalLogic (24 headcount) and Pulse Live under consideration; Friday vendor decision meeting with Denise |
+| Fantasy Co Vendor Management | 🟡 At Risk | Matt / Katherine | Fantasy Co not preferred; GlobalLogic vs Pulse Live (England-based, cheaper); Pulse Live proposal due Monday; side-by-side comparison then decision |
 
 ---
 
@@ -46,7 +46,7 @@ South Africa testing is live — leaderboard and video data feeding into dev bui
 - Can the team execute web cutover within May 4 timeline given board-level pressure?
 - What is the fallback plan if Mexico City leaderboard fails during testing?
 - When can legal sign-off happen to enable D3 notification and content migration?
-- Which vendor replaces Fantasy Co — GlobalLogic or Pulse Live? (Decision meeting Friday Mar 20)
+- Which vendor replaces Fantasy Co — GlobalLogic or Pulse Live? (Pulse Live proposal due Monday; side-by-side comparison then decision; Fantasy Co not preferred)
 - Can Pulse Live's proprietary CMS be avoided, and is GCP compatibility confirmed?
 - How will content be created for Duels/Four Aces pages that require internal knowledge?
 - Can the Google Analytics paid licence (~$40k) be funded from marketing budget?
@@ -59,6 +59,7 @@ South Africa testing is live — leaderboard and video data feeding into dev bui
 ## Tactical Detail
 
 ### Recent Updates
+- **March 20, 2026:** Katherine 1:1 — Denise pushing pre-Mexico web launch despite technical concerns; scope reduction planning underway; critical path confirmed as leaderboard data, team sites, and press releases. Pulse Live proposal due Monday; Fantasy Co not preferred; GlobalLogic vs Pulse Live decision expected early next week. Delta Tray termination letter going out within the week (60-day notice clause). Matt unavailable March 25–April 6.
 - **March 19, 2026:** Lewis 1:1 — leaderboard testing running on local machines, not yet on dev build. Denise pushing hard for Mexico launch (likely her last event before departure). Delta Tray legal trigger needs Denise to action next week. Feature cuts confirmed inevitable; critical path is messaging, video, leaderboard, shot callback. Global Logic 24-headcount proposal vs Fantasy's 5; front-end engineering leader hired (visa pending). Aaron hired as additional design support. LivX relaunch by Jim: auto-membership with account creation; gaming/fantasy under LivX umbrella.
 - **March 18, 2026:** David 1:1 — dev build now receiving leaderboard and video data for South Africa confidence testing. Launch window narrowed to Mexico week; Denise wants beginning of week, Fantasy prefers Saturday. Content population starts week of March 23; team pages mostly templated; Mexico event assets being created by David/Aaron this week.
 - **March 17, 2026:** Project Apex Production Sync — no consensus on exact Mexico launch date (Steve: mid-Mexico; Denise: before). Insufficient QA, content, and testing time flagged as risks. Galleries non-critical and deferrable. Outstanding December invoice stuck in approval process. URL redirect mapping due April 3. Leaderboard DS integration 95% complete; remaining work first week of April. Dev URL to be shared with LIV team for parallel testing during South Africa.
@@ -82,6 +83,7 @@ South Africa testing is live — leaderboard and video data feeding into dev bui
 ### Meeting History
 | Date | Meeting | Key Outcome |
 |------|---------|-------------|
+| 2026-03-20 | [Katherine 1:1](../meetings/2026/2026-03-20-katherine-1-1.md) | Pre-Mexico launch push; scope reduction (leaderboard, team sites, press releases); Pulse Live proposal Monday; Delta Tray termination |
 | 2026-03-19 | [Lewis 1:1](../meetings/2026/2026-03-19-lewis-1-1.md) | Mexico pressure; feature cuts confirmed; Delta Tray legal trigger; new vendor search; LivX relaunch |
 | 2026-03-18 | [David 1:1](../meetings/2026/2026-03-18-david-1-1.md) | Dev build testing live; content population starts Mar 23; Mexico week launch window |
 | 2026-03-17 | [[EXT] Project Apex Production Sync](../meetings/2026/2026-03-17-project-apex-production-sync.md) | No launch date consensus; invoice stuck; URL redirect mapping Apr 3; DS 95% complete |
