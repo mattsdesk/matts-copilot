@@ -8,8 +8,7 @@ This file tells any AI agent how this repository works and what to do with it. R
 
 A personal knowledge management system for Matt Saunders. It captures meeting notes, project status, and action items from multiple sources and organises them into a portable, app-agnostic markdown repository.
 
-**Source of truth:** `/Users/mattsaunders/Library/CloudStorage/OneDrive-Livgolf/notes/`
-**Local mirror:** `/Users/mattsaunders/Desktop/Vibe Coded Stuff/notes/`
+**Source of truth:** `/Users/mattsaunders/Desktop/Vibe Coded Stuff/Matt's CoPilot/projects/liv-golf/notes/`
 
 ---
 
@@ -268,12 +267,7 @@ When routing updates, read the existing project files to understand current cont
 ## After all updates are complete
 
 1. Update `README.md` — add new meetings to the Meetings Index, add new projects to the Projects Index
-2. Mirror to local backup:
-```bash
-rsync -av --delete \
-  "<base>/" \
-  "/sessions/<session-id>/mnt/Vibe Coded Stuff/notes/"
-```
+2. No mirroring needed — this folder is the source of truth.
 
 ---
 
