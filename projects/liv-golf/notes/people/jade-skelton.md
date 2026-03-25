@@ -3,8 +3,8 @@
 **Role:** Programme Manager
 **Organisation:** LIV Golf
 **Relationship:** Reports to Katherine Kuo
-**Last interaction:** March 18, 2026
-*(discussed in Katherine 1:1 March 20)*
+**Last interaction:** March 24, 2026
+*(discussed in Jess Harless 1:1)*
 
 ---
 
@@ -18,7 +18,7 @@ Jade is an operations and process lead responsible for cross-functional coordina
 - **Cross-functional visibility** — Building transparency between product teams (Fantasy, Web, App)
 - **Operational coordination** — Managing schedules, standups, and team communication protocols
 - **Team support** — Works with Catherine on addressing coordination issues
-- **Performance concerns escalating** — Formal HR action plan initiated (March 20): continuing documentation to Jess, holding to concrete deliverables with dates, documenting all missed deadlines/meetings. Denise discussing situation with new Chief People Officer. Multiple historical complaints filed (pre-Denise era) noted. UK termination process requires external legal counsel and a lengthy timeline.
+- **Termination actively in progress** — Formal HR action plan initiated (March 20). Previous constructive conversation with Jade became destructive (March 24): Jade took feedback to unproductive place. Denise: "Doesn't surprise me, surprised you haven't moved sooner." Work quality declining; creating non-work issues. Jess Harless meeting with Mark (March 24) to set termination date; legal review underway. UK termination requires external legal and lengthy timeline. Comparison drawn to former employee "Rob" — similar patterns.
 - **Team clarity perception gap** — Jade reports team unclear on roles/objectives; Matt's recent conversations with Lewis and Arthur indicate clarity. Disconnect to be resolved through direct escalation.
 - **Engineering transition** — Fantasy team departing in ~8 weeks; new engineering team onboarding will be a key coordination challenge for Jade to support
 
@@ -27,11 +27,10 @@ Jade is an operations and process lead responsible for cross-functional coordina
 
 ## Open Items
 
-- HR formal process underway — continue documentation to Jess; hold to concrete deliverables with dates
-- Document all missed deadlines and meetings for HR file
+- Termination date to be confirmed by Jess after Mark discussion (March 24)
 - External legal counsel required for UK termination — Katherine to engage
-- Follow-up conversations with Lewis and Arthur about role clarity (as agreed March 18)
-- URL redirect mapping doc by April 3rd
+- Document all missed deadlines and meetings for HR file
+- URL redirect mapping doc by April 3rd (open deliverable)
 
 ## 1:1 Notes
 
@@ -45,6 +44,7 @@ Called out for sending a process framework email to Denise (cc Katherine, Matt) 
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-03-24 | [Jess Harless 1:1](../meetings/2026/2026-03-24-jess-harless-1-1.md) | Situation escalating; constructive conversation went destructive; Jess setting termination date with Mark |
 | 2026-03-20 | [Katherine 1:1](../meetings/2026/2026-03-20-katherine-1-1.md) | Formal HR action plan initiated; CPO involved; external legal for UK termination; multiple historical complaints noted |
 | 2026-03-18 | [Jade Conversation about Email](../meetings/2026/2026-03-18-jade-conversation-about-email.md) | Email misalignment confronted; team clarity gap; Denise departure confirmed; vendor transition |
 | 2026-03-17 | [[EXT] Project Apex Production Sync](../meetings/2026/2026-03-17-project-apex-production-sync.md) | Attendee; web launch risks, DS integration, URL redirect mapping due Apr 3 |

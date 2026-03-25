@@ -2,7 +2,7 @@
 
 **Status:** 🟡 At Risk
 **Owner:** Jesse Miller
-**Last updated:** 2026-03-12
+**Last updated:** 2026-03-19
 
 ---
 
@@ -26,6 +26,7 @@ Deliver a feature-complete fantasy gaming experience with clear acceptance crite
 The fantasy project is at risk due to timeline uncertainty and process challenges. The team is targeting Mexico City as the cutover point — if ready, cut over early; otherwise accept the extended timeline. Testing was planned during the first 1-2 days of Hong Kong before an App Store push. Haley is engaged on product requirements; Yorick is the technical representative for LIV.
 
 ### Key Decisions
+- **March 19, 2026:** LivX relaunch by Jim — gaming/fantasy game to sit under LivX umbrella; membership now automatic with account creation; streaming not included for now
 - **January 16, 2026:** Branding confirmed as "LIV Golf Play" for gamification features
 - **Late January 2026:** Reduced scope to meet launch deadline alongside Apex
 - **March 2026:** Mexico City cutover hypothesis established — go early if ready, extend if not
@@ -35,6 +36,8 @@ The fantasy project is at risk due to timeline uncertainty and process challenge
 - What is the confirmed timeline for Mexico City readiness?
 - How does the fantasy integration affect the Apex App release cadence?
 - Are daily standups and elaboration sessions now running with LIV representation?
+- How does the LivX umbrella structure change product priorities and ownership for LIV Golf Play?
+- Will streaming be brought under the LivX umbrella in a later phase?
 
 ---
 ---
@@ -44,6 +47,7 @@ The fantasy project is at risk due to timeline uncertainty and process challenge
 *The section below tracks incremental progress, meeting history, and granular action items.*
 
 ### Recent Updates
+- **March 19, 2026:** Lewis 1:1 — LivX relaunch initiative by Jim: membership automatic with account creation; gaming/fantasy game to sit under LivX umbrella (streaming excluded for now). Matt working with NYU on multi-format subscription research that may inform strategy. Front-end engineering leader hired (visa-dependent start date) as design system debt is addressed.
 - **March 11, 2026:** Mexico launch path confirmed at 80–90% completion; fantasy launch targeted alongside web cutover for Mexico City
 - **March 10, 2026:** Process issues identified; mandatory daily standups and elaboration sessions required with LIV representation (Yorick, Lewis, Jade)
 - **March 3, 2026:** Delayed launch approach accepted; Hong Kong event designated as testing phase before App Store push
@@ -54,6 +58,7 @@ The fantasy project is at risk due to timeline uncertainty and process challenge
 ### Meeting History
 | Date | Meeting | Key Outcome |
 |------|---------|-------------|
+| 2026-03-19 | [Lewis / Matt 1:1](../meetings/2026/2026-03-19-lewis-1-1.md) | LivX umbrella for gaming/fantasy; auto-membership; subscription research with NYU |
 | 2026-03-10 | [Sync on Updated Deck](../meetings/2026/2026-03-10-sync-on-updated-deck.md) | Mexico launch path; fantasy at 80–90%; rollback risks |
 | 2026-03-10 | [Huddle with Lewis & Jade](../meetings/2026/2026-03-10-huddle-lewis-jade.md) | Process issues; daily standups required |
 | 2026-02-03 | [OTT Sync](../meetings/2026/2026-02-03-ott-sync.md) | Fantasy development on track; original timeline |

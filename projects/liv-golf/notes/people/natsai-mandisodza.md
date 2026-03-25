@@ -3,7 +3,7 @@
 **Role:** Product Manager
 **Organisation:** Fantasy Co (LatitudeGo)
 **Relationship:** Vendor / Partner
-**Last interaction:** March 10, 2026
+**Last interaction:** March 17, 2026
 
 ---
 
@@ -22,8 +22,9 @@ Natsai is a product manager at Fantasy Co working on the web platform rebuild an
 
 ## Open Items
 
-- Web launch timeline coordination
-- Deck preparation for Denise review
+- Dev URL sharing for South Africa parallel testing (LIV team side-by-side)
+- Scope alignment doc due end of week (March 20)
+- URL redirect mapping due April 3
 
 ## 1:1 Notes
 
@@ -33,6 +34,7 @@ Natsai is a product manager at Fantasy Co working on the web platform rebuild an
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-03-17 | [[EXT] Project Apex Production Sync](../meetings/2026/2026-03-17-project-apex-production-sync.md) | South Africa testing alignment; Mexico launch date disagreement; URL redirect mapping; invoice issues |
 | 2026-03-10 | [Sync on Updated Deck](../meetings/2026/2026-03-10-sync-on-updated-deck.md) | Web launch timeline, complexity factors, team resources |
 
 ---

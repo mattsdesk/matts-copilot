@@ -2,7 +2,7 @@
 
 **Status:** 🟢 On Track
 **Owner:** Matt Saunders
-**Last updated:** 2026-03-11
+**Last updated:** 2026-03-19
 
 ---
 
@@ -45,6 +45,8 @@ The app successfully launched in Riyadh despite significant technical challenges
 ## Tactical Detail
 
 ### Recent Updates
+- **March 19, 2026:** Lewis 1:1 — Round status management documentation created by Lewis to define front-end behaviour for each round status; will be shared with Sporting Pulse for app implementation and has 3x reuse value (app + web + future connected devices). Design system debt identified: missing historical scores in standings and global remaining holes indicator — post-launch cleanup needed. Aaron confirmed as additional design support. Lewis continuing daily reviews with Haley covering edge cases previously missed.
+- **March 18, 2026:** David 1:1 — App feedback pipeline established: David and Aaron identify UX issues, escalate to Arthur for backlog prioritisation. Issues flagged: confusing dots in discover feed, "all done" navigation problems, profile drawer issues, golf ball loading animation too long/repetitive. Aaron performing well — probing existing processes, presenting improvement ideas, strong communication with David. Arthur owns mobile platform prioritisation; Lewis owns web (temporary structure during stabilisation). Balanced sprints needed: big features + cleanup + fixes. Arthur and David to continue coordination call structure.
 - **March 11, 2026:** Nick and Andrew onboarded to web/app project; BFF (Backend for Frontend) already exists with GraphQL router powering 95% of leaderboard requirements; Andrew focused on ViewLift SDK and OTT components; secured test environment to be set up for ViewLift player validation
 - **March 11, 2026:** Lewis/Matt 1:1 identified three strategic product buckets: event experiences (player tracking, interactive maps), stats hub relaunch, and native ticketing via Fever SDK. Lewis frustrated with manual content work; automation of repeatable event experiences prioritised post-launch
 - **March 10, 2026:** South Africa live testing designated as priority phase for leaderboard and video functionality before Virginia cutover; parallel infrastructure testing proved successful in Hong Kong
@@ -58,6 +60,8 @@ The app successfully launched in Riyadh despite significant technical challenges
 ### Meeting History
 | Date | Meeting | Key Outcome |
 |------|---------|-------------|
+| 2026-03-19 | [Lewis / Matt 1:1](../meetings/2026/2026-03-19-lewis-1-1.md) | Round status management doc; design system debt (historical scores, remaining holes); Aaron design support confirmed |
+| 2026-03-18 | [David 1:1](../meetings/2026/2026-03-18-david-1-1.md) | Feedback pipeline established; UX issues catalogued; Aaron onboarded; balanced sprint structure needed |
 | 2026-03-11 | [Ways of Working Chat w Fantasy Co](../meetings/2026/2026-03-11-ways-of-working-chat-fantasy.md) | Ways of working alignment with Fantasy Co team |
 | 2026-03-11 | [Apex Web: Nick and Andrew Onboarding](../meetings/2026/2026-03-11-apex-web-nick-andrew-onboarding.md) | BFF status; ViewLift SDK focus; live event testing requirements |
 | 2026-03-11 | [Lewis / Matt 1:1](../meetings/2026/2026-03-11-lewis-matt-1-1.md) | Product strategy buckets; Denise departure; automation priority |

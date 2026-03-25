@@ -57,6 +57,7 @@ One doc per person with running 1:1 notes, key themes, talking points, and inter
 | Jimmy Nolan | Gamification & Fan Activations Lead | [jimmy-nolan.md](jimmy-nolan.md) |
 | Haley Chen | Product Manager / Fantasy Product Lead | [haley-chen.md](haley-chen.md) |
 | Catherine Chang | Operations Lead | [catherine-chang.md](catherine-chang.md) |
+| Jess Harless | Chief People Officer / HR Lead | [jess-harless.md](jess-harless.md) |
 | Liz Lindley | Einhorn Barbarito (Advertising Agency) | [liz-lindley.md](liz-lindley.md) |
 
 ## Vendors & Partners

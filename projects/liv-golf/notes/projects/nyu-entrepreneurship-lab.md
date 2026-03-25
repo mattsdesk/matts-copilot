@@ -1,7 +1,7 @@
 # NYU Entrepreneurship Lab
 
 **Status:** 🟢 On Track
-**Last updated:** 2026-03-11
+**Last updated:** 2026-03-25
 **Key people:** Matt Saunders, Ashish Bhatia, Raf, Bella Pierre, Alfonsina, Stephen, Mr. Batia, Jesse
 
 ---
@@ -11,7 +11,7 @@
 
 | Component | Status | Owner | Notes |
 |-----------|--------|-------|-------|
-| Digital Subscription Strategy | 🟢 On Track | Ashish / Matt | Survey in progress; results expected before South Africa |
+| Digital Subscription Strategy | 🟢 On Track | Ashish / Matt | Survey complete (15 responses); consolidating to 3 tiers; April 28 target presentation |
 | Merchandise Strategy (Merch Box) | 🟢 On Track | Bella / Matt | P&L complete; mixed-team boxes recommended; ~$255 retail |
 
 ---
@@ -24,7 +24,7 @@
 Develop viable digital subscription and merchandise strategy for regional LIV Golf fan bases through student-driven research and testing, with potential for market implementation.
 
 ### Status
-The sprint is well underway as of March 11. Survey rollout is on track with results expected by end of next week (before South Africa). The team has completed P&L research, box pricing analysis (recommended: mixed teams, not team-specific, ~$255 retail), and regional fan insights. Australia (89% already streaming subscribers) is identified as the primary launch market. Financial model targets 50,000 addressable users, 5,000 Year 1 subscribers (10% capture), with a 20% gross margin floor. Video production cost estimates range $14K–$33K per video. A product point of view document is being developed based on survey results and P&L constraints.
+The sprint is on track heading into the final stretch. Survey results are in (15 responses from spring break). Key findings: fans want merch discounts and exclusive streaming content; behind-the-scenes access and early content release ranked highly. Subscription tier structure being revised from 4 tiers to 3 (Free, mid, premium) — the Par tier lacked sufficient value and fewer choices simplify conversion. Target final presentation is the week of April 28 (after Mexico, before Virginia). Three key deliverables: executive summary, interactive P&L spreadsheet with adjustable assumptions, and a presentation deck. Practice runs targeted for the week of Mexico (~March 30). Stakeholder identification session with Bella to be scheduled next week.
 
 ### Key Decisions
 - **March 11, 2026:** Mixed-team merch boxes recommended over team-specific (avoids sponsorship pricing disparities)
@@ -34,9 +34,10 @@ The sprint is well underway as of March 11. Survey rollout is on track with resu
 - **January 13, 2026:** Scope: subscription product, merch box P&L, regional customization, customer research
 
 ### Open Questions
-- What are specific deliverables for sprint 1 vs. sprint 2 (before/after spring break)?
+- Finalise subscription tier structure — consolidate 4 tiers to 3; which benefits sit at which tier?
+- Await Jesse's pricing validation and survey insights
 - How will player contract implications be handled for video production?
-- What is the Matt/Jesse cost sanity check timeline (spring break)?
+- Which stakeholders need pre-meeting side conversations before the April 28 presentation?
 
 ---
 ---
@@ -46,12 +47,14 @@ The sprint is well underway as of March 11. Survey rollout is on track with resu
 *The section below tracks incremental progress, meeting history, and granular action items.*
 
 ### Recent Updates
+- **March 25, 2026:** Student check-in held during spring break. South Africa event recap: 100K attendance, strong broadcast quality, 11 LIV players qualified for Masters. Survey returned 15 responses — fans prioritise merch discounts and exclusive streaming content; behind-the-scenes and early access content ranked highly. Sweepstakes idea (game-worn mystery boxes for subscribers) noted. Tier structure consolidation recommended: 4 → 3 (streaming on lower tiers, physical merch on higher tiers only). Target presentation week of April 28. Three deliverables: exec summary, interactive P&L, deck. Practice runs targeted for Mexico week. Bella to coordinate stakeholder meetings next week.
 - **March 11, 2026:** Weekly sync held — meeting shifted 15 mins due to LIV Golf org change announcement. Survey on track; results expected before South Africa event. P&L research complete: Four Aces highest sponsorship volume, box pricing ~$255 retail, mixed-team boxes recommended. Regional insights: Australia 89% streaming subscribers (primary market), Hong Kong prefers group sharing. Financial targets set: 50K TAM, 5K Year 1 capture, 20% gross margin floor. Bella to book shipping/customs vendor demo. Matt/Jesse to sanity-check costs during spring break.
 - **January 13, 2026:** Digital subscription/merchandise project selected; two-sprint format approved; customer research to include event attendee interviews and non-converted fan analysis
 
 ### Meeting History
 | Date | Meeting | Key Outcome |
 |------|---------|-------------|
+| 2026-03-25 | [NYU Student Check In](../meetings/2026/2026-03-25-nyu-student-check-in.md) | Survey results in; tier consolidation to 3; April 28 target; 3 deliverables defined |
 | 2026-03-11 | [NYU Team Weekly Sync](../meetings/2026/2026-03-11-nyu-team-weekly-sync.md) | Survey on track; P&L research complete; Australia primary market; financial model set |
 | 2026-01-13 | [NYC Entrepreneurship Lab & LIV Golf](../meetings/2026/2026-01-13-nyc-entrepreneurship-lab-liv-golf.md) | Digital subscription/merch project; two-sprint format; weekly Wednesday meetings |
 

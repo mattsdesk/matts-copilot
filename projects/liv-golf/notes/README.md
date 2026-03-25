@@ -43,14 +43,17 @@ Each meeting note includes:
 | [Legacy Web](projects/legacy-web.md) | 🟡 At Risk | 2026-03-12 |
 | [Fantasy Game](projects/fantasy-game.md) | 🟡 At Risk | 2026-03-11 |
 | [Streaming](projects/streaming.md) | 🟡 At Risk | 2026-03-19 |
-| [NYU Entrepreneurship Lab](projects/nyu-entrepreneurship-lab.md) | 🟢 On Track | 2026-03-11 |
-| [Personal Projects](projects/personal-projects.md) | 🟢 On Track | 2026-03-12 |
-| [Misc](projects/misc.md) | 🟡 At Risk | 2026-03-20 |
+| [NYU Entrepreneurship Lab](projects/nyu-entrepreneurship-lab.md) | 🟢 On Track | 2026-03-25 |
+| [Personal Projects](projects/personal-projects.md) | 🟢 On Track | 2026-03-25 |
+| [Misc](projects/misc.md) | 🟡 At Risk | 2026-03-25 |
 
 ## Meetings Index
 
 | Date | Title | Key Topics |
 |---|---|---|
+| 2026-03-25 | [Brandy Deep Dive (SXM)](meetings/2026/2026-03-25-brandy-deep-dive-sxm.md) | SiriusXM deeper interview round; management philosophy; team development needs |
+| 2026-03-25 | [NYU Student Check In](meetings/2026/2026-03-25-nyu-student-check-in.md) | Survey results; subscription tier consolidation to 3; April 28 target presentation; SA event recap |
+| 2026-03-24 | [Jess Harless 1:1](meetings/2026/2026-03-24-jess-harless-1-1.md) | Jade termination date being set; Arthur job security joke (Fabian incident); travel recovery |
 | 2026-03-20 | [Katherine 1:1](meetings/2026/2026-03-20-katherine-1-1.md) | Denise departure timeline; Delta Tray termination; Jade HR escalation; Pulse Live vs GlobalLogic; web scope; Sergio leaving |
 | 2026-03-19 | [Lewis 1:1](meetings/2026/2026-03-19-lewis-1-1.md) | Mexico pressure; feature cuts confirmed; Delta Tray legal trigger; LivX relaunch; vendor search |
 | 2026-03-18 | [Jade Conversation about Email](meetings/2026/2026-03-18-jade-conversation-about-email.md) | Email misalignment; team clarity gap; Denise departure announced; vendor transition |

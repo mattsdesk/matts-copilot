@@ -3,7 +3,8 @@
 **Role:** Senior Product Manager
 **Organisation:** LIV Golf
 **Relationship:** Direct report
-**Last interaction:** March 10, 2026
+**Last interaction:** March 24, 2026
+*(discussed in Jess Harless 1:1)*
 
 ---
 
@@ -13,6 +14,7 @@ Arthur is a key operations and data leader responsible for event-on-site support
 
 ## Key Themes
 
+- **Highly valued and secure** — Confirmed by Denise and Matt; multiple prior conversations reinforce his strong position. Typical nervous reaction to jokes/uncertainty is his style, not a sign of real concern.
 - **Proactive problem-solving** — Takes initiative on CTV authentication testing, validation, and requirements gathering
 - **Operations readiness** — Primary operations lead for Hong Kong/Singapore coverage; time zone alignment perfect for late-night US / early UK support
 - **Enterprise system integration** — Works on Vario relationships, player data management, and Salesforce synergy
@@ -37,6 +39,7 @@ Arthur is a key operations and data leader responsible for event-on-site support
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-03-24 | [Jess Harless 1:1](../meetings/2026/2026-03-24-jess-harless-1-1.md) | Job security joke incident reviewed; Fabian was most uncomfortable (not Arthur); situation resolved; Arthur's position confirmed secure |
 | 2026-01-12 | [Barry / Matt](../meetings/2026/2026-01-12-barry-matt.md) | CTV auth issues, testing & validation with Barry, VIP account cards for Riyadh |
 | 2026-01-14 | [Event Reporting Automation Chat](../meetings/2026/2026-01-14-event-reporting-automation-chat.md) | Event analytics automation, data warehouse coordination, manual reporting process |
 | 2026-01-16 | [Apex Demo Meeting](../meetings/2026/2026-01-16-apex-demo-meeting.md) | TestFlight access resolution, production content upload, staging env sync |
