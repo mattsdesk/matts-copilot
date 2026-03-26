@@ -76,6 +76,12 @@ One doc per person with running 1:1 notes, key themes, talking points, and inter
 | Manik Mathur | ViewLift | [manik-mathur.md](manik-mathur.md) |
 | Ashish Bhatia | GlobalLogic | [ashish-bhatia.md](ashish-bhatia.md) |
 
+## External — Career / Personal
+
+| Person | Organisation | Notes | File |
+|--------|-------------|-------|------|
+| Brandy (SXM) | SiriusXM | Hiring manager, VP Product role — 2 interview rounds completed | [brandy-sxm.md](brandy-sxm.md) |
+
 ## Hiring
 
 | File | Role |

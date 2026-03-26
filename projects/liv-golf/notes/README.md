@@ -38,10 +38,10 @@ Each meeting note includes:
 
 | Project | Status | Last Updated |
 |---------|--------|-------------|
-| [Apex App](projects/apex-app.md) | 🟢 On Track | 2026-03-11 |
+| [Apex App](projects/apex-app.md) | 🟢 On Track | 2026-03-19 |
 | [Apex Web](projects/apex-web.md) | 🔴 Blocked | 2026-03-20 |
-| [Legacy Web](projects/legacy-web.md) | 🟡 At Risk | 2026-03-12 |
-| [Fantasy Game](projects/fantasy-game.md) | 🟡 At Risk | 2026-03-11 |
+| [Legacy Web](projects/legacy-web.md) | 🟡 At Risk | 2026-03-25 |
+| [Fantasy Game](projects/fantasy-game.md) | 🟡 At Risk | 2026-03-19 |
 | [Streaming](projects/streaming.md) | 🟡 At Risk | 2026-03-19 |
 | [NYU Entrepreneurship Lab](projects/nyu-entrepreneurship-lab.md) | 🟢 On Track | 2026-03-25 |
 | [Personal Projects](projects/personal-projects.md) | 🟢 On Track | 2026-03-25 |
