@@ -3,7 +3,7 @@
 **Role:** Senior Product Lead
 **Organisation:** LIV Golf
 **Relationship:** Direct report
-**Last interaction:** March 19, 2026
+**Last interaction:** March 27, 2026
 
 ---
 
@@ -40,6 +40,10 @@ Lewis is a core technical leader responsible for platform stability, development
 
 *Running log of key points from each 1:1 — most recent first.*
 
+### 2026-03-27 — [EXT] LIV Golf Web Sync
+
+Lewis is part of the content migration team handling 99% of configurations (alongside Arthur, Matt, Frank, Lean, John). Brian and Mike providing editorial audit support. Jesse's team unlikely to provide substantial support on content migration. All-hands approach planned once CMS pages pass UAT; new content agency being explored for email/events. Launch criteria gap still unresolved — follow-up meeting needed to align.
+
 ### 2026-03-19 — Lewis 1:1
 
 Lewis now doing daily reviews with Haley — acting as sounding board, catching edge cases, building shared understanding of the data. Devs are more efficient. Still not in stand-ups but the middle ground is working. Leaderboard testing running on local machines, not yet on dev build — needs to move before Mexico. Video testing went well with one buffering issue to investigate. Denise is pushing hard for a Mexico launch; Matt's read is that it's likely her last event before departure (hinting at going back to a previous company). Feature cuts are now unavoidable — prioritise messaging, video, leaderboard, shot callback; Teams and HE executives will be most vocal. Delta Tray needs Denise to trigger the legal process next week. Fantasy contract through mid-May; shortlist is GlobalLogic (24 headcount) and Denise's Post Live exploration. Front-end engineering leader hired (visa delaying start). Aaron on board as design support. LivX relaunch by Jim — membership auto with account creation; gaming/fantasy under LivX; streaming not included. Matt working with NYU on multi-format subscription research.
@@ -56,6 +60,7 @@ Denise departing in coming months; team not surprised. Foundation phase nearly c
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-03-27 | [[EXT] LIV Golf Web Sync](../meetings/2026/2026-03-27-liv-golf-web-sync.md) | Content migration team confirmed; Lewis handling 99% of configs with Arthur/Matt/Frank/Lean/John |
 | 2026-03-20 | [Katherine 1:1](../meetings/2026/2026-03-20-katherine-1-1.md) | Discussed via Katherine — separating from Jade should help rehabilitation; focus narrowing to golf/data products |
 | 2026-03-19 | [Lewis 1:1](../meetings/2026/2026-03-19-lewis-1-1.md) | Mexico pressure; feature cuts confirmed; daily reviews working; Delta Tray legal trigger needed; LivX relaunch |
 | 2026-03-13 | [Katherine / Matt Catch Up & Nick/Jesse Catch Up](../meetings/2026/2026-03-13-katherine-matt-catch-up.md) | Discussed in context — creating friction during hotfix; Matt to send message about process focus |

@@ -2,7 +2,7 @@
 
 **Status:** 🔴 Blocked
 **Owner:** Matt Saunders
-**Last updated:** 2026-03-20
+**Last updated:** 2026-03-27
 
 ---
 
@@ -10,9 +10,9 @@
 
 | Component | Status | Owner | Notes |
 |-----------|--------|-------|-------|
-| Leaderboard | 🟡 At Risk | Lewis / Nick / Fantasy Co | Leaderboard DS integration 95% complete; testing on local machines, not dev build yet; needs dev build deployment before Mexico |
-| Viewing Experience (VOD/Livestream) | 🟡 At Risk | Andrew / Fantasy Co | Video testing went well; one buffering issue to investigate; dev build receiving video data for South Africa confidence testing |
-| CMS & Design System | 🟡 At Risk | Steve / Fantasy Co | DS delivery first week of April; content population starting week of Mar 23; URL redirect mapping due Apr 3 |
+| Leaderboard | 🟡 At Risk | Lewis / Nick / Fantasy Co | Reaching parity post-South Africa; leaderboard/scorecard functionality required for cutover (no Delta Tray fallback) |
+| Viewing Experience (VOD/Livestream) | 🟢 On Track | Andrew / Fantasy Co | Video streaming parity achieved; more stable than app SDK implementation; path-to-air testing April 7 & 13 (48-hr windows) |
+| CMS & Design System | 🟡 At Risk | Steve / Fantasy Co | Content team finalized (Lewis, Arthur, Matt, Frank, Lean, John); player/team pages not available until week of April 13; URL redirect mapping due Apr 3 |
 | LIV Golf Music Page | ⏳ Pending | Lewis | New request ahead of Live Nation announcement; needs decision |
 | OKGC Rebrand Integration | 🟡 At Risk | — | April 21 deadline; impacts theming/web readiness |
 | Fantasy Co Vendor Management | 🟡 At Risk | Matt / Katherine | Fantasy Co not preferred; GlobalLogic vs Pulse Live (England-based, cheaper); Pulse Live proposal due Monday; side-by-side comparison then decision |
@@ -25,7 +25,7 @@
 Launch a stable, responsive LIV Golf website with leaderboard and streaming as core features before the May 4 Virginia/DC event.
 
 ### Status
-South Africa testing is live — leaderboard and video data feeding into dev build for confidence testing. Denise is pushing hard for a Mexico launch (week of March 30), arguing it will be her last event before departure (likely end of April). There is no consensus on exact launch date: Denise wants beginning of week, Fantasy prefers Saturday post-testing. No new vendor decision yet; GlobalLogic (24 headcount) and Pulse Live are the top candidates, with a Friday decision meeting scheduled. Content population begins the week of March 23; URL redirect mapping due April 3. Outstanding December invoice stuck in finance approval; backlog contract awaiting Denise signature. Feature cuts are now expected — critical path is messaging delivery, live video, leaderboard data, and shot callback.
+South Africa testing complete; leaderboard and video reaching parity. There remains a material gap between Denise's push for a pre-Mexico City launch and the development team's assessment that testing during Mexico then launching before Virginia is the safer path. Player/team pages won't be available until the week of April 13, and 50+ pieces of content require QA across all devices. Cutover requirements documentation is underway; rollback scenarios (DNS TTL reduction, CloudFlare routing, load balancer traffic shifting) are being developed. Path-to-air testing scheduled for April 7 and 13 (full SA event replay, 48-hour windows). Delta Tray fallback still required regardless of which launch approach is chosen. Content migration team structure finalized; all-hands approach planned once CMS pages pass UAT.
 
 ### Key Decisions
 - **March 19, 2026:** Feature cuts confirmed as inevitable for Mexico; critical path prioritised (messaging, video, leaderboard, shot callback)
@@ -59,6 +59,7 @@ South Africa testing is live — leaderboard and video data feeding into dev bui
 ## Tactical Detail
 
 ### Recent Updates
+- **March 27, 2026:** LIV Golf Web Sync (with Steve, Nick, Andrew, Lewis, Lisa, Yorick) — leadership-dev gap persists: Denise pushing pre-Mexico launch, team recommends testing during Mexico then launching before Virginia. Player/team pages not ready until week of April 13; 50+ content pieces need QA. Path-to-air testing confirmed for April 7 and 13 (48-hr windows, SA event replay). Video streaming parity achieved — more stable than app SDK. Rollback plan in progress (DNS TTL, CloudFlare, load balancer). Cutover requirements being documented; Delta Tray fallback still required. Priority framework needed for production issues vs roadmap.
 - **March 20, 2026:** Katherine 1:1 — Denise pushing pre-Mexico web launch despite technical concerns; scope reduction planning underway; critical path confirmed as leaderboard data, team sites, and press releases. Pulse Live proposal due Monday; Fantasy Co not preferred; GlobalLogic vs Pulse Live decision expected early next week. Delta Tray termination letter going out within the week (60-day notice clause). Matt unavailable March 25–April 6.
 - **March 19, 2026:** Lewis 1:1 — leaderboard testing running on local machines, not yet on dev build. Denise pushing hard for Mexico launch (likely her last event before departure). Delta Tray legal trigger needs Denise to action next week. Feature cuts confirmed inevitable; critical path is messaging, video, leaderboard, shot callback. Global Logic 24-headcount proposal vs Fantasy's 5; front-end engineering leader hired (visa pending). Aaron hired as additional design support. LivX relaunch by Jim: auto-membership with account creation; gaming/fantasy under LivX umbrella.
 - **March 18, 2026:** David 1:1 — dev build now receiving leaderboard and video data for South Africa confidence testing. Launch window narrowed to Mexico week; Denise wants beginning of week, Fantasy prefers Saturday. Content population starts week of March 23; team pages mostly templated; Mexico event assets being created by David/Aaron this week.
@@ -83,6 +84,7 @@ South Africa testing is live — leaderboard and video data feeding into dev bui
 ### Meeting History
 | Date | Meeting | Key Outcome |
 |------|---------|-------------|
+| 2026-03-27 | [[EXT] LIV Golf Web Sync](../meetings/2026/2026-03-27-liv-golf-web-sync.md) | Leadership-dev gap on launch timing; path-to-air testing April 7 & 13; cutover requirements underway; rollback plan in progress |
 | 2026-03-20 | [Katherine 1:1](../meetings/2026/2026-03-20-katherine-1-1.md) | Pre-Mexico launch push; scope reduction (leaderboard, team sites, press releases); Pulse Live proposal Monday; Delta Tray termination |
 | 2026-03-19 | [Lewis 1:1](../meetings/2026/2026-03-19-lewis-1-1.md) | Mexico pressure; feature cuts confirmed; Delta Tray legal trigger; new vendor search; LivX relaunch |
 | 2026-03-18 | [David 1:1](../meetings/2026/2026-03-18-david-1-1.md) | Dev build testing live; content population starts Mar 23; Mexico week launch window |

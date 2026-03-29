@@ -3,7 +3,7 @@
 **Role:** SVP Technology
 **Organisation:** LIV Golf
 **Relationship:** Peer (reports to Denise Taylor)
-**Last interaction:** March 17, 2026
+**Last interaction:** March 27, 2026
 
 ---
 
@@ -34,6 +34,10 @@ Nick is the enterprise and infrastructure technology lead responsible for shared
 
 *Running log of key points from each 1:1 — most recent first.*
 
+### 2026-03-27 — [EXT] LIV Golf Web Sync
+
+Web sync with Steve, Andrew, Lewis, Lisa, and Yorick. Leadership-vs-dev gap on launch timing remains: Denise wants pre-Mexico launch, dev team recommends testing during Mexico then launching before Virginia. Nick was present as the infrastructure/infra anchor. Rollback planning underway — DNS TTL reduction, CloudFlare routing, and load balancer traffic shifting all being explored. Cutover requirements documentation progressing; leaderboard/scorecard required at cutover (no Delta Tray fallback for leaderboard). Simulator documentation expected April 3–4.
+
 ### 2026-03-17 — Nick 1:1
 
 South Africa launch timing still uncertain — simulation test may clarify. Content creation is a bottleneck: Denise wants external team to handle but they lack internal knowledge needed for Duels/Four Aces pages; Nick working with Jesse on solution. Fantasy contract through mid-May; vendor shortlist is GlobalLogic and Pulse Live (Denise exploring through Sony connections). Nick's read on Pulse Live: pros are sports experience and brand relationship, cons are proprietary CMS/tech stack and agency model risk. Agency model typically leads to 3-year cycle (happy → plateau → churn) vs augmentation's faster velocity. Denise departure likely before end of April. Julian offer extended and accepted — 3-month transition, in-person onboarding visit needed. Lewis professional maturity concerns raised independently: process over execution, bypassing management to reset roles with Arthur and Leah, complainy mood. Google Analytics paid licence needed (~$40k, no budget line yet; marketing budget potential option). 25% budget cuts across teams.
@@ -46,6 +50,7 @@ South Africa launch timing still uncertain — simulation test may clarify. Cont
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-03-27 | [[EXT] LIV Golf Web Sync](../meetings/2026/2026-03-27-liv-golf-web-sync.md) | Launch timing gap; rollback planning; cutover requirements; simulator docs April 3–4 |
 | 2026-03-17 | [Nick 1:1](../meetings/2026/2026-03-17-nick-1-1.md) | Content bottleneck; vendor shortlist; Julian accepted; budget pressures; Lewis concerns |
 | 2026-01-12 | [Barry / Matt](../meetings/2026/2026-01-12-barry-matt.md) | CRM strategy workshop with Nick, foundational pieces by end of January |
 | 2026-01-20 | [GlobalLogic's Role in Hitachi Transformation](../meetings/2026/2026-01-20-globallogic-hitachi-transformation.md) | GlobalLogic team introduction and AI/SDLC leader meeting pending |

@@ -3,7 +3,7 @@
 **Role:** Tech Lead / Engineering Lead
 **Organisation:** Fantasy Co (LatitudeGo)
 **Relationship:** Vendor / Partner
-**Last interaction:** March 12, 2026
+**Last interaction:** March 27, 2026
 
 ---
 
@@ -34,10 +34,15 @@ Steve is the tech lead for Fantasy Co responsible for day-to-day engineering del
 
 *Running log of key points from each 1:1 — most recent first.*
 
+### 2026-03-27 — [EXT] LIV Golf Web Sync
+
+Steve participating in the multi-stakeholder web sync. Team presented the case for testing during Mexico and launching before Virginia rather than the pre-Mexico approach Denise is pushing. Rollback planning underway; cutover requirements being documented. Steve's team responsible for simulator documentation (due April 3–4). Video streaming parity now achieved on web — more stable than app SDK. 20% incomplete features may slow further development once team shifts to reactive production bug fixes.
+
 ## Interaction History
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-03-27 | [[EXT] LIV Golf Web Sync](../meetings/2026/2026-03-27-liv-golf-web-sync.md) | Launch timing debate; rollback planning; simulator docs due April 3–4; video parity achieved |
 | 2026-03-03 | [Firdosh/Steve Chat about Timelines](../meetings/2026/2026-03-03-firdosh-steve-chat-timelines.md) | App launch strategy, TestFlight readiness, web timeline discussion |
 | 2026-03-10 | [Sync on Updated Deck](../meetings/2026/2026-03-10-sync-on-updated-deck.md) | Technical examples for complexity (29 themes, Riyadh bugs), development process |
 | 2026-03-12 | [Denise × Russell & Firdosh // Project Apex Check-in](../meetings/2026/2026-03-12-denise-russell-firdosh-apex-check-in.md) | Video player testing ownership; three-phase plan |

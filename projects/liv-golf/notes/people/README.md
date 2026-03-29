@@ -81,6 +81,7 @@ One doc per person with running 1:1 notes, key themes, talking points, and inter
 | Person | Organisation | Notes | File |
 |--------|-------------|-------|------|
 | Brandy (SXM) | SiriusXM | Hiring manager, VP Product role — 2 interview rounds completed | [brandy-sxm.md](brandy-sxm.md) |
+| Alissa Hascup | Einhorn Barbarito | Partner (criminal & juvenile law) — personal consulting engagement | [alissa-hascup.md](alissa-hascup.md) |
 
 ## Hiring
 

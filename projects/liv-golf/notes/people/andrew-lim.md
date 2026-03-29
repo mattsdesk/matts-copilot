@@ -3,7 +3,7 @@
 **Role:** Event Analytics & Infrastructure Support
 **Organisation:** LIV Golf
 **Relationship:** Direct report
-**Last interaction:** March 13, 2026
+**Last interaction:** March 27, 2026
 
 ---
 
@@ -30,13 +30,17 @@ Andrew is a technical infrastructure specialist responsible for event reporting 
 - Provide ViewLift SDK integration support for web launch
 - Set up test environment for ViewLift player validation
 - Support live event testing across upcoming tournaments
-- Lead path-to-air testing between South Africa and Mexico (with Arthur, Clark, Steve)
+- Lead path-to-air testing: April 7 and 13 (48-hr windows, SA event replay rounds 3–4 including playoffs)
 - Support Moby expense tracking investigation
-- Connect with Steve on path-to-air testing timeline
+- Deliver/review simulator documentation by April 3–4
 
 ## 1:1 Notes
 
 *Running log of key points from each 1:1 — most recent first.*
+
+### 2026-03-27 — [EXT] LIV Golf Web Sync
+
+Path-to-air testing now formally scheduled: April 7 and 13 (both Mondays), running full South Africa event replay (rounds 3–4 including playoffs) as 48-hour continuous windows. Fantasy team + LIV internal testing focus. Video streaming parity achieved — more stable than the app SDK implementation. Leaderboard/scorecard data also reaching parity post-South Africa. Simulator documentation expected April 3–4. Andrew's path-to-air planning now has clear dates and scope.
 
 ### 2026-03-13 — Andrew / Matt
 
@@ -46,6 +50,7 @@ Andrew at ~75% strength after health challenges; lost body mass/muscle but recov
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-03-27 | [[EXT] LIV Golf Web Sync](../meetings/2026/2026-03-27-liv-golf-web-sync.md) | Path-to-air testing confirmed April 7 & 13; video parity achieved; leaderboard parity post-SA |
 | 2026-03-13 | [Andrew / Matt](../meetings/2026/2026-03-13-andrew-matt.md) | Health update; Moby billing concerns; OTT operations continuity; path-to-air testing plan |
 | 2026-03-11 | [Apex Web: Nick and Andrew Onboarding](../meetings/2026/2026-03-11-apex-web-nick-andrew-onboarding.md) | Leaderboard implementation, testing challenges, ViewLift integration focus |
 | 2026-03-10 | [Web Cutover Plan w/ Denise, Nick, Andrew](../meetings/2026/2026-03-10-web-cutover-plan-denise-nick-andrew.md) | Web cutover strategy, leaderboard priorities, ViewLift coordination |
