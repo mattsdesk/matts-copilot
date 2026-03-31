@@ -29,21 +29,29 @@
 
 ---
 
-## Einhorn
+## Montclair Digital
+*Matt's freelance/side business. Clients: Einhorn, Flyosophy.*
 
-### Active
+### Einhorn
+
+#### Active
 - [ ] **Confirm conversion tracking on Google tags** -- tags live on site but conversion tracking not confirmed; priority before next review
 - [ ] **PI practice area direction (Dennis)** -- SEO starting practice area still unresolved; hold until Dennis feedback
 - [ ] **Scope Alissa Hascup engagement** -- criminal group expansion; structure (separate vs. existing engagement) TBD
 - [ ] **Evaluate moving away from Liz for digital/SEO content** -- Mat doesn't want her involved; find replacement path
-- [ ] **Steve + Mat personal sites** -- attorney brand sites; Matt vibe-coded a draft; needs to be sent with right framing
+- [ ] **Steve + Mat personal sites** -- attorney brand sites; Matt vibe-coded drafts; needs to be sent with right framing
 
-### Waiting On
+#### Waiting On
 - [ ] **Alissa SEO specialist coordination** -- wait for sites to show movement; then schedule coordination call
 - [ ] **Alissa: personal sites SEO rebuild timeline** -- she's giving her SEO specialist 1-2 months first
 
-### Someday
+#### Someday
 - [ ] **Website path (non-Liz)** -- Mat doesn't want Liz involved; no Instagram; need to plan next steps eventually
+
+### Flyosophy (Mara Scott)
+
+#### Active
+- [ ] **Flyosophy reconnect call -- Wednesday April 8** -- delay was on Mara's side; get remaining notes for site 1; brief for site 2 (studio); explore moving off Squarespace to custom build
 
 ---
 
