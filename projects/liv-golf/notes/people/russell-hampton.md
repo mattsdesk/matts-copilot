@@ -3,7 +3,7 @@
 **Role:** Team Lead / Project Manager
 **Organisation:** Fantasy Co (LatitudeGo)
 **Relationship:** Vendor / Partner
-**Last interaction:** March 12, 2026
+**Last interaction:** 2026-04-01
 
 ---
 
@@ -32,6 +32,7 @@ Russell is a team lead or project manager at Fantasy Co involved in web platform
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-04-01 | [Denise Web Cutover Meeting](../meetings/2026/2026-04-01-denise-web-cutover-meeting.md) | Co-sent exec timeline deck (with Steve and Firdosh) — being cross-checked; FantasyCo to share Mexico timeline by Monday |
 | 2026-03-12 | [Denise × Russell & Firdosh // Project Apex Check-in](../meetings/2026/2026-03-12-denise-russell-firdosh-apex-check-in.md) | Apex web status; board pressure; three-phase testing plan |
 | 2026-03-10 | [Sync on Updated Deck](../meetings/2026/2026-03-10-sync-on-updated-deck.md) | Web project coordination, timeline discussion |
 

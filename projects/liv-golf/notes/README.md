@@ -39,11 +39,11 @@ Each meeting note includes:
 | Project | Status | Last Updated |
 |---------|--------|-------------|
 | [Apex App](projects/apex-app.md) | 🟢 On Track | 2026-03-19 |
-| [Apex Web](projects/apex-web.md) | 🔴 Blocked | 2026-03-27 |
+| [Apex Web](projects/apex-web.md) | 🔴 Blocked | 2026-04-01 |
 | [Legacy Web](projects/legacy-web.md) | 🟡 At Risk | 2026-03-25 |
 | [Fantasy Game](projects/fantasy-game.md) | 🟡 At Risk | 2026-03-19 |
 | [Streaming](projects/streaming.md) | 🟡 At Risk | 2026-03-19 |
-| [NYU Entrepreneurship Lab](projects/nyu-entrepreneurship-lab.md) | 🟢 On Track | 2026-03-25 |
+| [NYU Entrepreneurship Lab](projects/nyu-entrepreneurship-lab.md) | 🟢 On Track | 2026-04-01 |
 | [Personal Projects](projects/personal-projects.md) | 🟢 On Track | 2026-03-27 |
 | [Misc](projects/misc.md) | 🟡 At Risk | 2026-03-25 |
 
@@ -51,6 +51,9 @@ Each meeting note includes:
 
 | Date | Title | Key Topics |
 |---|---|---|
+| 2026-04-01 | [[EXT] Project Apex \| Alignment with Matt](meetings/2026/2026-04-01-project-apex-alignment-with-matt.md) | Vendor alignment: content migration scope dispute; three features at risk for Mexico (microsites, ads, where-to-watch); 50% dev diversion risk; Firdosh to draft email to Denise |
+| 2026-04-01 | [Denise Web Cutover Meeting](meetings/2026/2026-04-01-denise-web-cutover-meeting.md) | Mexico City confirmed as cutover target; CMS authoring blocked until ~Apr 6; FantasyCo content ownership misalignment; D3 migration unblocked; team microsites exclusion rejected |
+| 2026-04-01 | [NYU Class Session](meetings/2026/2026-04-01-nyu-class-session.md) | P&L and business plan complete; presentation narrative agreed; Bella leads exec prep next week; April 28 target |
 | 2026-03-27 | [[EXT] LIV Golf Web Sync](meetings/2026/2026-03-27-liv-golf-web-sync.md) | Leadership-dev gap on launch timing; path-to-air testing April 7 & 13; cutover requirements; rollback planning |
 | 2026-03-27 | [Alissa Hascup Intro Call](meetings/2026/2026-03-27-alissa-hascup-intro-call.md) | Einhorn partner consulting; three-phase lead gen strategy; video content opportunity; SEO rebuild in progress |
 | 2026-03-25 | [Brandy Deep Dive (SXM)](meetings/2026/2026-03-25-brandy-deep-dive-sxm.md) | SiriusXM deeper interview round; management philosophy; team development needs |

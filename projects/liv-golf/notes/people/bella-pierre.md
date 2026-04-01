@@ -3,7 +3,7 @@
 **Role:** Project Coordinator
 **Organisation:** LIV Golf
 **Relationship:** Reports to Denise Taylor
-**Last interaction:** January 21, 2026
+**Last interaction:** 2026-04-01
 
 ---
 
@@ -17,15 +17,18 @@ Bella is a design and brand leader responsible for visual content, imagery, bran
 - **Event-specific branding** — Responsible for regional color schemes (Adelaide retaining green for SATC equity), event imagery, and schedule page displays
 - **Content asset coordination** — Manages player headshots, team logos, hero carousels, and event-specific visual elements
 - **Rapid response capability** — Quick to update materials and respond to branding feedback (e.g., Fantasy Golf hero image, Riyadh schedule page disaster fix)
+- **NYU Lab exec presentation** — Assigned to lead executive messaging session next week; helping with exec audience identification and LIV X narrative threading
 
 ## Talking Points
 *Topics to raise in next interaction.*
 
 ## Open Items
 
+- Lead executive messaging and presentation prep session next week (NYU Lab)
+- Coordinate exec audience list for April 28 presentation with Matt this week and next
+- Flag if chairman visit affects availability
 - Update Fantasy Golf hero image and priority player stars (Bryson primary, Jon Rahm, Niemann)
 - Event badging consistency across website and digital properties
-- Coordinate with social team on Adelaide concert event materials
 
 ## 1:1 Notes
 
@@ -35,8 +38,9 @@ Bella is a design and brand leader responsible for visual content, imagery, bran
 
 | Date | Meeting | Notes |
 |------|---------|-------|
-| 2026-01-13 | [NYC Entrepreneurship Lab & LIV Golf](../meetings/2026/2026-01-13-nyc-entrepreneurship-lab-liv-golf.md) | Partner engagement, NYU project scoping |
+| 2026-04-01 | [NYU Class Session](../meetings/2026/2026-04-01-nyu-class-session.md) | Assigned to lead exec messaging prep next week; helping with audience identification and LIV X narrative |
 | 2026-01-21 | [Quick Sync w/ Denise and Team](../meetings/2026/2026-01-21-quick-sync-denise-and-team.md) | Fantasy Golf branding, event badging implementation, hero image updates |
+| 2026-01-13 | [NYC Entrepreneurship Lab & LIV Golf](../meetings/2026/2026-01-13-nyc-entrepreneurship-lab-liv-golf.md) | Partner engagement, NYU project scoping |
 
 ---
 

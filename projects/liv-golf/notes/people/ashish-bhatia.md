@@ -3,7 +3,7 @@
 **Role:** Professor / Lab Director
 **Organisation:** NYU Stern School of Business
 **Relationship:** External Partner
-**Last interaction:** 2026-03-25
+**Last interaction:** 2026-04-01
 
 ---
 
@@ -16,18 +16,19 @@ Ashish Bhatia is a professor at NYU Stern who runs the NYC Entrepreneurship Lab,
 - **Experiential learning focus** — Balances exploration with execution/testing; not pure consulting (14-week research dump) nor traditional internship (daily grunt work)
 - **Student selection process** — Students rank startup preferences and typically get top 3 choice; provides quality candidate pipeline
 - **Project structure** — Two sprints with bodies of work before/after spring break; weekly Wednesday 9:30 AM meetings (6-7 weeks per sprint)
-- **Reaching final deliverable stage** — Survey complete (15 responses); tier strategy being refined; April 28 target presentation with three deliverables
+- **Reaching final deliverable stage** — P&L and business plan complete; presentation drafting underway; narrative arc agreed; Bella leads exec prep next week; April 28 target
+- **Presentation feedback** — Restarted presentation after his feedback; narrative-first approach agreed ("obvious play" → LIV exclusivity → lottery mechanic → next phase)
 
 ## Talking Points
 *Topics to raise in next interaction.*
 
 ## Open Items
 
-- Finalise subscription tier structure (consolidating from 4 to 3 tiers) — group decision needed
-- Await Jesse's pricing validation and survey data
-- Coordinate stakeholder identification meeting with Bella next week
-- Prepare three deliverables for April 28 presentation: exec summary, interactive P&L, deck
-- Target practice runs for week of Mexico (~March 30)
+- Identify right exec attendees for April 28 presentation (Matt and Bella this week)
+- Await Jesse's survey results to layer into presentation
+- Students to draft two deck versions: full pre-read and lean presentation
+- Students to finalise P&L with sweepstakes costs and zero-cost line items
+- Bella to lead exec messaging session next week
 - Potential second-semester project on physical-to-digital event experiences
 
 ## 1:1 Notes
@@ -38,6 +39,7 @@ Ashish Bhatia is a professor at NYU Stern who runs the NYC Entrepreneurship Lab,
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-04-01 | [NYU Class Session](../meetings/2026/2026-04-01-nyu-class-session.md) | P&L and business plan complete; presentation narrative agreed; exec prep planning |
 | 2026-03-25 | [NYU Student Check In](../meetings/2026/2026-03-25-nyu-student-check-in.md) | Survey results; tier consolidation to 3; April 28 target; SA event recap |
 | 2026-01-13 | [NYC Entrepreneurship Lab & LIV Golf](../meetings/2026/2026-01-13-nyc-entrepreneurship-lab-liv-golf.md) | Lab overview, student process, project selection (digital subscription/merch strategy) |
 

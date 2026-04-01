@@ -2,7 +2,7 @@
 
 > A record of all automated Claude tasks. Use this to recreate your setup on a new machine.
 >
-> **Last updated:** 2026-03-21 (prompts now fully embedded — self-contained for new machine setup)
+> **Last updated:** 2026-04-01 (added daily-brain-dump task)
 
 ---
 
@@ -157,6 +157,58 @@ For each listing include:
 If no listings are found, say so clearly. Do not fabricate listings or URLs.
 
 Save the output as a markdown file and present it to the user using the present_files tool.
+```
+
+---
+
+### `daily-brain-dump`
+
+| Field | Value |
+|-------|-------|
+| **Description** | Weekday 5pm brain dump to capture decisions, learnings, and context from Slack, email, and side conversations into project memory |
+| **Schedule** | Weekdays (Mon-Fri) at 5:00 PM |
+| **Cron** | `0 17 * * 1-5` |
+| **Status** | Enabled |
+| **Prompt file** | `~/Documents/Claude/Scheduled/daily-brain-dump/SKILL.md` |
+
+**Purpose:** End-of-day sync to capture context that doesn't show up in Granola -- Slack threads, email decisions, side conversations. Processes into the right project memory.md files so nothing falls through the cracks.
+
+**Full prompt:**
+
+```
+It's end-of-day brain dump time for Matt Saunders.
+
+Your job is to facilitate a structured brain dump and process the information into the right project memory files.
+
+## Objective
+
+Help Matt capture critical decisions, learnings, and context from today that aren't in Granola meeting notes -- things from Slack, email, side conversations, or in-person discussions. Then write that information into the appropriate memory files.
+
+## Steps
+
+1. **Greet and prompt.** Open with something like: "End of day -- what's on your mind? Walk me through anything from today that I should know about: decisions made, things you learned, open questions, or context that came up outside of meetings."
+
+2. **Let Matt dump freely.** Don't interrupt or structure prematurely. Let him talk through it. Ask one follow-up question at a time if something is vague or needs a project assigned to it.
+
+3. **Organize the input** by project. For each item Matt shares, identify:
+   - Which project it belongs to (check /sessions/hopeful-wizardly-lovelace/mnt/Matt's CoPilot/projects/ for the project list)
+   - Whether it's a fact, a decision, or an open question
+   - Whether it changes anything previously recorded
+
+4. **Update memory files.** For each project affected, append to the Session Log section of the relevant `/projects/[project-name]/memory.md` file. Follow this format:
+   - Date: YYYY-MM-DD
+   - What was learned or decided (tight bullets)
+   - Source: e.g., "Slack with [name]", "Side convo with [name]", "Email from [name]"
+
+5. **Confirm what was written.** After updating, summarize what you captured and where it was stored. Keep it brief.
+
+## Constraints
+
+- Do not overwrite existing memory content -- append only
+- Do not store low-value or redundant information
+- If Matt mentions something that doesn't fit a current project, ask if it warrants a new project or just a note in a general scratchpad
+- Keep the tone conversational but efficient -- Matt prefers direct, concise communication
+- Do not use em dashes or emoji
 ```
 
 ---
