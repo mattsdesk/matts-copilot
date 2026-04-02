@@ -44,13 +44,14 @@ Each meeting note includes:
 | [Fantasy Game](projects/fantasy-game.md) | 🟡 At Risk | 2026-03-19 |
 | [Streaming](projects/streaming.md) | 🟡 At Risk | 2026-03-19 |
 | [NYU Entrepreneurship Lab](projects/nyu-entrepreneurship-lab.md) | 🟢 On Track | 2026-04-01 |
-| [Personal Projects](projects/personal-projects.md) | 🟢 On Track | 2026-03-27 |
-| [Misc](projects/misc.md) | 🟡 At Risk | 2026-03-25 |
+| [Personal Projects](projects/personal-projects.md) | 🟢 On Track | 2026-04-02 |
+| [Misc](projects/misc.md) | 🟡 At Risk | 2026-04-01 |
 
 ## Meetings Index
 
 | Date | Title | Key Topics |
 |---|---|---|
+| 2026-04-02 | [Greg Conti re: Life Insurance](meetings/2026/2026-04-02-greg-conti-life-insurance.md) | Life insurance gap review; financial snapshot; asset location opportunity (tax-free bucket); coverage ~$1–1.5M target; next meeting April 17 |
 | 2026-04-01 | [[EXT] Project Apex \| Alignment with Matt](meetings/2026/2026-04-01-project-apex-alignment-with-matt.md) | Vendor alignment: content migration scope dispute; three features at risk for Mexico (microsites, ads, where-to-watch); 50% dev diversion risk; Firdosh to draft email to Denise |
 | 2026-04-01 | [Denise Web Cutover Meeting](meetings/2026/2026-04-01-denise-web-cutover-meeting.md) | Mexico City confirmed as cutover target; CMS authoring blocked until ~Apr 6; FantasyCo content ownership misalignment; D3 migration unblocked; team microsites exclusion rejected |
 | 2026-04-01 | [NYU Class Session](meetings/2026/2026-04-01-nyu-class-session.md) | P&L and business plan complete; presentation narrative agreed; Bella leads exec prep next week; April 28 target |
@@ -79,7 +80,7 @@ Each meeting note includes:
 | 2026-03-11 | [Apex Web: Nick and Andrew Onboarding](meetings/2026/2026-03-11-apex-web-nick-andrew-onboarding.md) | ViewLift SDK integration, BFF status, live event testing requirements |
 | 2026-03-11 | [NYU Team Weekly Sync](meetings/2026/2026-03-11-nyu-team-weekly-sync.md) | Survey progress, P&L research, regional fan insights, financial model |
 | 2026-03-11 | [Denise Leadership Quick Sync](meetings/2026/2026-03-11-denise-leadership-quick-sync.md) | Denise announcing departure, transition rationale, team recognition |
-| 2026-03-11 | [Ways of Working Chat w Fantasy](meetings/2026/2026-03-11-ways-of-working-chat-fantasy.md) | Ways of working alignment with Fantasy Co |
+| 2026-03-11 | [Ways of Working Chat w Fantasy](meetings/2026/2026-03-11-ways-of-working-chat-fantasy.md) | Ticket review process; JIRA UAT workflow; daily Matt–Haley sync; fixed-fee scope boundaries; Matt owns final UAT sign-off |
 | 2026-03-10 | [Chris Dee Final 1:1](meetings/2026/2026-03-10-chris-dee-final-1-1.md) | Engagement concluded, staffing model recommendation, Zone Offer |
 | 2026-03-10 | [Sync on Updated Deck](meetings/2026/2026-03-10-sync-on-updated-deck.md) | Mexico launch path, 29 themes complexity, rollback risk |
 | 2026-03-10 | [Huddle with Lewis & Jade](meetings/2026/2026-03-10-huddle-lewis-jade.md) | Fantasy process breakdown, isolation issues, escalation strategy |

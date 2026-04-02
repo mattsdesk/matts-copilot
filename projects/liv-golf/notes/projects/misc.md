@@ -2,7 +2,7 @@
 
 **Status:** 🟡 At Risk
 **Owner:** Matt Saunders
-**Last updated:** 2026-03-25
+**Last updated:** 2026-04-01
 
 
 
@@ -12,9 +12,9 @@
 
 | Component | Status | Owner | Notes |
 |-----------|--------|-------|-------|
-| Pulse Live & LIV X | 🟢 On Track | Jesse / Jimmy | Fan engagement platform; launched 2026 season |
+| Pulse Live & LIV X | 🟢 On Track | Jesse / Jimmy | Fan engagement ongoing; LIV X definition still actively in progress (Jesse/Jimmy/Denise shaping it) |
 | CRM & Fan Engagement | 🟡 At Risk | Barry | Push notifications confirmed end-of-month; Barry's role clarity needs resolution post-South Africa |
-| GlobalLogic Partnership | 🟡 At Risk | Katherine | Shortlisted vs Pulse Live; Pulse Live proposal due Monday; Fantasy Co not preferred; decision early next week |
+| GlobalLogic Partnership | 🟡 At Risk | Katherine | No decision yet as of April 1; Fantasy Co contract ends mid-May; Denise has not provided vendor direction despite ongoing asks from Matt |
 | OKGC Rebrand (Smash GC) | 🟡 At Risk | Arthur / AJ Dolan | Local launch April 21; brand assets due March 13 |
 | Event Reporting Automation | 🟡 At Risk | Andrew / Arthur | Full automation not ready for Riyadh; incremental approach |
 | Einhorn Advertising | 🟢 On Track | Jesse / Liz | Agency relationship; ongoing campaigns |
@@ -44,6 +44,7 @@
 ## Tactical Detail
 
 ### Recent Updates
+- **April 1, 2026:** Project Apex Alignment call — Fantasy Co contract ends mid-May (~6 weeks); Matt has been pushing Denise for direction on long-term vendor replacement with no response. Any new vendor (GlobalLogic or Pulse Live) will need at least 2 weeks of overlap with Fantasy's Steve/Victor for tech handoff. NYU Class Session — LIV X is actively being defined by Jesse, Jimmy, and Denise; Matt directed the student team to reference it but not define it in their presentation, and to recommend whether the subscription product is one platform or distinct from LIV X.
 - **March 24, 2026:** Jess Harless 1:1 — Jade situation escalating; previous constructive conversation became destructive (Jade took feedback to unproductive place). Denise: "Doesn't surprise me, surprised you haven't moved sooner." Work quality declining; creating non-work issues. Jess meeting with Mark to set termination date; legal considerations under review. Arthur job security joke incident reviewed: Fabian (not Arthur) was most uncomfortable party; Arthur's position is secure and well-regarded. Situation resolved without further action needed.
 - **March 20, 2026:** Katherine 1:1 — Delta Tray termination within the week: Denise sending 60-day notice letter; March/April enhanced team redistribution planned. Jade formal HR action plan initiated; new Chief People Officer involved; UK termination requires external legal and lengthy timeline. Sergio Alfaro leaving after Mexico (brother died, returning to California). Julian counter-offer accepted — LIV hiring process over; Denise frustrated with Elizabeth and recruiting. OKGC event April 21 confirmed; must always use "OKGC" not "Oklahoma". Lewis focus narrowing to golf/data products; separating from Jade should help his rehabilitation. Ops scaling down post-stabilisation; Leah to take content/editorial ownership.
 - **March 19, 2026:** Lewis 1:1 — LivX relaunch by Jim: membership automatic with account creation; gaming/fantasy to sit under LivX umbrella; streaming not currently included. Matt working with NYU on multi-format subscription research. Delta Tray legal trigger still needs Denise to action next week.
@@ -62,6 +63,8 @@
 ### Meeting History
 | Date | Meeting | Key Outcome |
 |------|---------|-------------|
+| 2026-04-01 | [[EXT] Project Apex \| Alignment with Matt](../meetings/2026/2026-04-01-project-apex-alignment-with-matt.md) | Vendor replacement still unresolved; Fantasy Co mid-May expiry; 2-week overlap needed for tech handoff |
+| 2026-04-01 | [NYU Class Session](../meetings/2026/2026-04-01-nyu-class-session.md) | LIV X definition in flux; subscription product recommendation needed on platform vs standalone |
 | 2026-03-24 | [Jess Harless 1:1](../meetings/2026/2026-03-24-jess-harless-1-1.md) | Jade termination date being set; Jess meeting with Mark; Arthur/Fabian joke incident resolved |
 | 2026-03-20 | [Katherine 1:1](../meetings/2026/2026-03-20-katherine-1-1.md) | Delta Tray termination; Jade HR escalation (external legal); Sergio leaving; Julian out; OKGC April 21; ops scaling |
 | 2026-03-19 | [Lewis 1:1](../meetings/2026/2026-03-19-lewis-1-1.md) | LivX relaunch; Delta Tray legal trigger; Fantasy vendor replacement shortlist |
