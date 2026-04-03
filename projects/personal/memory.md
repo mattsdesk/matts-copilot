@@ -18,10 +18,19 @@
 
 ---
 
+## House & Car Tracking
+
+- Files: `house.md` and `car.md` in this folder
+- Tracking: maintenance/service log, upcoming tasks, costs/expenses
+- Created: 2026-04-03
+
+---
+
 ## Session Log
 - 2026-03-11 -- First exploratory conversation with Brandy (SiriusXM). Role: combined platform + client-side product. Mutual interest expressed.
 - 2026-03-25 -- Deep-dive round with Brandy. Covered management style, strategic accomplishments, team-building approach. Strong engagement. Next steps TBD.
 - 2026-03-31 -- Personal project folder created to properly track job search outside of LIV Golf notes.
+- 2026-04-03 -- Created house.md and car.md for tracking maintenance, upcoming tasks, and expenses.
 
 ---
 
