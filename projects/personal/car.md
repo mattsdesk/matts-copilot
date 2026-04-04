@@ -8,7 +8,7 @@
 
 | Nickname | Driver | Year | Make / Model | Plate | VIN | Mileage | Last Updated |
 |----------|--------|------|-------------|-------|-----|---------|--------------|
-| Matt's Pilot | Matt | 2019 | Honda Pilot | W44-UDJ | 88,000 | 2026-04-03 | 5FNYF6H55KB049042 |
+| Matt's Pilot | Matt | 2019 | Honda Pilot | W44-UDJ | 5FNYF6H55KB049042 | 88,000 | 2026-04-03 |
 | Sandra's Pilot | Sandra | 2025 | Honda Pilot | TBD | -- | -- | 2026-04-03 |
 
 **Lease -- Sandra's Pilot (2025):**

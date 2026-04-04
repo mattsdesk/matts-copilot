@@ -1,0 +1,218 @@
+# Einhorn Search Advertising — Monthly Performance PRD
+
+**Campaign:** All Channels (Conquest + Client Acquisition)
+**Period:** March 2026
+**Prepared:** 2026-04-04
+
+---
+
+## 1. Purpose
+
+Define a client-friendly performance summary page that communicates:
+- what the campaigns did in March
+- what changed from February and why
+- key insights and outcomes
+- recommended next steps
+
+The page should be understandable to a non-technical audience.
+
+---
+
+## 2. Key Requirements
+
+- Do not reference total spend
+- Use Cost Per Click (CPC) as the cost metric
+- Focus on efficiency and outcomes
+- Lead with conversion results — March is the first month with measurable lead data
+
+---
+
+## 3. Campaign Context
+
+March marked a deliberate strategic shift across all campaigns. February focused on maximizing exposure. March shifted the focus to lead quality: campaigns were restructured around conversion goals, geo targeting was tightened, and a new leads-focused campaign was launched. Conversion tracking (contact form submissions and phone calls) went live on March 13 in coordination with the web team.
+
+This means March is the first month in which ad-attributed leads can be directly measured.
+
+---
+
+## 4. Target Audience
+
+Primary:
+- Non-technical client stakeholders at Einhorn (attorneys and firm leadership)
+
+Secondary:
+- Internal marketing team
+
+---
+
+## 5. Page Structure
+
+---
+
+### 5.1 Campaign Overview
+
+Purpose: Lead with the most important number — leads generated
+
+Metrics (headline cards):
+
+| Metric | March 2026 |
+|---|---|
+| Ad-Attributed Leads | 28 |
+| Phone Calls Generated | 19 |
+| Contact Form Submissions | 9 |
+| Cost Per Lead | ~$50 |
+| Total Clicks | 2,073 |
+| Total Impressions | 52,327 |
+| Average CPC | $1.23 |
+
+Design:
+- Lead conversions card first, largest
+- Supporting metrics below
+- Add callout: "Conversion tracking launched March 13 — these results represent approximately half the month"
+
+---
+
+### 5.2 What Changed in March (and Why)
+
+Purpose: Contextualize the month-over-month shift so the topline metric decline is not misread as underperformance
+
+Key message: Fewer clicks, but better clicks.
+
+| Metric | February 2026 | March 2026 | Change |
+|---|---|---|---|
+| Clicks | 5,514 | 2,073 | -62% |
+| Impressions | 72,256 | 52,327 | -38% |
+| Avg. CPC | $0.53 | $1.23 | +2.3x |
+| Ad-Attributed Leads | N/A | 28 | First month tracked |
+| Phone Calls | N/A | 19 | First month tracked |
+| Contact Form Submissions | N/A | 9 | First month tracked |
+
+Explanation copy:
+> February was designed to generate traffic and gather data. March applied that data. Campaigns were restructured to target users more likely to become clients — this narrows volume but increases quality. The February CTR and keyword data directly informed March targeting decisions.
+
+---
+
+### 5.3 Client Acquisition Campaign (Generic Search)
+
+Purpose: Show performance of the campaigns targeting people actively searching for a lawyer
+
+Two campaigns ran in March:
+
+**General Clicks Campaign** — established, broad reach
+
+Top Keywords:
+
+| Keyword | Impressions | Clicks | CTR |
+|---|---|---|---|
+| property lawyers near me | 10,196 | 425 | 4.17% |
+| family law lawyers near me | 16,984 | 385 | 2.27% |
+| lawyers office near me | 4,900 | 229 | 4.67% |
+| law office near me | 3,534 | 225 | 6.37% |
+| lawyers near me | 3,588 | 192 | 5.35% |
+| guardianship | 1,506 | 82 | 5.44% |
+
+CTR: 6.06%
+
+**Leads Campaign (new, launched March 2026)** — conversion-optimized
+
+Top Keywords:
+
+| Keyword | Impressions | Clicks | Conversions | Cost/Lead |
+|---|---|---|---|---|
+| employment lawyer | 1,138 | 83 | 13 | $21.67 |
+| employment law attorney | 246 | 18 | 0 | — |
+| employment attorney | 30 | 2 | 0 | — |
+
+CTR: 7.98% (outperformed the established campaign in its first month)
+
+Standout result: "employment lawyer" generated 13 conversions at $21.67 per lead in its first month — well below the $50 blended average and a strong signal for budget reallocation.
+
+Insight: The leads campaign is outperforming the general clicks campaign on both CTR and conversion efficiency. As it exits the learning phase, expect cost per lead to decrease further. Employment law has emerged as a high-intent, high-converting practice area for paid search.
+
+---
+
+### 5.4 Conquest Campaign (Competitor Search)
+
+Purpose: Show status of the competitor-targeting campaign
+
+March status: Ads ran in limited inventory but generated no clicks. SKM Law search volume dropped significantly in March.
+
+| Keyword | Impressions | Clicks |
+|---|---|---|
+| SKM Law | 11 | 0 |
+| SKM NJ Law | 4 | 0 |
+| Snyder Kenney & Mercado LLC | 0 | 0 |
+
+Context: Conquest campaigns are dependent on search volume for competitor terms — this is outside of campaign control. The campaign remains live and will capture traffic when volume returns. No budget was consumed.
+
+---
+
+### 5.5 Phone Call Performance
+
+Purpose: Highlight quality of inbound calls generated by ads
+
+19 phone calls attributed to ads in March. 5 calls exceeded 5 minutes in duration — a strong indicator of qualified lead engagement.
+
+All calls originated from mobile click-to-call ads.
+
+Insight: Phone calls are outpacing contact form submissions 2:1. The mobile click-to-call format is the primary conversion driver. This has direct implications for how the contact form is presented on mobile.
+
+---
+
+### 5.6 Device Behavior
+
+Mobile phones accounted for the majority of search volume across all campaigns.
+
+Implication: The mobile contact form experience is a conversion bottleneck. Phone call ads are performing because they remove friction. Optimizing the mobile contact form is a direct path to improving form submission volume.
+
+---
+
+### 5.7 Key Insights
+
+1. March is the first month with real lead data — 28 conversions at ~$50/lead is a meaningful starting benchmark.
+2. The new leads-focused campaign outperformed the established campaign on CTR (7.98% vs 6.06%) and is driving the majority of conversions.
+3. Employment law is emerging as the highest-converting practice area for paid search — warrants increased investment.
+4. Conquest volume dropped in March — no clicks, no spend. Campaign remains live.
+5. Phone calls are outpacing form submissions 2:1. Mobile optimization of the contact form is an actionable gap.
+6. Conversion tracking was only live for ~half the month. March results undercount total impact.
+
+---
+
+## 6. Strategic Recommendations
+
+### 6.1 Client Acquisition (Growth)
+
+- Increase budget allocation to the leads-focused campaign — it is outperforming on both CTR and cost per lead
+- Prioritize employment law keywords — $21.67/lead is well below blended average and demonstrates clear intent
+- As campaign exits learning phase, expect cost per lead to drop; reassess efficiency targets at 60-day mark
+- Optimize mobile contact form in coordination with web team — current form is losing conversions to phone calls
+
+### 6.2 Conquest (Defensive)
+
+- Keep campaign live — competitor search volume fluctuates and the campaign is ready to capture it
+- No action required until volume returns
+- Monitor monthly; if volume remains low through April, evaluate budget reallocation
+
+---
+
+## 7. UX / Design Guidance
+
+- Lead with conversion metrics — this is the first month leads are measurable
+- Use callout card to explain the Feb-to-March shift (fewer clicks, better leads)
+- Large metric cards for: leads, phone calls, cost per lead
+- Simple tables for keyword performance
+- Mobile-first layout — mirrors the audience behavior driving results
+- Minimal text; let the numbers lead
+
+---
+
+## 8. Technical Implementation Guidance
+
+- Static page acceptable
+- No backend required
+- Phone call log can be displayed as a simple table with duration highlighted
+- Conversion tracking note should be surfaced clearly: "tracking live as of March 13"
+
+---
+
+## End of Document

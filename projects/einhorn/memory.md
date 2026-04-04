@@ -34,7 +34,7 @@
 
 ## Deliverables Log
 <!-- Format: [date] | [sub-project] | [deliverable] | [short description] -->
-
+- 2026-04-04 | All Channels | prd-einhorn-2026-03.md | Combined March 2026 performance PRD covering conquest and client acquisition; first month with conversion data (28 leads, ~$50/lead)
 
 ---
 
@@ -46,3 +46,4 @@
 - 2026-03-19 -- Logged Alissa Hascup response. Key assets confirmed: two personal domains (patersonnjcriminallawyer.com, njjuveniledefenselawyer.com) and existing social presence (@attorneyalissahascup). Meeting set for 2026-03-28 morning.
 - 2026-03-19 -- Payments confirmed received for SEO advisory retainer and client acquisition ad spend. Both work streams now active.
 - 2026-03-27 -- Held intro call with Alissa Hascup. Confirmed three-phase strategy: (1) reactivate personal sites with tracking/conversion setup alongside SEO rebuild, (2) scale short-form video content engine repurposed across blog/social/GBP, (3) paid amplification + retargeting on top-performing content. Follow-up email sent to Alissa same day. Alissa will give SEO specialist 1-2 months before layering in paid. Coordination call with her SEO specialist to be scheduled once sites show movement. Retargeting concept (video viewers → consultation ad) resonated strongly.
+- 2026-04-04 -- Generated combined March 2026 performance PRD from Montclair Digital recap. Key findings: 28 ad-attributed leads at ~$50/lead (first month with conversion tracking); new leads campaign outperformed general clicks on CTR (7.98% vs 6.06%); employment lawyer keyword at $21.67/lead is standout; conquest had no clicks in March (low competitor search volume); phone calls outpacing form submissions 2:1; mobile contact form flagged as optimization gap. PRD saved to /deliverables/prd-einhorn-2026-03.md.
