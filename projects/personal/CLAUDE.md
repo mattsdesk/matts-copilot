@@ -24,10 +24,15 @@ Personal initiatives Matt is running in parallel with his professional work. Pri
 
 ---
 
+## People
+
+Key personal contacts:
+- `greg-conti.md` — Financial advisor (Equitable); life insurance and tax planning
+
 ## Operating Instructions
 
 - Read `memory.md` before any session on this project
 - This project is separate from Einhorn (client engagement) and LIV Golf (current role)
-- Keep notes in `/notes/` and meeting summaries linked from `memory.md`
+- Keep meeting notes in `meetings/2026/` and link from `memory.md`
 
 ---

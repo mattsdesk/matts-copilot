@@ -3,6 +3,7 @@
 **Role:** Senior Product Lead
 **Organisation:** LIV Golf
 **Relationship:** Direct report
+**Context:** LIV Golf
 **Last interaction:** March 27, 2026
 
 ---

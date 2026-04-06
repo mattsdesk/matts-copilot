@@ -3,6 +3,7 @@
 **Role:** Co-Founder / VP Engineering
 **Organisation:** Fantasy Co (LatitudeGo)
 **Relationship:** Vendor / Partner
+**Context:** LIV Golf
 **Last interaction:** 2026-04-01
 
 ---

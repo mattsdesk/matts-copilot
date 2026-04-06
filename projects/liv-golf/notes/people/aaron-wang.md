@@ -3,6 +3,7 @@
 **Role:** Product Designer
 **Organisation:** LIV Golf
 **Relationship:** Reports to David Jakes
+**Context:** LIV Golf
 **Last interaction:** —
 
 ---

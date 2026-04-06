@@ -3,6 +3,7 @@
 **Role:** Product Manager
 **Organisation:** LIV Golf
 **Relationship:** Reports to Barry McAdams
+**Context:** LIV Golf
 **Last interaction:** —
 
 ---

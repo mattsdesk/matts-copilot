@@ -3,6 +3,7 @@
 **Role:** Product Manager / Fantasy Product Lead
 **Organisation:** LIV Golf / Fantasy Co
 **Relationship:** Cross-functional partner
+**Context:** LIV Golf
 **Last interaction:** March 10, 2026
 
 ---

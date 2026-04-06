@@ -3,6 +3,7 @@
 **Role:** Social Content Lead
 **Organisation:** LIV Golf (External/Marketing)
 **Relationship:** Partner
+**Context:** LIV Golf
 **Last interaction:** January 22, 2026
 
 ---

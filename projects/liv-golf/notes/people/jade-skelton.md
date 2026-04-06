@@ -3,6 +3,7 @@
 **Role:** Programme Manager
 **Organisation:** LIV Golf
 **Relationship:** Reports to Katherine Kuo
+**Context:** LIV Golf
 **Last interaction:** March 24, 2026
 *(discussed in Jess Harless 1:1)*
 

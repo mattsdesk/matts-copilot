@@ -3,6 +3,7 @@
 **Role:** Manager Teams Digital
 **Organisation:** LIV Golf
 **Relationship:** Reports to Katherine Kuo
+**Context:** LIV Golf
 **Last interaction:** —
 
 ---

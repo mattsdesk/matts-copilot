@@ -3,6 +3,7 @@
 **Role:** VP DTC Program Management
 **Organisation:** LIV Golf
 **Relationship:** Direct report
+**Context:** LIV Golf
 **Last interaction:** March 20, 2026
 
 ---

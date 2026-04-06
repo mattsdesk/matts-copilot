@@ -3,6 +3,7 @@
 **Role:** Operations Lead / Coordinator
 **Organisation:** LIV Golf
 **Relationship:** Cross-functional partner
+**Context:** LIV Golf
 **Last interaction:** January 12, 2026
 
 ---

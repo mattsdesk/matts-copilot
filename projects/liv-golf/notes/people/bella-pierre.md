@@ -3,6 +3,7 @@
 **Role:** Project Coordinator
 **Organisation:** LIV Golf
 **Relationship:** Reports to Denise Taylor
+**Context:** LIV Golf
 **Last interaction:** 2026-04-01
 
 ---

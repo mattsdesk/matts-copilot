@@ -3,6 +3,7 @@
 **Role:** Consultant / Product Strategy Lead
 **Organisation:** Independent Consultant (former vendor)
 **Relationship:** Consultant (departing)
+**Context:** LIV Golf
 **Last interaction:** March 10, 2026
 
 ---

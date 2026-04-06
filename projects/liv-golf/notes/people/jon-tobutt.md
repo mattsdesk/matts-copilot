@@ -3,6 +3,7 @@
 **Role:** Product Operations
 **Organisation:** LIV Golf
 **Relationship:** Reports to Katherine Kuo
+**Context:** LIV Golf
 **Last interaction:** January 15, 2026
 
 ---

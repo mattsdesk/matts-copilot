@@ -3,6 +3,7 @@
 **Role:** Freelance Technical
 **Organisation:** LIV Golf (Contractor)
 **Relationship:** Direct report
+**Context:** LIV Golf
 **Last interaction:** —
 
 ---

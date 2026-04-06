@@ -3,6 +3,7 @@
 **Role:** Senior Director Product
 **Organisation:** LIV Golf
 **Relationship:** Direct report
+**Context:** LIV Golf
 **Last interaction:** March 18, 2026
 
 ---

@@ -3,6 +3,7 @@
 **Role:** Professor / Lab Director
 **Organisation:** NYU Stern School of Business
 **Relationship:** External Partner
+**Context:** NYU
 **Last interaction:** 2026-04-01
 
 ---

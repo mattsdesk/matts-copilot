@@ -3,6 +3,7 @@
 **Role:** VP / Business Development
 **Organisation:** GlobalLogic
 **Relationship:** Vendor / Partner
+**Context:** LIV Golf
 **Last interaction:** February 27, 2026
 
 ---

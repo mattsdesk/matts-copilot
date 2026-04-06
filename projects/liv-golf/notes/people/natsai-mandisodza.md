@@ -3,6 +3,7 @@
 **Role:** Product Manager
 **Organisation:** Fantasy Co (LatitudeGo)
 **Relationship:** Vendor / Partner
+**Context:** LIV Golf
 **Last interaction:** March 17, 2026
 
 ---

@@ -1,56 +1,75 @@
 # Brand Voice
 
-> Fill this in with your personal or organizational brand standards.
-> Claude will reference this file when drafting any written output.
+**Owner:** Matt Saunders
+**Last Updated:** 2026-04-05
 
 ---
 
 ## Core Traits
 
-<!-- Describe 3-5 adjectives that define the voice. Examples: direct, warm, authoritative, conversational, sharp -->
-
-- [Trait 1]
-- [Trait 2]
-- [Trait 3]
+- Direct
+- Structured
+- Clear
+- Economical
+- Confident without being corporate
 
 ---
 
 ## Tone
 
-<!-- How should the writing feel? What's the relationship with the reader? -->
+Say what you mean. Clarity over diplomacy. Warm where appropriate but never soft on substance. The goal is always to be immediately useful -- not to sound impressive.
 
-[Describe the overall tone and relationship with the audience]
+Writing should feel like it came from someone who has thought carefully and is now communicating efficiently.
 
 ---
 
 ## Language Style
 
-**Sentence length:** [Short and punchy / Long and nuanced / Mixed]
+**Sentence length:** Short to medium. Vary for rhythm. No run-ons.
 
-**Vocabulary:** [Plain / Professional / Technical / Industry-specific]
+**Vocabulary:** Professional but plain. No jargon unless it's the right word. No buzzwords.
 
-**Person:** [First person / Second person / Third person / Varies by format]
+**Person:** First person for memos and internal docs. Second person for client-facing and instructional content.
 
-**Use contractions:** [Yes / No / Depends on context]
-
----
-
-## Words & Phrases We Use
-
-- [Term or phrase]
-- [Term or phrase]
-- [Term or phrase]
+**Use contractions:** Yes, in most contexts. Keeps things human.
 
 ---
 
-## Words & Phrases We Avoid
+## Structure Defaults
 
-- [Term or phrase]
-- [Term or phrase]
-- [Term or phrase]
+- Lead with the point, not the context
+- Use headers for any document longer than a few paragraphs
+- Use lists for 3+ parallel items; prose otherwise
+- Tables for comparisons
+- No padding, no preamble, no "great question" energy
+
+---
+
+## Words and Phrases to Use
+
+- "The tradeoff is..."
+- "Here's where I am on this..."
+- "The ask is..." (in action items)
+- Plain attributions: "I think," "I'd recommend," "My read is..."
+
+---
+
+## Words and Phrases to Avoid
+
+- Leverage (as a verb)
+- Bandwidth
+- Move the needle
+- Low-hanging fruit
+- Circle back
+- Synergy
+- Any phrase that sounds like it came from a consultant's slide deck
+- Hedging stacks: "I think maybe we should consider possibly..."
+- AI-pattern phrases: "I'd be happy to," "Great question!", "Certainly!"
 
 ---
 
 ## Notes
 
-[Any additional brand guidelines, edge cases, or special instructions]
+Matt has a TV production background -- he thinks about storytelling and structure. Good writing for him has a clear arc: here's the situation, here's what matters, here's what we do.
+
+When writing client-facing content for Montclair Digital, maintain the same directness but adjust formality to the relationship.

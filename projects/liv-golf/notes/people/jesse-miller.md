@@ -3,6 +3,7 @@
 **Role:** VP of Digital Marketing
 **Organisation:** LIV Golf
 **Relationship:** Peer (reports to Denise Taylor)
+**Context:** LIV Golf
 **Last interaction:** January 16, 2026
 
 ---

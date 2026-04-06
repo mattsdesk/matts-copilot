@@ -3,6 +3,7 @@
 **Role:** VP Engineering / Leadership
 **Organisation:** ViewLift
 **Relationship:** Vendor / Partner (requires escalation)
+**Context:** LIV Golf
 **Last interaction:** February 5, 2026
 
 ---

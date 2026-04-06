@@ -3,6 +3,7 @@
 **Role:** Executive / Hiring Manager (VP Product — SiriusXM)
 **Organisation:** SiriusXM
 **Relationship:** External — job search contact
+**Context:** LIV Golf
 **Last interaction:** 2026-03-25
 
 ---

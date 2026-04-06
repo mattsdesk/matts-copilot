@@ -6,9 +6,24 @@ This file tells any AI agent how this repository works and what to do with it. R
 
 ## What this repo is
 
-A personal knowledge management system for Matt Saunders. It captures meeting notes, project status, and action items from multiple sources and organises them into a portable, app-agnostic markdown repository.
+A personal knowledge management system for Matt Saunders. It captures meeting notes, project status, and action items across all of Matt's professional and personal contexts — not just LIV Golf.
 
 **Source of truth:** `/Users/mattsaunders/Desktop/Vibe Coded Stuff/Matt's CoPilot/projects/liv-golf/notes/`
+
+---
+
+## Context model
+
+Every meeting, person, and project belongs to one of four contexts:
+
+| Context | What it covers |
+|---------|---------------|
+| `LIV Golf` | Matt's primary role as SVP DTC — app, website, streaming, DTC programs |
+| `Montclair Digital` | Matt's independent consulting practice — Einhorn, Flyosophy, and future clients |
+| `Personal` | Personal finances, life admin, family |
+| `NYU` | NYU Entrepreneurship Lab teaching engagement |
+
+All meeting files and people files carry a `**Context:**` field. Use this field to route project updates correctly — a Montclair Digital meeting should never update a LIV Golf project file.
 
 ---
 
@@ -40,6 +55,29 @@ Granola is a meeting notes app. The scheduled task uses the Granola MCP tool to 
 - Compare against existing files in `meetings/2026/` to identify what's new
 - Use `get_meetings` (up to 10 IDs at a time) to fetch full content
 - Create one `.md` file per meeting using the meeting note format below
+- **Determine context** from attendees and content (see Context routing below) and set `**Context:**` in the meeting file
+- **Route project updates** to the correct project directory based on context
+
+#### Context routing for Granola meetings
+
+Determine context by checking attendees against known people files:
+
+- If attendees include Einhorn Barbarito staff (Liz Lindley, Alissa Hascup, Ashley Hitch) → `Montclair Digital`
+- If attendees include Flyosophy-related contacts → `Montclair Digital`
+- If meeting is personal finance, family, or life admin → `Personal`
+- If meeting is NYU-related → `NYU`
+- Default → `LIV Golf`
+
+**Project update routing:**
+
+| Context | Update project files in |
+|---------|------------------------|
+| `LIV Golf` | `projects/` (this folder) |
+| `Montclair Digital` | `../../projects/montclair-digital/` |
+| `Personal` | `../../projects/personal/` |
+| `NYU` | LIV Golf `projects/nyu-entrepreneurship-lab.md` |
+
+For Montclair Digital and Personal meetings: write the meeting file to `meetings/2026/` as normal, but update the relevant project files in the external project directories rather than the LIV Golf `projects/` folder.
 
 ### 2. Inbox drop folder (manual)
 Matt drops files into `inbox/` when he wants to capture updates from emails, Teams messages, Slack threads, or offline conversations. He may also paste rough notes into a `.txt` file.
@@ -96,6 +134,7 @@ The agent should extract meaning from context, not rely on formatting.
 
 **Date:** [Month DD, YYYY]
 **Attendees:** [List from known_participants]
+**Context:** [LIV Golf | Montclair Digital | Personal | NYU]
 **Source:** Granola — `[meeting-id]`
 
 ---

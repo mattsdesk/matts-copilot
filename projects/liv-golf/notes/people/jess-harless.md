@@ -3,6 +3,7 @@
 **Role:** Chief People Officer (CPO) / HR Lead
 **Organisation:** LIV Golf
 **Relationship:** Peer / Stakeholder
+**Context:** LIV Golf
 **Last interaction:** 2026-03-24
 
 ---

@@ -3,6 +3,7 @@
 **Role:** Event Analytics & Infrastructure Support
 **Organisation:** LIV Golf
 **Relationship:** Direct report
+**Context:** LIV Golf
 **Last interaction:** March 27, 2026
 
 ---

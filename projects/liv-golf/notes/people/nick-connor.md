@@ -3,6 +3,7 @@
 **Role:** SVP Technology
 **Organisation:** LIV Golf
 **Relationship:** Peer (reports to Denise Taylor)
+**Context:** LIV Golf
 **Last interaction:** March 27, 2026
 
 ---

@@ -3,6 +3,7 @@
 **Role:** Chief Product and Technology Officer
 **Organisation:** LIV Golf
 **Relationship:** Direct report (reporting chain runs through Denise)
+**Context:** LIV Golf
 **Last interaction:** 2026-04-01
 
 ---

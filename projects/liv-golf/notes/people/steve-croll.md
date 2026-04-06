@@ -3,6 +3,7 @@
 **Role:** Tech Lead / Engineering Lead
 **Organisation:** Fantasy Co (LatitudeGo)
 **Relationship:** Vendor / Partner
+**Context:** LIV Golf
 **Last interaction:** 2026-04-01
 
 ---

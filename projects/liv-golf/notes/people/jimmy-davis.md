@@ -3,6 +3,7 @@
 **Role:** Gamification & Fan Activations Lead
 **Organisation:** LIV Golf
 **Relationship:** Cross-functional partner
+**Context:** LIV Golf
 **Last interaction:** January 21, 2026
 
 ---

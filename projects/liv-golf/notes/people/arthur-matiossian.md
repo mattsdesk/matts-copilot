@@ -3,6 +3,7 @@
 **Role:** Senior Product Manager
 **Organisation:** LIV Golf
 **Relationship:** Direct report
+**Context:** LIV Golf
 **Last interaction:** March 24, 2026
 *(discussed in Jess Harless 1:1)*
 
