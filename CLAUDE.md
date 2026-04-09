@@ -142,19 +142,14 @@ Use these for any written output.
 
 ## Notes System
 
-Matt's unified notes system lives at `projects/liv-golf/notes/` and captures meetings, people, and project updates across all contexts -- not just LIV Golf.
+Meeting notes and people docs are stored per-project:
 
-- **Meetings:** `projects/liv-golf/notes/meetings/2026/` -- all meetings, tagged by Context field
-- **People:** `projects/liv-golf/notes/people/` -- all people, tagged by Context field
-- **Projects (LIV Golf):** `projects/liv-golf/notes/projects/`
-- **Inbox:** `projects/liv-golf/notes/inbox/` -- drop zone for manual captures
-- **Routing rules:** `projects/liv-golf/notes/AGENTS.md`
+- **Montclair Digital meetings:** `projects/montclair-digital/meetings/2026/`
+- **Montclair Digital people:** `projects/montclair-digital/people/`
+- **Personal meetings:** `projects/personal/meetings/2026/`
+- **Personal context:** `projects/personal/`
 
-For Montclair Digital and Personal meetings, the notes system routes project updates to:
-- `projects/montclair-digital/` for Montclair Digital context
-- `projects/personal/` for Personal context
-
-When looking for a person, check their `**Context:**` field to determine which project they belong to.
+LIV Golf has been archived to `archive/liv-golf/`. Do not reference or update those files.
 
 ---
 
