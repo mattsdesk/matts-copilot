@@ -17,6 +17,8 @@
 - 2026-03-19 -- Criminal group social: Alissa is active on TikTok and Instagram (@attorneyalissahascup). Presence already exists -- not starting from zero. She's open to ramping this up.
 - 2026-03-19 -- Criminal group meeting: Confirmed for Friday 2026-03-28 morning. Key scoping questions to address: (1) personal sites vs. Einhorn firm site -- where does SEO investment go? (2) social strategy -- organic content vs. distribution vs. both? (3) engagement structure -- does this run through existing Einhorn engagement or separately?
 - 2026-03-19 -- Engagement: Payments received. SEO advisory retainer and client acquisition ad spend both funded. Both work streams are now active and cleared to proceed.
+- 2026-04-10 -- Client Acquisition: April week-one performance: ~30-35 leads/week at ~$17/lead. Significant improvement over March (~$50/lead). Considering recommending doubling the client acquisition budget -- plan to make ask mid-month once full April numbers are available.
+- 2026-04-10 -- Lead Tracking Proposal: Sent to Einhorn. Three-phase engagement: (1) map current lead process, (2) design future-state tracking framework across calls/forms/chat, (3) establish reporting. Investment: $5,000 fixed fee for Phase 1; optional ongoing support at $1,500/month. Timeline: 6 weeks. Awaiting client response. Proposal saved to /deliverables/proposal-lead-tracking-2026-04.pdf.
 
 
 ---
@@ -35,6 +37,7 @@
 ## Deliverables Log
 <!-- Format: [date] | [sub-project] | [deliverable] | [short description] -->
 - 2026-04-04 | All Channels | prd-einhorn-2026-03.md | Combined March 2026 performance PRD covering conquest and client acquisition; first month with conversion data (28 leads, ~$50/lead)
+- 2026-04-10 | All Channels | proposal-lead-tracking-2026-04.pdf | Inbound lead tracking proposal -- $5,000 Phase 1 fixed fee, optional $1,500/month ongoing support. Awaiting client response.
 
 ---
 
@@ -47,3 +50,4 @@
 - 2026-03-19 -- Payments confirmed received for SEO advisory retainer and client acquisition ad spend. Both work streams now active.
 - 2026-03-27 -- Held intro call with Alissa Hascup. Confirmed three-phase strategy: (1) reactivate personal sites with tracking/conversion setup alongside SEO rebuild, (2) scale short-form video content engine repurposed across blog/social/GBP, (3) paid amplification + retargeting on top-performing content. Follow-up email sent to Alissa same day. Alissa will give SEO specialist 1-2 months before layering in paid. Coordination call with her SEO specialist to be scheduled once sites show movement. Retargeting concept (video viewers → consultation ad) resonated strongly.
 - 2026-04-04 -- Generated combined March 2026 performance PRD from Montclair Digital recap. Key findings: 28 ad-attributed leads at ~$50/lead (first month with conversion tracking); new leads campaign outperformed general clicks on CTR (7.98% vs 6.06%); employment lawyer keyword at $21.67/lead is standout; conquest had no clicks in March (low competitor search volume); phone calls outpacing form submissions 2:1; mobile contact form flagged as optimization gap. PRD saved to /deliverables/prd-einhorn-2026-03.md.
+- 2026-04-10 -- Logged April week-one performance ($17/lead, 30-35 leads/week). Noted plan to recommend budget doubling mid-month. Conversion/lead tracking proposal flagged as open item -- Matt to share document for logging.
