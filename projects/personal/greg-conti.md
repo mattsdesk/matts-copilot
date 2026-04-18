@@ -4,7 +4,7 @@
 **Organisation:** Equitable (or independent — works across providers)
 **Relationship:** External
 **Context:** Personal
-**Last interaction:** 2026-04-02
+**Last interaction:** 2026-04-17
 
 ---
 
@@ -19,15 +19,27 @@ Greg Conti is Matt's financial advisor, working alongside Isabella (advisor who 
 - Fidelity managed accounts doing loss harvesting but not providing holistic tax/insurance planning — gap Greg can fill
 
 ## Talking Points
-- Send Isabella any financial details not captured (exact 529 balances, Social Security projections)
-- April 17 follow-up: review insurance recommendations and asset map
+- Review term quotes for Matt ($1.5M) and Sandra (+$1M additional) when they arrive
+- Review revised variable life illustration at $1M death benefit with lower contribution examples
+- Schedule next follow-up after materials reviewed
 
 ## Open Items
-- [ ] Matt to send outstanding financial details to Isabella before April 17
-- [ ] Isabella to prepare: asset map, insurance target maps, Roth/tax location analysis, SS projection link
-- [ ] April 17, 11:00 AM meeting confirmed — compare life insurance options (likely ladder on top of Sandra's existing $700K term)
+- [ ] Gregory/Isabella to send term life quotes: Matt $1.5M, Sandra additional $1M
+- [ ] Gregory/Isabella to send revised variable life illustration at $1M death benefit with lower monthly contributions
+- [ ] Matt and Sandra to review IRR analysis and tax comparisons
+- [ ] Matt and Sandra to decide on term amounts and timing
+- [ ] Schedule next meeting once materials have been reviewed
 
 ## 1:1 Notes
+
+### 2026-04-17 — Insurance and Financial Planning Follow-up (with Sandra)
+Second working session with Greg and Isabella, Sandra attending. Reviewed asset map and revised needs analysis.
+
+Term life recommendations finalized: Matt $1.5M, Sandra additional $1M on top of existing $700K term. Focus on getting coverage in place quickly given Matt's age. Needs reframed around lifestyle gap only ($145K/year each), not full income replacement; 529s cover college, emergency fund adequate, final expenses minor.
+
+New concept introduced: variable life insurance as a tax-free investment vehicle. Illustrative example showed $10K/month to age 65, 7% net return after ~0.7% internal fees, producing $617K/year tax-free withdrawals for 15 years. Pitched as better than municipal bonds and addresses Medicare surcharge thresholds ($218K+ income). Contis will provide revised illustration at $1M death benefit with lower monthly contribution examples.
+
+Main tension remains: tax-bucket concentration in taxable/tax-deferred. Variable life is one answer; Matt will evaluate vs alternatives.
 
 ### 2026-04-02 — Greg Conti re: Life Insurance (initial meeting)
 First meeting with Greg and Isabella. Covered the full financial snapshot: ~$28K/month combined take-home, ~$18K/month expenses, ~$10K/month surplus into Fidelity brokerage. $2.2M in joint Fidelity managed accounts, ~$150K cash (above target). 529s: Jack ~$90K, Bea ~$55K. Retirement accounts are primarily traditional IRA/401k — very little Roth activity (accounts exist but no contributions).
@@ -39,7 +51,8 @@ Key takeaway beyond insurance: tax bucket diversification is urgent — almost n
 ## Interaction History
 | Date | Meeting | Notes |
 |------|---------|-------|
-| 2026-04-02 | [Greg Conti re: Life Insurance](../meetings/2026/2026-04-02-greg-conti-life-insurance.md) | Initial financial review and insurance needs analysis; next meeting April 17 |
+| 2026-04-17 | [Conti Insurance Financial Planning](meetings/2026/2026-04-17-conti-insurance-financial-planning.md) | Term recs finalized (Matt $1.5M, Sandra +$1M); variable life investment concept introduced |
+| 2026-04-02 | [Greg Conti re: Life Insurance](meetings/2026/2026-04-02-greg-conti-life-insurance.md) | Initial financial review and insurance needs analysis; next meeting April 17 |
 
 ---
 *Part of the [notes repo](../README.md)*
