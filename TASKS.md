@@ -1,5 +1,5 @@
 # Tasks
-**Last updated:** 2026-03-31 (evening)
+**Last updated:** 2026-04-22
 
 ---
 
@@ -57,10 +57,6 @@
 
 ## Personal
 
-### Active
-- [ ] **Follow up with SiriusXM recruiter** -- follow-up sent to Brandy; no response yet; recruiter outreach pending
-
-### Waiting On
-- [ ] **SiriusXM response** -- follow-up sent; silence post-Mar 25 deep dive
+*No active tasks. SiriusXM opportunity closed 2026-04-22.*
 
 ---

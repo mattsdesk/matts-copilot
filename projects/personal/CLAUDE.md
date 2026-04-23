@@ -2,12 +2,12 @@
 **Type:** Personal
 **Status:** Active
 **Owner:** Matt Saunders
-**Last Updated:** 2026-03-31
+**Last Updated:** 2026-04-22
 
 ---
 
 ## Brief
-Personal initiatives Matt is running in parallel with his professional work. Primary focus is the SiriusXM job opportunity. Secondary: any other personal projects or relationships that need tracking.
+Personal initiatives Matt is running in parallel with his professional work. Primary focus is the WBD Bleacher Report SPM opportunity. Secondary: any other personal projects or relationships that need tracking.
 
 ## Goals
 - Land the right next role
@@ -20,7 +20,8 @@ Personal initiatives Matt is running in parallel with his professional work. Pri
 
 | Track | Status | Notes |
 |-------|--------|-------|
-| SiriusXM (Brandy) | Active | Deep-dive completed Mar 25; next steps TBD |
+| WBD Bleacher Report (SPM) | Active | Recruiter screen Apr 17; Danny Joseph intro next; 5-round loop to follow |
+| SiriusXM (Brandy) | Closed 2026-04-22 | Opportunity is gone; see archived notes |
 
 ---
 

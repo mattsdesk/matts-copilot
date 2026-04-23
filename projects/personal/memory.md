@@ -4,13 +4,6 @@
 
 ## Active Opportunities
 
-### SiriusXM
-- **Contact:** Brandy
-- **Role:** Combined platform + client-side product role
-- **Scale:** $6.5B annual billing volume; no dynamic personalization; 3+ years tech debt
-- **Status:** Two rounds completed; strong mutual engagement; next steps TBD
-- **Brandy's team gaps (per her):** Executive presence, strategic thinking
-
 ### Warner Bros Discovery (Bleacher Report)
 - **Contact:** Bernie (recruiter)
 - **Role:** Senior Product Manager, Bleacher Report, reports to Daniel (Danny) Joseph (VP)
@@ -19,10 +12,28 @@
 - **Status:** Recruiter screen done Apr 17; Danny Joseph intro next week (Tue/Wed); full 5-round loop to follow
 - **Timeline:** Start end April/early May if chosen; decision ~2-3 weeks post-loop; 4 other candidates active
 
+### ViX (TelevisaUnivision) - CTPO
+- **Contact:** Lucia Shaw, Rafael Martinez Gallardo (Russell Reynolds)
+- **Role:** Chief Technology and Product Officer, ViX streaming
+- **Comp:** Similar base to current ($367K) plus LTI component
+- **Location:** ViX prefers Miami or Mexico City; Russell Reynolds pushing for NY/LA flex
+- **Status:** Screen done Apr 22; strong alignment on streaming experience (LIV, fubo) and leadership philosophy; Russell Reynolds to check in with ViX team next and advocate on location
+- **Key gap:** Location (family won't relocate); travel acceptable
+
+---
+
+## Closed Opportunities
+
+### SiriusXM (closed 2026-04-22)
+- **Contact:** Brandy
+- **Role:** Combined platform + client-side product role
+- **Scale:** $6.5B annual billing volume; no dynamic personalization; 3+ years tech debt
+- **History:** Two rounds completed (Mar 11, Mar 25); strong mutual engagement; no explicit next step set; follow-up sent, no response; opportunity confirmed gone 2026-04-22
+- **Archived notes:** `/archive/liv-golf/notes/meetings/2026/2026-03-11-sirius-brandy.md`, `/archive/liv-golf/notes/meetings/2026/2026-03-25-brandy-deep-dive-sxm.md`, `/archive/liv-golf/notes/people/brandy-sxm.md`
+
 ---
 
 ## Decisions
-- 2026-03-25 -- SiriusXM round 2 with Brandy went deep on management philosophy and strategic accomplishments. Format was open and engaged. No explicit next step set -- follow up needed.
 
 ---
 
@@ -43,12 +54,15 @@
 - 2026-04-15 -- Jack academic progress review with teachers. Strong performer across all subjects. Growth areas: class participation, flexibility with corrections, writing elaboration. Advanced math placement recommended for middle school. IEP meeting next week with full team.
 - 2026-04-17 -- Follow-up with Contis (Greg and Isabella) on insurance + financial plan. Term recommendations locked: Matt $1.5M, Sandra +$1M on top of existing $700K. Variable life concept introduced as tax-free investment vehicle; Contis to send revised illustrations at $1M death benefit and lower contribution examples.
 - 2026-04-17 -- WBD Bleacher Report recruiter screen with Bernie. SPM role, $430K-$500K total comp. Danny Joseph intro next week, then 5-round loop. Prep doc provided.
+- 2026-04-22 -- SiriusXM opportunity confirmed gone. Moved to Closed Opportunities; removed from active tracks and TASKS.md. Meeting notes remain in `/archive/liv-golf/notes/`.
+- 2026-04-22 -- ViX CTPO screen with Russell Reynolds (Lucia Shaw, Rafa Martinez). Strong alignment on streaming experience (LIV, fubo) and leadership philosophy. Comp target similar base plus LTI. Location gap: ViX prefers Miami/Mexico City; Russell Reynolds to push for NY/LA flex. Awaiting their check-in with ViX team.
 
 ---
 
 ## Meeting History
 | Date | Meeting | Key Outcome |
 |------|---------|-------------|
+| 2026-04-22 | [ViX CTPO - Rafa Martinez](meetings/2026/2026-04-22-vix-ctpo-rafa-martinez.md) | Russell Reynolds screen; strong alignment; location gap (Miami/MX vs NY); RR to advocate |
 | 2026-04-17 | [WBD Interview w Recruiter](meetings/2026/2026-04-17-wbd-recruiter-interview.md) | Bleacher Report SPM screen; Danny Joseph intro next; 5-round loop to follow |
 | 2026-04-17 | [Conti Insurance Financial Planning](meetings/2026/2026-04-17-conti-insurance-financial-planning.md) | Term recs: Matt $1.5M, Sandra +$1M; variable life investment vehicle introduced |
 | 2026-04-15 | [Fidelity 401k Rollover](meetings/2026/2026-04-15-fidelity-401k-rollover.md) | Rollover blocked by active-employee status; wait 1-2 payroll cycles |

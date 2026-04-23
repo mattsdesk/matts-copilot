@@ -153,6 +153,14 @@ LIV Golf has been archived to `archive/liv-golf/`. Do not reference or update th
 
 ---
 
+## Automation
+
+Scheduled Claude tasks that operate on this project are documented in `/scheduled-tasks.md` at the project root. The active one is `granola-notes-sync`, which runs weekdays at 8:30 AM and 5:30 PM ET and routes new Granola meetings into the correct project's `meetings/2026/` folder.
+
+When adding, disabling, or modifying a scheduled task, update `/scheduled-tasks.md` in the same session.
+
+---
+
 ## Output Standards
 
 - Format: Markdown unless specified otherwise
