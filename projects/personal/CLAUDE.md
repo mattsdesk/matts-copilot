@@ -20,7 +20,7 @@ Personal initiatives Matt is running in parallel with his professional work. Pri
 
 | Track | Status | Notes |
 |-------|--------|-------|
-| WBD Bleacher Report (SPM) | Active | Recruiter screen Apr 17; Danny Joseph intro next; 5-round loop to follow |
+| WBD Bleacher Report (SPM) | Active | Danny Joseph intro done Apr 24; two roles under discussion (VP CMS Innovation or Principal UX); 5-round loop to follow |
 | SiriusXM (Brandy) | Closed 2026-04-22 | Opportunity is gone; see archived notes |
 
 ---

@@ -76,6 +76,22 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - NOTE: thesis.md still reads v0.7 -- v0.8 changes may not have been saved to file. Verify.
 - `acquisitions-digest` off-cycle run (Tuesday, scheduled cadence is Mon/Wed/Fri). Produced `digests/2026-04-21.md`. 0 new Strong Matches, 0 new Borderline. Snippet inventory essentially identical to 2026-04-20 run; marketplace refresh is slower than daily. Suggestion: keep Mon/Wed/Fri cadence; added runs yield diminishing returns. Noted that prior run's file was mis-dated as 2026-04-20 due to env date signal (actual wall clock is 2026-04-21); both files retained since memory log points to 2026-04-20.md.
 
+### 2026-04-23
+
+- `acquisitions-digest` off-cycle run (Thursday; scheduled cadence is Mon/Wed/Fri). Produced `digests/2026-04-23.md`. 0 new Primary Strong Matches, 0 new Passive Strong Matches, 3 new Borderline (Essex County absentee hand/brushless car wash 30+ years; Morris County 37-year residential pool service $1.85M SBA; Morris County unspecified service business $1.6M SBA). Total excluded approximately 30+ across food, laundromat, routes, SDE below range, multiple above ceiling, out-of-geography, solo operator, full-service car wash, and previously-excluded resurfacing.
+- Pattern: fourth consecutive run showing sub-daily marketplace inventory refresh. Mon/Wed/Fri cadence remains correct; off-cycle runs continue to yield diminishing new items.
+- Pattern: Morris County listings clustering across runs. Consider sub-radius filter (eastern Morris only) rather than blanket county inclusion when triaging.
+- Essex County car wash (Listing #37316) is the first Passive-adjacent Essex County listing across four runs; worth a click-through to resolve Passive vs excluded based on automated-vs-full-service revenue split.
+- Synergy Business Brokers direct outreach to Joe Coculo remains the highest-leverage coverage improvement available.
+
+### 2026-04-27
+
+- Gmail-primary run: 2 threads processed, 1 listing partially extracted (BizBuySell NJ alert body not retrieved by connector -- snippet-only returned; full body parsing is still blocked), 1 thread was outbound inquiry confirmation for "Established Niche Marketing Agency" (already in pipeline).
+- 0 Primary Strong Matches, 0 Passive Strong Matches. 3 Borderline (school bus company Essex/Middlesex, northern NJ exterior car wash $1.2M ask, NE regional equipment rental NJ).
+- School bus company in Essex/Middlesex is the highest-priority lead this run: geography ideal, contractual revenue, retiring owner, staff model -- only missing SDE confirmation.
+- Gmail connector body retrieval still not working (get_thread returns snippet only despite FULL_CONTENT format request). This is a recurring blocker for email-alert-based discovery.
+- "Established Niche Marketing Agency" inquiry was sent 2026-04-23; Matt should check for seller response.
+
 ### 2026-04-19 (first discovery run)
 
 - Strong matches: 3 (school bus company Essex County; commercial HVAC Bergen County; commercial HVAC Passaic County)

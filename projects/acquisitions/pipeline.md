@@ -19,6 +19,7 @@ Updated inline as listings move through the funnel. When row count exceeds ~20 a
 | Date Graduated | Deal | Folder |
 |---|---|---|
 | 2026-04-15 | Manalapan / Marlboro Driving Schools | `/projects/driving-school-acquisition/` |
+| 2026-04-27 | Renna Media (30 hyper-local NJ newspapers) | `/projects/renna-media-acquisition/` |
 
 ---
 

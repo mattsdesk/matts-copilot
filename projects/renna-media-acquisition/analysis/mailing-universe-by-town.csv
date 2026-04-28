@@ -1,0 +1,32 @@
+slug,paper,municipality,municipality_type,county,county_fips,zips,note,census_name,pop,housing_units,occupied,vacant,business_estabs
+berkeley-heights-news,Berkeley Heights Community News,Berkeley Heights township,township,Union,039,07922,,"Berkeley Heights township, Union County, New Jersey",13121,4843,4660,183,386
+the-chathams,The Chathams (Borough),Chatham borough,borough,Morris,027,07928,Two municipalities — see chatham-twp row,"Chatham borough, Morris County, New Jersey",9219,3003,2946,57,504
+the-chathams-twp,The Chathams (Township),Chatham township,township,Morris,027,07928,,"Chatham township, Morris County, New Jersey",11001,4025,3935,90,504
+clark-monthly,Clark Monthly,Clark Township,township,Union,039,07066,,"Clark township, Union County, New Jersey",15410,6084,5949,135,487
+cranford-monthly,Cranford Monthly,Cranford township,township,Union,039,07016,,"Cranford township, Union County, New Jersey",23841,9619,9410,209,758
+east-hanover-view,East Hanover View,East Hanover township,township,Morris,027,07936,,"East Hanover township, Morris County, New Jersey",11106,4162,4045,117,667
+elmora-hills,Elmora Hills,Elizabeth city,city,Union,039,07208,Elmora is a neighborhood of Elizabeth — full city housing units overstate; partial coverage only,"Elizabeth city, Union County, New Jersey",135887,48940,45932,3008,501
+fanwood-post,Fanwood Post,Fanwood borough,borough,Union,039,07023,,"Fanwood borough, Union County, New Jersey",7714,2783,2776,7,182
+florham-park-press,Florham Park Press,Florham Park borough,borough,Morris,027,07932,,"Florham Park borough, Morris County, New Jersey",13134,4914,4587,327,683
+garwood-times,Garwood Times,Garwood borough,borough,Union,039,07027,,"Garwood borough, Union County, New Jersey",4688,2093,2054,39,164
+green-brook-gazette,Green Brook Gazette,Green Brook township,township,Somerset,035,08812,,"Green Brook township, Somerset County, New Jersey",6982,2381,2272,109,471
+hanover-township-press,Hanover Township Press,Hanover township,township,Morris,027,07927;07981,Whippany + Cedar Knolls,"Hanover township, Morris County, New Jersey",14627,5861,5754,107,642
+kenilworth-business-life,Kenilworth Business Life,Kenilworth borough,borough,Union,039,07033,,"Kenilworth borough, Union County, New Jersey",8339,3058,2880,178,432
+life-in-linden,Life in Linden,Linden city,city,Union,039,07036,,"Linden city, Union County, New Jersey",43614,16142,15290,852,1280
+life-in-roseland,Life in Roseland,Roseland borough,borough,Essex,013,07068,,"Roseland borough, Essex County, New Jersey",6211,2470,2445,25,375
+livingston-monthly,Livingston Monthly,Livingston township,township,Essex,013,07039,,"Livingston township, Essex County, New Jersey",31128,10684,10425,259,1235
+long-hill-leader,Long Hill Leader,Long Hill township,township,Morris,027,07946;07933;07980,Stirling/Gillette/Millington,"Long Hill township, Morris County, New Jersey",8609,3038,3002,36,275
+madison-monthly,Madison Monthly,Madison borough,borough,Morris,027,07940,,"Madison borough, Morris County, New Jersey",16464,5721,5554,167,522
+millburn-short-hills-monthly,Millburn Short Hills Monthly,Millburn township,township,Essex,013,07041;07078,,"Millburn township, Essex County, New Jersey",21793,7276,6999,277,978
+morris-township-times,Morris Township Times,Morris township,township,Morris,027,07960,,"Morris township, Morris County, New Jersey",23239,8616,8442,174,1658
+morristown-monthly,Morristown Monthly,Morristown town,town,Morris,027,07960,,"Morristown town, Morris County, New Jersey",20256,9318,8907,411,1658
+mountainside-view,Mountainside View,Mountainside borough,borough,Union,039,07092,,"Mountainside borough, Union County, New Jersey",6967,2616,2540,76,349
+new-providence-news,New Providence News,New Providence borough,borough,Union,039,07974,,"New Providence borough, Union County, New Jersey",13577,5500,5201,299,342
+our-town-rahway,Our Town Rahway,Rahway city,city,Union,039,07065,,"Rahway city, Union County, New Jersey",29748,12811,12155,656,624
+roselle-park-monthly,Roselle Park Monthly,Roselle Park borough,borough,Union,039,07204,,"Roselle Park borough, Union County, New Jersey",13965,5373,5236,137,265
+scotch-plains-monthly,Scotch Plains Monthly,Scotch Plains township,township,Union,039,07076,,"Scotch Plains township, Union County, New Jersey",24667,9037,8751,286,571
+spirit-of-union,Spirit of Union,Union township,township,Union,039,07083,,"Union township, Union County, New Jersey",60119,21932,21056,876,1603
+summit-times,Summit Times,Summit city,city,Union,039,07901,,"Summit city, Union County, New Jersey",22512,8603,8130,473,838
+warren-monthly,Warren Monthly,Warren township,township,Somerset,035,07059,,"Warren township, Somerset County, New Jersey",15962,5751,5459,292,715
+watchung-post,Watchung Post,Watchung borough,borough,Somerset,035,07069,,"Watchung borough, Somerset County, New Jersey",6429,2429,2327,102,261
+westfield-monthly,Westfield Monthly,Westfield town,town,Union,039,07090,,"Westfield town, Union County, New Jersey",30760,11093,10676,417,876

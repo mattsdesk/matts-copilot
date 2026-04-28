@@ -27,6 +27,7 @@
 - 2026-04-21 -- Process gaps documented: no lead tracking, no dedicated phone coverage, no review solicitation process, no coordinated cross-channel strategy. All reinforce lead tracking engagement pitch.
 - 2026-04-19 -- SEO: Vendor evaluation in progress. Building a rubric to assess SEO and AI search visibility specialists; concrete recommendation expected in 1-2 weeks.
 - 2026-04-19 -- Tactical ask: Asked Steve/Mat to confirm whether Google Search Console is set up for the website and to grant access if so. Will use GSC to pull search query insights and assess organic performance alongside paid.
+- 2026-04-27 -- Client Acquisition: Budget doubling ($10K → $20K effective 2026-05-01) on HOLD per Steve. Internal complaints that the firm is fielding a lot of out-of-state calls and viewing the spend as wasteful. Hold scope increase until geo/intent quality is addressed. Action items: pull out-of-state lead share from current data, review geo-targeting + location settings + audience signals, and prepare a response that quantifies the issue and proposes mitigations (tightened geo radius, negative geo, in-state intent modifiers, call qualification) before re-pitching the budget increase.
 
 
 ---
@@ -61,3 +62,4 @@
 - 2026-04-10 -- Logged April week-one performance ($17/lead, 30-35 leads/week). Noted plan to recommend budget doubling mid-month. Conversion/lead tracking proposal flagged as open item -- Matt to share document for logging.
 - 2026-04-19 -- Logged post-call recap email to Steve and Mat. Six items: paid search performance + budget double ask for 5/1, lead/client tracking emphasis, SEO vendor evaluation in progress, Matt capacity update (left LIV), value of stronger marketing infra, and GSC access ask. Email saved to /comms/2026-04-19-recap-steve-mat.md. Open items: budget double approval, GSC status/access, lead tracking proposal still pending, SEO rubric/shortlist due in 1-2 weeks.
 - 2026-04-21 -- Held Einhorn call with Liz Lindley and Brian Alford (Jaffe PR). GSC access committed by Brian. Liz flagged scope expansion interest and contractor preference confirmed. Lead rate at $13/lead on April 21. Matt Nunn follow-up scheduled for April 22.
+- 2026-04-27 -- Steve update over the weekend: hold on increasing ad scope. Internal stakeholders complaining about out-of-state call volume and characterizing the spend as wasteful. Budget double for 5/1 paused. Next step: diagnose out-of-state share, review geo settings, prepare a quantified response with mitigations before reopening the budget conversation.

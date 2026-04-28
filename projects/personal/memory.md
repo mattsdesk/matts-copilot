@@ -9,7 +9,7 @@
 - **Role:** Senior Product Manager, Bleacher Report, reports to Daniel (Danny) Joseph (VP)
 - **Comp:** $275K-$295K base, 40% ICP bonus, $75K-$150K RSU grant (3yr vest); total $430K-$500K
 - **Location:** NY preferred; CA, Atlanta also open
-- **Status:** Recruiter screen done Apr 17; Danny Joseph intro next week (Tue/Wed); full 5-round loop to follow
+- **Status:** Danny Joseph intro call done Apr 24; two roles under discussion (VP CMS Innovation or Principal UX); Danny to connect with Bernie on next steps; 5-round loop to follow
 - **Timeline:** Start end April/early May if chosen; decision ~2-3 weeks post-loop; 4 other candidates active
 
 ### ViX (TelevisaUnivision) - CTPO
@@ -56,12 +56,14 @@
 - 2026-04-17 -- WBD Bleacher Report recruiter screen with Bernie. SPM role, $430K-$500K total comp. Danny Joseph intro next week, then 5-round loop. Prep doc provided.
 - 2026-04-22 -- SiriusXM opportunity confirmed gone. Moved to Closed Opportunities; removed from active tracks and TASKS.md. Meeting notes remain in `/archive/liv-golf/notes/`.
 - 2026-04-22 -- ViX CTPO screen with Russell Reynolds (Lucia Shaw, Rafa Martinez). Strong alignment on streaming experience (LIV, fubo) and leadership philosophy. Comp target similar base plus LTI. Location gap: ViX prefers Miami/Mexico City; Russell Reynolds to push for NY/LA flex. Awaiting their check-in with ViX team.
+- 2026-04-24 -- WBD intro call with Danny Joseph (VP, Bleacher Report). Strong rapport via mutual MLB Advanced Media connection. Two roles on table: VP CMS Innovation (backend, tooling, AI, two teams) or Principal UX (front-end, content discovery). Similar comp and impact. Matt to consider preference. Danny to loop in Bernie on next steps. Coffee meeting in NYC discussed.
 
 ---
 
 ## Meeting History
 | Date | Meeting | Key Outcome |
 |------|---------|-------------|
+| 2026-04-24 | [WBD BR Interview with Danny](meetings/2026/2026-04-24-wbd-br-interview-danny.md) | Danny Joseph intro; two roles (VP CMS Innovation or Principal UX); Danny to loop Bernie; next steps TBD |
 | 2026-04-22 | [ViX CTPO - Rafa Martinez](meetings/2026/2026-04-22-vix-ctpo-rafa-martinez.md) | Russell Reynolds screen; strong alignment; location gap (Miami/MX vs NY); RR to advocate |
 | 2026-04-17 | [WBD Interview w Recruiter](meetings/2026/2026-04-17-wbd-recruiter-interview.md) | Bleacher Report SPM screen; Danny Joseph intro next; 5-round loop to follow |
 | 2026-04-17 | [Conti Insurance Financial Planning](meetings/2026/2026-04-17-conti-insurance-financial-planning.md) | Term recs: Matt $1.5M, Sandra +$1M; variable life investment vehicle introduced |

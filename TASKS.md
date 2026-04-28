@@ -1,5 +1,5 @@
 # Tasks
-**Last updated:** 2026-04-22
+**Last updated:** 2026-04-27
 
 ---
 
@@ -35,6 +35,7 @@
 ### Einhorn
 
 #### Active
+- [ ] **Diagnose out-of-state lead share + propose geo mitigations** -- internal Einhorn stakeholders complaining about out-of-state calls; budget double for 5/1 on hold until addressed; pull geo data, tighten targeting/negatives, quantify before re-pitching
 - [ ] **Confirm conversion tracking on Google tags** -- tags live on site but conversion tracking not confirmed; priority before next review
 - [ ] **PI practice area direction (Dennis)** -- SEO starting practice area still unresolved; hold until Dennis feedback
 - [ ] **Scope Alissa Hascup engagement** -- criminal group expansion; structure (separate vs. existing engagement) TBD
