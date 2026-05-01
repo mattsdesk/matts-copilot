@@ -92,6 +92,25 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Gmail connector body retrieval still not working (get_thread returns snippet only despite FULL_CONTENT format request). This is a recurring blocker for email-alert-based discovery.
 - "Established Niche Marketing Agency" inquiry was sent 2026-04-23; Matt should check for seller response.
 
+### 2026-04-29
+
+- Gmail-primary run: 1 unread thread in `label:Acquisitions` processed (SMB Deal Hunter alumni-interview newsletter, Helen Guo - educational/marketing, no specific listing). 0 listings extracted from Gmail. WebSearch supplement: 5 queries, 3 net-new Borderline listings after dedup.
+- 0 Primary Strong Matches, 0 Passive Strong Matches. 3 Borderline (Tenafly bridal boutique 23 yrs; Bergen County gas station + garage + EV; Bergen County day spa) - all Bergen County, all SDE unconfirmed.
+- Pattern: second consecutive Gmail-primary run with zero usable broker-alert volume. Saved-search alerts are not flowing into the labeled inbox. Highest-leverage fix: confirm BizBuySell / BizQuest / LoopNet saved-search emails are delivered (check spam, verify filters).
+- Bergen County clustering this run mirrors Morris County clustering from 2026-04-23 - county-level density patterns are showing up. Consider sub-radius / sub-county tuning when triaging.
+- NJ self-storage sub-$1M deal flow remains thin (statewide avg sale $5.4M); off-market broker outreach (Argus, M&M) is the realistic path for Passive Holds storage track.
+
+### 2026-05-01
+
+- Gmail-primary run: 5 threads processed, 8 listings extracted.
+- **Primary Strong Matches:** 2 (Elite Landscape & Design Build $850K SDE Nassau County; Kitchen Cabinet Mfg $1M SDE Queens)
+- **Passive Strong Matches:** 0
+- **Borderline:** 3 (Education Company $487K SDE NY location TBD; Art Publishing $343K SDE remotely operated; Retail/Rental Albany $500K SDE)
+- **Total excluded:** 12 (4 out of geography, 5 food, 1 SDE below, 2 non-listing/development)
+- Pattern: Gmail connector working fully again after prior snippet-only blocks (2026-04-27 and 2026-04-29). Both Synergy and East Coast alerts parsed multi-listing cleanly.
+- Pattern: Equipment-heavy businesses (manufacturing, landscaping) showing consistent listings. Thesis fit is clear for these sectors.
+- Next: Verify Education Company location, pressure-test Art Publishing on AI durability, clarify retail property sector/geography. Consider warm intro to Synergy for filter tuning.
+
 ### 2026-04-19 (first discovery run)
 
 - Strong matches: 3 (school bus company Essex County; commercial HVAC Bergen County; commercial HVAC Passaic County)

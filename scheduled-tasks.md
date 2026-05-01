@@ -2,7 +2,7 @@
 
 > Record of automated Claude tasks that operate on this project. Use this to recreate the setup on a new machine.
 >
-> **Last updated:** 2026-04-22
+> **Last updated:** 2026-04-29
 
 ---
 
@@ -194,6 +194,88 @@ The Gmail connector in this environment is read-only. Do not attempt to mark thr
 - If Gmail connector fails entirely, fall back to WebSearch-only mode and flag this at the top of the digest.
 - Do not promote any listing to `/projects/acquisitions/deals/`. Promotion is Matt's decision, made via the checkboxes in the digest.
 - Date handling: use the current date in America/New_York for the digest filename. If env wall clock is off, use the most recent sensible date.
+```
+
+---
+
+### `linkedin-job-digest`
+
+| Field | Value |
+|-------|-------|
+| **Description** | Daily LinkedIn job alert digest from the Job Hunt Gmail label |
+| **Schedule** | Daily at 8:00 AM ET |
+| **Cron** | `0 8 * * *` |
+| **Status** | Enabled (created 2026-04-29) |
+| **Prompt file** | `~/Documents/Claude/Scheduled/linkedin-job-digest/SKILL.md` |
+
+**Purpose:** Reads all LinkedIn job alert emails from the `Job Hunt` Gmail label received in the last 24 hours (sender: `jobalerts-noreply@linkedin.com`). Parses each listing (title, company, location, salary, inferred industry, direct LinkedIn URL) and updates a persistent Cowork sidebar artifact (`linkedin-job-digest`) with a sortable Grid.js table for daily review.
+
+**Full prompt:**
+
+```
+Check the Gmail "Job Hunt" label for LinkedIn job alert emails received in the last 24 hours, parse all job listings, and create or update the LinkedIn Job Digest artifact.
+
+## Step 1: Fetch emails
+
+Call `search_threads` with:
+  query: label:"Job Hunt" from:jobalerts-noreply@linkedin.com newer_than:1d
+  pageSize: 20
+
+If no threads are returned, proceed to Step 4 with an empty job list and display a "No new job alerts in the last 24 hours" message in the artifact.
+
+## Step 2: Get full content
+
+For each thread ID returned, call `get_thread` with:
+  messageFormat: FULL_CONTENT
+
+## Step 3: Parse job listings
+
+Each email plain text body contains job listings separated by dashed lines (`---`). For each listing block, extract:
+
+- **Title**: First non-empty line of the block
+- **Company**: Second line
+- **Location**: Third line
+- **Salary**: Check the email subject line for salary info (formats like "up to $250K/year" or "$200K-$250K / year"). Salary is not listed per-job in the body -- apply the subject line value to all jobs in that email. If no salary found, use "Not listed"
+- **Industry**: Infer from your knowledge of the company (e.g., Samsung Ads -> Advertising/Tech, Mastercard -> Financial Services, Merck -> Pharmaceuticals, Uber -> Transportation/Tech). Use "Unknown" if unsure
+- **Link**: Extract the URL from the "View job: [URL]" line in each block. Use the URL as-is (do not shorten or modify it)
+
+Skip the final "See all jobs on LinkedIn" block -- it is not a job listing.
+
+Deduplicate across multiple emails: if the same job title + company combination appears more than once, keep only one entry.
+
+## Step 3b: Filter listings
+
+After parsing and deduplicating, apply these filters. Drop any job that matches either rule:
+
+1. **Salary ceiling at or below $250K**: If a salary is listed and it tops out at $250K or less (e.g., "up to $250K/year", "$200K-$250K/year"), exclude the job. If salary is "Not listed", keep it.
+2. **Finance industry**: Exclude jobs at companies whose primary business is financial services -- banks, investment banks, asset managers, payment networks, insurance companies, and similar. Examples: BNY, JPMorgan, Goldman Sachs, Mastercard, Visa, Fidelity, BlackRock, Morgan Stanley. Companies that use finance as a tool (e.g., a fintech selling software, a tech company with a payments product) are not automatically excluded -- use judgment.
+
+## Step 4: Build the artifact
+
+First, call `list_artifacts` to check whether an artifact with id `linkedin-job-digest` already exists.
+- If it exists: call `update_artifact`
+- If not: call `create_artifact`
+
+Use id: `linkedin-job-digest`
+Description: "Daily LinkedIn job alert digest -- refreshed each morning from the Job Hunt Gmail label"
+
+The HTML artifact must be a complete self-contained page. Use Grid.js for the sortable table. Include these exact CDN tags:
+
+<script src="https://cdn.jsdelivr.net/npm/gridjs@5.0.2/dist/gridjs.umd.js" integrity="sha384-/XXDzxe4FsGiAe50i/u9pY/Vy/uX654MHB1xoc1BJNnH1WXHhqHga9g3q5tF4gj7" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gridjs@5.0.2/dist/theme/mermaid.min.css" integrity="sha384-jZvDSsmGB9oGGT/4l9bHXGoAv1OxvG/cFmSo0dZaSqmBgvQTKDBFAMftlXTmMbNW" crossorigin="anonymous">
+
+The artifact should include:
+- A heading: "LinkedIn Job Digest" with today's date (format: "April 29, 2026")
+- A Grid.js sortable table with these columns: Title, Company, Industry, Location, Salary, Link
+- The Link column should render as a small "View" button/link that opens the LinkedIn URL in a new tab. Use Grid.js html() formatter for this column
+- The job data should be hardcoded as a JavaScript array in the HTML -- do not make live network calls
+- Clean light-mode styling: white background, dark text, readable font (system-ui or sans-serif), subtle header row shading
+- A footer line: "Last updated: [timestamp of run]"
+- Include `:root { color-scheme: light }` in the styles
+
+If there are no jobs (empty list), show a centered message: "No new LinkedIn job alerts in the last 24 hours." instead of an empty table.
+
+mcp_tools to declare: mcp__39aab7ae-d187-4013-b383-36d53c16c374__search_threads, mcp__39aab7ae-d187-4013-b383-36d53c16c374__get_thread
 ```
 
 ---

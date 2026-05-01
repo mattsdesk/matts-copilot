@@ -19,3 +19,29 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-04-27 | Heavy Equipment Sales/Rental (50 years, $1.7M EBITDA) | WebSearch - equipment rental query | Excluded - SDE above Primary ceiling
 2026-04-27 | Delanco NJ Self-Storage (865 units, Extra Space) | WebSearch - self storage query | Excluded - completed transaction, not for sale
 2026-04-27 | Egg Harbor City NJ Self-Storage Development | WebSearch - self storage query | Excluded - development deal, not operating business
+2026-04-29 | SMB Deal Hunter alumni interview newsletter (Nielson commercial landscaping LA County) | Gmail thread 19dd0ac1c2d816aa | Excluded - no specific listing (marketing/educational email)
+2026-04-29 | High-End Bridal Boutique, Tenafly NJ (23 yrs) | WebSearch - Bergen County query | Borderline (Primary - SDE unknown, owner-brand risk in bridal)
+2026-04-29 | Bergen County NJ Branded Gas Station + 3-bay Garage + NYS Inspection + EV Pumps | WebSearch - Bergen County query | Borderline (Primary - SDE unknown, mixed margins)
+2026-04-29 | Bergen County NJ Day Spa (non-medical aesthetics) | WebSearch - Bergen County query | Borderline (Primary - SDE unknown, work-ON-not-IN risk)
+2026-04-29 | Bergen County NJ Bagel Store and Deli | WebSearch - Bergen County query | Excluded - food
+2026-04-29 | Bergen County NJ Sushi Restaurant (15+ yrs) | WebSearch - Bergen County query | Excluded - food
+2026-04-29 | Bergen County NJ Kosher Dessert Shop (est. 2022) | WebSearch - Bergen County query | Excluded - food + under 5 years
+2026-04-29 | Bergen County NJ Hybrid Card/Coin Laundromat (12 yrs) | WebSearch - Bergen County query | Excluded - laundromat (hard-excluded sector)
+2026-04-29 | Central NJ Catering Company ($583K SDE, retiring owner) | WebSearch - retiring owner query | Excluded - food
+2026-04-29 | NJ Italian Restaurant (37 yrs, retiring owners) | WebSearch - retiring owner query | Excluded - food
+2026-04-29 | Union County NJ Dry Cleaning (Northern NJ affluent area, retiring owner) | WebSearch - retiring owner query | Excluded - sector not preferred (dry cleaning, prior exclusion)
+2026-05-01 | Elite Landscape and Design Build Firm (Nassau County NY) | Gmail - East Coast Business Brokers #12581 | Strong Match (Primary - $850K SDE, 42yr reputation, management/systems in place)
+2026-05-01 | Kitchen Cabinet Manufacturing Facility (Queens NY) | Gmail - East Coast Business Brokers #12570 | Strong Match (Primary - $1M SDE, equipment-backed, $2.5M booked 2026)
+2026-05-01 | Growing Education Company (New York, state TBD) | Gmail - Synergy Business Brokers featured listing | Borderline (Primary - $487K SDE, location unconfirmed)
+2026-05-01 | Art Publishing Platform (remotely operated) | Gmail - Synergy Business Brokers featured listing | Borderline (Primary - $343K SDE, digital/AI durability risk)
+2026-05-01 | Garment Manufacturing Facility (Bangladesh) | Gmail - Synergy Business Brokers featured listing | Excluded - out of geography
+2026-05-01 | Luxury Transport Companies (Dubai) | Gmail - Synergy Business Brokers featured listing | Excluded - out of geography
+2026-05-01 | Pool Maintenance & Repair (South Carolina) | Gmail - Synergy Business Brokers featured listing | Excluded - out of geography
+2026-05-01 | Retail Shop Rental Property (Albany NY) | Gmail - East Coast Business Brokers #12577 | Borderline (Primary - $500K SDE, geography borderline, adult entertainment sector)
+2026-05-01 | High Growth Dryer Vent Business (Suffolk County NY) | Gmail - East Coast Business Brokers #12539 | Excluded - SDE below Primary floor ($148K)
+2026-05-01 | Gourmet Crepe & Espresso Cafe (New York) | Gmail - East Coast Business Brokers #12575 | Excluded - food
+2026-05-01 | Dual Location Mexican QSR (Upper East Side NYC) | Gmail - East Coast Business Brokers #12419 | Excluded - food
+2026-05-01 | Established Restaurant and Market (Putnam NY) | Gmail - East Coast Business Brokers #12663 | Excluded - food
+2026-05-01 | Bay Shore Pizzeria (Suffolk County NY) | Gmail - East Coast Business Brokers #12443 | Excluded - food
+2026-05-01 | Renna Media SBA Financing Introduction | Gmail - Murphy Business #19de0c321cb7fa49 | Excluded - no specific listing (financing intro for known deal)
+2026-05-01 | Southampton 4.8 Acre Development Opportunity | Gmail - East Coast Business Brokers | Excluded - not an operating business (real estate development deal)

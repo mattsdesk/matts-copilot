@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Renna Media · Growth Plan</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  @page { size: letter; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: #FFFFFF;
+    color: #1A1A1A;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+    line-height: 1.4;
+    -webkit-font-smoothing: antialiased;
+    font-feature-settings: 'ss01', 'cv11';
+  }
+
+  .page {
+    width: 8.5in;
+    height: 11in;
+    margin: 0 auto;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ============ HERO BAND ============ */
+  .hero {
+    background: linear-gradient(135deg, #000000 0%, #1F1F1F 100%);
+    color: #FFFFFF;
+    padding: 18px 36px 16px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: end;
+    gap: 28px;
+  }
+
+  .hero .kicker {
+    font-size: 7.5pt;
+    font-weight: 600;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #999999;
+    margin-bottom: 4px;
+  }
+
+  .hero .title {
+    font-size: 28pt;
+    font-weight: 900;
+    letter-spacing: -1px;
+    line-height: 0.95;
+    margin-bottom: 6px;
+  }
+
+  .hero .subtitle {
+    font-size: 10pt;
+    font-weight: 400;
+    color: #DDDDDD;
+    line-height: 1.4;
+    max-width: 4.6in;
+  }
+
+  .hero .stat {
+    text-align: right;
+    border-left: 1px solid #555555;
+    padding-left: 22px;
+  }
+
+  .hero .stat .num {
+    font-size: 28pt;
+    font-weight: 900;
+    line-height: 0.95;
+    letter-spacing: -1px;
+  }
+
+  .hero .stat .label {
+    font-size: 7pt;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #BBBBBB;
+    margin-top: 5px;
+    line-height: 1.5;
+  }
+
+  /* ============ BODY WRAPPER ============ */
+  .body {
+    flex: 1;
+    padding: 14px 36px 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+
+  /* ============ INTRO ============ */
+  .intro {
+    display: grid;
+    grid-template-columns: 1.45fr 1fr;
+    gap: 26px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #1A1A1A;
+    margin-bottom: 12px;
+    flex-shrink: 0;
+  }
+
+  .intro h3 {
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 7px;
+  }
+
+  .intro .lede p {
+    font-size: 10pt;
+    color: #1A1A1A;
+    line-height: 1.5;
+  }
+
+  .intro .thesis {
+    background: linear-gradient(180deg, #F2F2F2 0%, #E8E8E8 100%);
+    padding: 12px 16px;
+    border-left: 4px solid #000000;
+  }
+
+  .intro .thesis p {
+    font-size: 10.5pt;
+    font-weight: 600;
+    color: #000000;
+    line-height: 1.45;
+  }
+
+  /* ============ MIDDLE WRAPPER ============ */
+  .middle {
+    flex: 1 1 auto;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 14px;
+    padding: 4px 0;
+  }
+
+  /* ============ ROADMAP DIVIDER ============ */
+  .roadmap-divider {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
+    margin: 2px 0;
+  }
+
+  .roadmap-divider .rule {
+    flex: 1;
+    height: 6px;
+    background-image:
+      linear-gradient(90deg, #000000 50%, transparent 50%),
+      linear-gradient(90deg, transparent 50%, transparent 50%);
+    background-size: 8px 1px;
+    background-position: 0 center;
+    background-repeat: repeat-x;
+  }
+
+  .roadmap-divider .ornament {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .roadmap-divider .ornament .dot {
+    width: 4px;
+    height: 4px;
+    background: #000000;
+    border-radius: 50%;
+  }
+
+  .roadmap-divider .label {
+    font-size: 9pt;
+    font-weight: 800;
+    letter-spacing: 4.5px;
+    text-transform: uppercase;
+    color: #000000;
+    white-space: nowrap;
+  }
+
+  /* ============ FOUR PILLARS ============ */
+  .pillars {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+    flex-shrink: 0;
+  }
+
+  .pillar .num {
+    font-size: 26pt;
+    font-weight: 900;
+    line-height: 0.9;
+    color: #000000;
+    margin-bottom: 2px;
+    letter-spacing: -1.2px;
+  }
+
+  .pillar .num::after {
+    content: "";
+    display: block;
+    width: 26px;
+    height: 3px;
+    background: #000000;
+    margin-top: 4px;
+  }
+
+  .pillar h4 {
+    font-size: 9.5pt;
+    font-weight: 700;
+    color: #000000;
+    line-height: 1.2;
+    margin: 7px 0 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .pillar p {
+    font-size: 8.5pt;
+    color: #444444;
+    line-height: 1.4;
+  }
+
+  /* ============ THREE-YEAR PLAN ============ */
+  .years {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    flex-shrink: 0;
+  }
+
+  .year {
+    background: linear-gradient(180deg, #F2F2F2 0%, #FAFAFA 100%);
+    border: 1px solid #1A1A1A;
+    padding: 13px 14px 14px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .year .phase {
+    font-size: 7pt;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #666666;
+    margin-bottom: 2px;
+  }
+
+  .year h2 {
+    font-size: 13pt;
+    font-weight: 800;
+    line-height: 1.1;
+    color: #000000;
+    margin-bottom: 7px;
+    letter-spacing: -0.3px;
+  }
+
+  .year .rule {
+    height: 2px;
+    background: #000000;
+    width: 30px;
+    margin-bottom: 8px;
+  }
+
+  .year ul {
+    list-style: none;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .year li {
+    font-size: 9pt;
+    padding: 5px 0 5px 14px;
+    color: #1A1A1A;
+    position: relative;
+    line-height: 1.35;
+    border-bottom: 1px solid #DDDDDD;
+  }
+
+  .year li:last-child { border-bottom: none; }
+
+  .year li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 12px;
+    width: 7px;
+    height: 2px;
+    background: #000000;
+  }
+
+  /* ============ BOTTOM ROW ============ */
+  .bottom {
+    display: grid;
+    grid-template-columns: 1fr 1.25fr;
+    gap: 26px;
+    padding-top: 11px;
+    border-top: 1px solid #1A1A1A;
+    margin-bottom: 12px;
+    flex-shrink: 0;
+  }
+
+  .bottom h3 {
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 8px;
+  }
+
+  .ninety ul { list-style: none; }
+
+  .ninety li {
+    font-size: 9pt;
+    padding: 2.5px 0 2.5px 13px;
+    color: #1A1A1A;
+    position: relative;
+    line-height: 1.35;
+  }
+
+  .ninety li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 7px;
+    height: 2px;
+    background: #000000;
+  }
+
+  .fit p {
+    font-size: 9pt;
+    color: #1A1A1A;
+    line-height: 1.45;
+    margin-bottom: 6px;
+  }
+
+  .fit .goal {
+    font-size: 9.5pt;
+    font-weight: 700;
+    color: #000000;
+    border-left: 3px solid #000000;
+    padding: 3px 0 3px 11px;
+    margin-top: 6px;
+  }
+
+  /* ============ CLOSING BAND ============ */
+  .closing {
+    background: linear-gradient(135deg, #000000 0%, #1F1F1F 100%);
+    height: 22px;
+  }
+
+  .closing .dot {
+    color: #999999;
+    margin: 0 14px;
+    font-weight: 400;
+  }
+
+  /* ============ SIGNATURE ============ */
+  .signature {
+    padding: 6px 36px 10px;
+    display: grid;
+    grid-template-columns: 1fr 1.15fr;
+    align-items: baseline;
+    gap: 20px;
+    font-size: 6.5pt;
+    color: #666666;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    font-weight: 500;
+  }
+
+  .signature .career {
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .signature .name {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    color: #000000;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .signature .name .sep {
+    color: #BBBBBB;
+    font-weight: 400;
+  }
+
+  @media print {
+    .page { page-break-after: avoid; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HERO BAND -->
+  <div class="hero">
+    <div>
+      <div class="kicker">A Growth Plan for</div>
+      <div class="title">Renna Media</div>
+      <div class="subtitle">Preserving a local publishing legacy while building the next-generation community media platform.</div>
+    </div>
+    <div class="stat">
+      <div class="num">206K</div>
+      <div class="label">Monthly mailings<br>30 NJ towns</div>
+    </div>
+  </div>
+
+  <div class="body">
+
+    <!-- INTRO -->
+    <div class="intro">
+      <div class="lede">
+        <h3>The Opportunity</h3>
+        <p>Renna Media is more than a newspaper business. It is a trusted local distribution platform, an advertiser relationship engine, and a community brand built over decades. The asset is the place Renna holds in 30 communities, not the printing press.</p>
+      </div>
+      <div class="thesis">
+        <h3>Core Thesis</h3>
+        <p>Protect the print trust engine, digitize the operating system, and add higher-margin digital services for local advertisers.</p>
+      </div>
+    </div>
+
+    <div class="middle">
+
+    <!-- FOUR PILLARS -->
+    <div class="pillars">
+      <div class="pillar">
+        <div class="num">1</div>
+        <h4>Trusted Local Print</h4>
+        <p>Town-by-town saturation reach that digital platforms cannot replicate.</p>
+      </div>
+      <div class="pillar">
+        <div class="num">2</div>
+        <h4>Modern Operations</h4>
+        <p>Document workflows, update tools, reduce dependency on two people.</p>
+      </div>
+      <div class="pillar">
+        <div class="num">3</div>
+        <h4>Digital Services</h4>
+        <p>Websites, Google Ads, SEO, social, and local marketing packages.</p>
+      </div>
+      <div class="pillar">
+        <div class="num">4</div>
+        <h4>Careful Expansion</h4>
+        <p>Add towns only after unit economics and staffing are proven.</p>
+      </div>
+    </div>
+
+    <!-- ROADMAP DIVIDER -->
+    <div class="roadmap-divider">
+      <span class="rule"></span>
+      <span class="ornament"><span class="dot"></span><span class="dot"></span></span>
+      <span class="label">The Three-Year Roadmap</span>
+      <span class="ornament"><span class="dot"></span><span class="dot"></span></span>
+      <span class="rule"></span>
+    </div>
+
+    <!-- THREE-YEAR PLAN -->
+    <div class="years">
+      <div class="year">
+        <div class="phase">Year One</div>
+        <h2>Stabilize, Learn, Modernize</h2>
+        <div class="rule"></div>
+        <ul>
+          <li>Protect advertiser relationships</li>
+          <li>Document the monthly publication cycle</li>
+          <li>Modernize design and layout tools</li>
+          <li>Add production support</li>
+          <li>Pilot digital add-ons with existing advertisers</li>
+        </ul>
+      </div>
+      <div class="year">
+        <div class="phase">Year Two</div>
+        <h2>Build the Growth Engine</h2>
+        <div class="rule"></div>
+        <ul>
+          <li>Add commission-based sales support</li>
+          <li>Create print + digital advertiser packages</li>
+          <li>Rebuild web and social presence</li>
+          <li>Test adjacent town expansion</li>
+          <li>Sell inserts and EDDM as standalone products</li>
+        </ul>
+      </div>
+      <div class="year">
+        <div class="phase">Year Three</div>
+        <h2>Scale the Platform</h2>
+        <div class="rule"></div>
+        <ul>
+          <li>Reach 40 to 50+ towns where the unit economics work</li>
+          <li>Build full local marketing services line</li>
+          <li>Hire a GM and operations lead</li>
+          <li>Explore regional media or advertiser-book acquisitions</li>
+          <li>Print as the trust engine, digital as the margin engine</li>
+        </ul>
+      </div>
+    </div>
+
+    </div><!-- /middle -->
+
+    <!-- BOTTOM: 90 DAYS + FIT -->
+    <div class="bottom">
+      <div class="ninety">
+        <h3>First 90 Days</h3>
+        <ul>
+          <li>Learn the full publication cycle hands-on</li>
+          <li>Meet key advertisers and contributors</li>
+          <li>Map town-level economics</li>
+          <li>Document repeatable workflows</li>
+          <li>Build staffing and digital pilot plans</li>
+        </ul>
+      </div>
+      <div class="fit">
+        <h3>Why I Am a Fit</h3>
+        <p>Twenty years across journalism (Associated Press), digital media (Disney, Marvel, Fubo, LIV Golf), and local marketing (Montclair Digital). Operator background, growth mindset, and a digital services bench already in place to plug into Renna's existing advertiser book.</p>
+        <div class="goal">Preserve the legacy. Digitize the operation. Expand the platform.</div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- CLOSING BAND -->
+  <div class="closing"></div>
+
+  <!-- SIGNATURE -->
+  <div class="signature">
+    <span class="career">20 yrs Digital Media &middot; AP &middot; Disney &middot; Marvel &middot; fubo &middot; LIV Golf</span>
+    <span class="name">
+      <span>Matt Saunders</span>
+      <span class="sep">&middot;</span>
+      <span>Montclair NJ</span>
+      <span class="sep">&middot;</span>
+      <span>mesaunders@gmail.com</span>
+    </span>
+  </div>
+
+</div>
+</body>
+</html>
