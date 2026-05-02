@@ -16,7 +16,7 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Hard exclude: food businesses.
 - Sectors: open minus food, leaning toward services, education, distribution, physical.
 - Predecessor: `music-biz-monitor` scheduled task (disabled 2026-04-17) did thematic weekly scans. New system is its generalization.
-- Live graduated deal: Manalapan/Marlboro driving schools in `/projects/driving-school-acquisition/`.
+- Archived: Manalapan/Marlboro driving schools (`/projects/driving-school-acquisition/`). Matt moved on from this deal as of 2026-05-01.
 - Broker relationships to date: Adam Stein / Mikael Vollbach (Kensington); Zanol (Central Jersey DS listing).
 
 ---

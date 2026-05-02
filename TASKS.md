@@ -1,31 +1,9 @@
 # Tasks
-**Last updated:** 2026-04-27
+**Last updated:** 2026-05-01
 
 ---
 
-## LIV Golf
-
-### Active
-- [ ] **Web launch scope & timeline decision** -- critical path: leaderboard data, team sites, press releases; pre-Mexico push from Denise
-- [ ] **Vendor decision: GlobalLogic vs Pulse Live** -- Fantasy Co replacement; compare proposals; decision needed
-- [ ] **Get direction from Denise on Delta Tray + dev provider replacement** -- termination letter going out; 60-day notice triggers team redistribution
-- [ ] **Address Lewis professional maturity concerns** -- process over execution; divisiveness with US team; separating from Jade should help
-- [ ] **Discuss photography shot list with Montana** -- full field shots without signage; crowd/excitement elements
-- [ ] **Connect with Jesse on LivX subscription strategy alignment** -- NYU multi-format subscription research tie-in
-- [ ] **Reinitiate leads meetings after travel** -- paused during South Africa; resume post-April 6
-
-### Waiting On
-- [ ] **Leaderboard testing on dev build** -- Lewis; must move off local machines before Mexico
-- [ ] **Push notification infrastructure** -- Arthur; end-of-month delivery confirmed; needs testing runway before Mexico
-- [ ] **URL redirect mapping** -- Jade; due April 3
-- [ ] **Jade HR formal process** -- Katherine/CPO driving; UK requires external legal; lengthy timeline
-- [ ] **December invoice resolution** -- stuck in finance approval
-- [ ] **Spain travel bookings** -- Lewis and team
-
-### Someday
-- [ ] **Streaming/OTT strategic direction** -- rights being given away without team consultation; decide post-stabilisation
-- [ ] **ViewLift replacement decision** -- contract expires next year; Moby too
-- [ ] **Barry role clarity** -- hired for Matt's team but working under Jesse; deferred post-South Africa
+> **Note:** LIV Golf has been archived. All active LIV Golf tasks have been removed from this list.
 
 ---
 
@@ -36,11 +14,13 @@
 
 #### Active
 - [ ] **Diagnose out-of-state lead share + propose geo mitigations** -- internal Einhorn stakeholders complaining about out-of-state calls; budget double for 5/1 on hold until addressed; pull geo data, tighten targeting/negatives, quantify before re-pitching
-- [ ] **Confirm conversion tracking on Google tags** -- tags live on site but conversion tracking not confirmed; priority before next review
-- [ ] **PI practice area direction (Dennis)** -- SEO starting practice area still unresolved; hold until Dennis feedback
+- [ ] **Confirm conversion tracking on Google tags** -- tags live on site but conversion tracking not confirmed; Einhorn has not implemented yet; continuing to push
+- [ ] **Test PI vs. family law keyword mix** -- shifting campaigns to focus on personal injury to test cost per lead dynamics
 - [ ] **Scope Alissa Hascup engagement** -- criminal group expansion; structure (separate vs. existing engagement) TBD
 - [ ] **Evaluate moving away from Liz for digital/SEO content** -- Mat doesn't want her involved; find replacement path
-- [ ] **Steve + Mat personal sites** -- attorney brand sites; Matt vibe-coded drafts; needs to be sent with right framing
+
+#### Waiting On
+- [ ] **Steve + Mat personal sites feedback** -- sent vibe-coded drafts; awaiting feedback; do not follow up at this time
 
 #### Waiting On
 - [ ] **Alissa SEO specialist coordination** -- wait for sites to show movement; then schedule coordination call
@@ -52,7 +32,7 @@
 ### Flyosophy (Mara Scott)
 
 #### Active
-- [ ] **Flyosophy reconnect call -- Wednesday April 8** -- delay was on Mara's side; get remaining notes for site 1; brief for site 2 (studio); explore moving off Squarespace to custom build
+- [ ] **Flyosophy reconnect call -- Monday May 5** -- follow up to wrap out. Mara owes images and text for Elevated Wellness website; Flyosophy itself is done
 
 ---
 

@@ -31,6 +31,7 @@ Key contacts in `people/`:
 
 - 2026-04-21 - Initial Einhorn engagement. Paid ads running, $20/lead cost. Website rebuild needed. Partnership discussion opened.
 - 2026-04-29 - Three critical meetings with Einhorn stakeholders: Steve Wolff (marketing agency evaluation), Liz and Steph (strategic reset proposal), and full team (website check-in). Key outcome: Dennis wants comprehensive written growth plan; firm is evaluating agencies; Matt positioned to general-counsel marketing efforts.
+- 2026-05-01 - Campaign keyword shift: transitioning focus from family law to personal injury to test cost-per-lead dynamics. Conversion tracking still not implemented by Einhorn; continuing to push. Personal injury sites (Steve + Mat vibe-coded drafts) sent; minimal feedback; holding on follow-up for now.
 
 ---
 
