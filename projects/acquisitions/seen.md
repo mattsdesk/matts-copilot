@@ -45,3 +45,5 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-05-01 | Bay Shore Pizzeria (Suffolk County NY) | Gmail - East Coast Business Brokers #12443 | Excluded - food
 2026-05-01 | Renna Media SBA Financing Introduction | Gmail - Murphy Business #19de0c321cb7fa49 | Excluded - no specific listing (financing intro for known deal)
 2026-05-01 | Southampton 4.8 Acre Development Opportunity | Gmail - East Coast Business Brokers | Excluded - not an operating business (real estate development deal)
+2026-05-04 | High-Volume Restaurant & Bar, Nassau NY (Listing #12681) | Gmail - East Coast Business Brokers 5/1 | Excluded - food
+2026-05-04 | Turnkey 3 Bay Semi Absentee Auto Shop, Nassau NY (Listing #12618) | Gmail - East Coast Business Brokers 4/30, 5/1 | Borderline (Primary - $314K SDE, requires owner involvement verification)

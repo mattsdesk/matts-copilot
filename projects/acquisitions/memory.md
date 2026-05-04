@@ -111,6 +111,17 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Pattern: Equipment-heavy businesses (manufacturing, landscaping) showing consistent listings. Thesis fit is clear for these sectors.
 - Next: Verify Education Company location, pressure-test Art Publishing on AI durability, clarify retail property sector/geography. Consider warm intro to Synergy for filter tuning.
 
+### 2026-05-04
+
+- Gmail-primary run: 10 threads processed; 3 BizBuySell alerts blocked by Gmail connector (snippet-only retrieval, full body not accessible).
+- **Primary Strong Matches:** 0 (none new this run)
+- **Passive Strong Matches:** 0
+- **Borderline:** 1 (Turnkey auto shop Nassau County #12618, $314K SDE, "semi-absentee" -- requires diligence on whether owner is truly removed from daily operations)
+- **Total excluded:** 16 (5 food, 3 out-of-geography, 1 SDE-below, 1 non-operating-business, 5 already-seen/deduped, 2 educational-no-listing, 3 retrieval-limitation)
+- Pattern: Gmail connector retrieval limitation with BizBuySell is recurring issue. Full bodies not parsing despite FULL_CONTENT format request. This caps coverage of what is otherwise a primary discovery source.
+- Pattern: East Coast Business Brokers and Synergy newsletters are high-volume but low-fit (mostly food/hospitality or out-of-radius). Deprioritizing in favor of direct marketplace browsing.
+- Data point: Auto repair sector showing as a borderline test case. Need to clarify "work ON not IN" bar for inherently skill-dependent trades. Recommend declining unless owner is genuinely delegated and technicians are the revenue generators.
+
 ### 2026-04-19 (first discovery run)
 
 - Strong matches: 3 (school bus company Essex County; commercial HVAC Bergen County; commercial HVAC Passaic County)
