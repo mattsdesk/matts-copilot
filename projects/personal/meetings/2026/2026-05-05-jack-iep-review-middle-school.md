@@ -1,0 +1,71 @@
+# Jack's Annual IEP Review: Middle School Transition
+
+**Date:** May 5, 2026
+**Attendees:** Matt Saunders, school counselor (RC), teacher Miss Quinn, occupational therapist, school team
+**Context:** Personal
+**Source:** Granola, meeting ID `ef1e7bf8-212d-40e3-b508-d91bd797d214`
+
+---
+
+## Current Strengths
+
+Counseling (RC):
+- Excels in small group sessions (especially one-on-one with another student)
+- Grasps self-regulation concepts at high level
+- Successfully identifies emotions, connects thoughts/feelings/behaviors
+- Helps other students understand game rules and strategies
+- Shows strong pre-planning and strategic thinking abilities
+
+Academics (Miss Quinn):
+- Math: Major strength, class relies on his answers
+- Reading: Above benchmark on Acadians and IXL scores, avid reader
+- Science/Social Studies: Incredible concept understanding, remembers details from weeks prior
+- Organization: Excellent with tote bag system, always prepared, completes homework consistently
+- Social awareness: Knows when to work independently vs. with friends
+
+---
+
+## Areas Needing Support
+
+Writing challenges:
+- Seeks most efficient path, writes bare minimum to meet requirements
+- Struggles expanding ideas into full paragraphs despite having knowledge
+- Gets hung up translating notes into paragraph form
+- Interprets instructions extremely literally (example: wrote 4-paragraph essay when 5 required because instructions didn't specify)
+- Benefits from verbal brainstorming sessions before writing
+
+Emotional regulation gaps:
+- Home: Holds emotions in at school, melts down at home over small triggers
+- School: Shows frustration (tears, clenched fists) when receiving feedback he disagrees with
+- Example: Derailed by "unfair" Jeopardy game rules despite advance preparation, spiraled for entire day
+
+Transition anxiety:
+- Nervous about middle school scenes, workload, mixing with unknown students from other schools
+
+---
+
+## Middle School Transition Plan
+
+Services continuing:
+- Counseling: Added back to IEP for transition support, focus on middle school anxiety
+- OT consultation: Continues with new therapist (Ms. Aowski on maternity leave)
+- In-class resource support: ELA, Science, Social Studies (not needed for Math)
+
+Accommodations maintained:
+- All current accommodations transfer
+- Verbal brainstorming added as pre-writing activity
+- Graphic organizers available digitally
+- Written notes provided for Science/Social Studies
+- Specific, detailed instructions emphasized for literal interpretation needs
+
+---
+
+## Action Items
+
+- [ ] Review draft IEP sent by school
+- [ ] Request copy of last year's final IEP
+- [ ] Review teacher write-ups from all service providers
+
+---
+
+*Notes captured via Granola. Exported to markdown.*

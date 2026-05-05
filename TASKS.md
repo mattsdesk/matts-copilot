@@ -36,6 +36,17 @@
 
 ---
 
+## Renna Media Acquisition
+
+*Active acquisition under diligence and financing evaluation. Buyer-seller fit confirmed 2026-04-30.*
+
+### Financing Evaluation
+- [ ] **Compile financing comparison** -- SBA (Gulf Bank prequalified at $450K), HELOC, HELOAN options; include lien requirements, rate comparisons, approval timeline
+- [ ] **Identify buyer's broker** -- Mike Pierson (Gulf Bank) not connected in NJ; source from network
+- [ ] **LOI structure planning** -- incorporate reverse earnout on advertiser retention; pricing decision (low-ball vs best-and-final)
+
+---
+
 ## Personal
 
 *No active tasks. SiriusXM opportunity closed 2026-04-22.*

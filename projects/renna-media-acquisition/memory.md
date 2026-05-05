@@ -158,3 +158,23 @@ This is Joe's 4th attempted deal. Three prior buyers died in the last 12 months.
   - `analysis/post-lunch-diligence-checklist.md`: Structured verification items across documentation, pricing/margins, vendor relationships, unit economics, client concentration, and financial analysis.
   - Checklist maps lunch themes to specific asks: SOP verification, staffing cost modeling, pricing strategy analysis, vendor contracts, per-paper unit economics, client retention strategy, and cash flow/ROI modeling.
 - **Next steps:** Request SOP documentation and top-20 advertiser list from broker; analyze per-paper contribution margins to validate incremental revenue assumptions; map client concentration risk and retention levers; prepare valuation negotiation framework based on margin improvement opportunity.
+
+### 2026-05-05
+- **Financing evaluation underway.** SBA prequalification received from Gulf Bank (Mike Pierson): $450K at 10% seller note. Key constraint: SBA requires residential property lien. Mike recommends exploring HELOC as alternative.
+- **Financing options to evaluate:** SBA (Gulf Bank) vs HELOC vs HELOAN. Decision needed before LOI. Mike out of office June 8-12.
+- **Alternate SBA inquiry:** David Bohlander (Huntington) contacted 2026-05-04, availability Wednesday/Thursday 2026-05-05.
+- **Buyer's broker:** Still needed; Mike has no direct NJ referrals. Action item: source from network.
+- **LOI strategy notes:** Pricing $425-450K likely, structure includes reverse earnout tied to advertiser retention (concentration risk mitigation).
+- **Next steps:** (1) compile financing comparison matrix; (2) identify buyer's broker; (3) finalize offer pricing decision; (4) LOI structure.
+
+### 2026-05-04
+- Built a standalone static newspaper website prototype in `newspaper-site-prototype/`, inspired by the `Life in Roseland NJ` masthead aesthetic.
+- Prototype includes `index.html` homepage, reusable `article.html` detail template, data-driven sample articles/events in `assets/site-data.js`, responsive styling in `assets/styles.css`, and ad placements for leaderboard, sidebar box, half-page rail, inline/native, and section banner units.
+- Added `newspaper-site-prototype/README.md` documenting how to replace article text and use slug-based article pages once real copy is provided.
+- Replaced sample article copy with eight real May 2026 Roseland issue articles: Easter Egg-Stravaganza, Opera at Florham, Local Government Week, NJFO Slovak guitarist concert, Roseland Library programs, NJIO National Spirit concert, Memorial Day Parade, and Sanaaya Yogesh soccer honors.
+- Updated homepage sections to Borough, Arts & Culture, Library, Sports, and Events, and added structured article body support for lists and event details.
+- Added the Opera at Florham 36th Annual International Vocal Competition creative as `newspaper-site-prototype/assets/opera-at-florham-300x600.png` and used it in all 300x600 tall ad placements on the homepage and article template.
+- Added the New Jersey Festival Orchestra creative as `newspaper-site-prototype/assets/njfo-300x350.png` and used it in all boxed 300x350 sidebar ad placements on the homepage and article template.
+- Simplified the newspaper prototype to a single content stream: removed top section navigation, visible category headings/eyebrow labels, section metadata, and category-filtered homepage blocks.
+- Built `newspaper-site-prototype/advertise.html` as an editable HTML/CSS version of the Renna Media Newspapers advertising rate sheet, including reach messaging, coverage board, distribution list, rate table, premium positions, special offers, and Joe Renna contact/payment details. Wired homepage and article Advertise links to the new page.
+- Adjusted the advertise page bottom cards so Premium Positions, Special Offers, and Get Started Today share a consistent height; reduced Special Offers text sizing for a cleaner fit.
