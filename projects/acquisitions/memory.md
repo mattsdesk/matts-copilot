@@ -130,3 +130,15 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Notable pattern: Essex County school bus sector has multiple simultaneous listings from retiring owners -- generational transition underway, worth a thesis opinion on this sector
 - Notable pattern: NJ HVAC sector active with 3+ listings across Passaic/Bergen counties; commercial-heavy profiles with recurring contracts align well
 - Source constraint: all marketplace direct pages blocked by egress proxy (BizBuySell, BizQuest, DealStream, Synergy, Sunbelt, VestedBB); all data sourced via WebSearch summaries -- verify financials before acting
+
+### 2026-05-06
+
+- Gmail-primary run: 13 threads processed. 4 BizBuySell alerts (snippet-only, no body text retrievable); 2 SMB Deal Hunter newsletters (editorial, no specific listings); 1 Renna Media internal thread (Matt's in-process deal, excluded); 6 broker email threads with full content (all listings already in seen.md from prior runs).
+- **Primary Strong Matches:** 0 new
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 0 new
+- **Total excluded:** 0 new (no novel listings this run; prior exclusions still valid)
+- **WebSearch supplement:** 3 queries run (Essex County, Bergen County, SDE $500K range). Returned general marketplace links, no specific new listings.
+- Pattern: 5-day gap since last run (2026-05-04). Marketplace inventory refresh is slow; no new listings surfaced despite active broker traffic. Confirms Mon/Wed/Fri cadence is appropriate.
+- Gmail connector blocker confirmed: BizBuySell alerts (4 threads) returned subject lines only; full HTML bodies not retrieved despite FULL_CONTENT format request. This is a recurring issue. Marketplace alerts are reaching the label, but parsing them via Gmail API is limited. Workaround: monitor BizBuySell.com directly if specific alerts are critical.
+- Next digest: 2026-05-08 (Wednesday, per schedule).
