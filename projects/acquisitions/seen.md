@@ -47,3 +47,12 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-05-01 | Southampton 4.8 Acre Development Opportunity | Gmail - East Coast Business Brokers | Excluded - not an operating business (real estate development deal)
 2026-05-04 | High-Volume Restaurant & Bar, Nassau NY (Listing #12681) | Gmail - East Coast Business Brokers 5/1 | Excluded - food
 2026-05-04 | Turnkey 3 Bay Semi Absentee Auto Shop, Nassau NY (Listing #12618) | Gmail - East Coast Business Brokers 4/30, 5/1 | Borderline (Primary - $314K SDE, requires owner involvement verification)
+2026-05-07 | Highly Rated Bagel Café & Food Trailer, Suffolk NY (Listing #12691) | Gmail - East Coast Business Brokers 5/7 | Excluded - food
+2026-05-07 | High Traffic Turnkey Deli, Nassau NY (Listing #12624) | Gmail - East Coast Business Brokers 5/7 | Excluded - food
+2026-05-07 | 2 Multi Unit Crumbl Dessert Franchises, Nassau NY (Listing #12642) | Gmail - East Coast Business Brokers 5/7 | Excluded - food
+2026-05-07 | High Volume 30 Year Landmark Diner, Nassau NY (Listing #12686) | Gmail - East Coast Business Brokers 5/7 | Excluded - food
+2026-05-07 | Iconic Absentee Restaurant with Real Estate, Carroll NH (Listing #12709) | Gmail - East Coast Business Brokers 5/7 | Excluded - food + out of geography
+2026-05-07 | High End South Shore Turnkey Deli, Nassau NY (Listing #12486) | Gmail - East Coast Business Brokers 5/7 | Excluded - food
+2026-05-07 | Highly Profitable Absentee Pizza Shop, New York County (Listing #12693) | Gmail - East Coast Business Brokers 5/7 | Excluded - food
+2026-05-07 | 21,000 SQFT Turnkey Supermarket, Clinton County NY (Listing #12643) | Gmail - East Coast Business Brokers 5/7 | Excluded - food + out of geography
+2026-05-07 | DTC + B2B Luxury Bespoke Fashion Brand | Gmail - Acquire.com notification | Excluded - SDE above ceiling (~$2.2M TTM profit)

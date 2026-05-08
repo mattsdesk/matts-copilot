@@ -142,3 +142,15 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Pattern: 5-day gap since last run (2026-05-04). Marketplace inventory refresh is slow; no new listings surfaced despite active broker traffic. Confirms Mon/Wed/Fri cadence is appropriate.
 - Gmail connector blocker confirmed: BizBuySell alerts (4 threads) returned subject lines only; full HTML bodies not retrieved despite FULL_CONTENT format request. This is a recurring issue. Marketplace alerts are reaching the label, but parsing them via Gmail API is limited. Workaround: monitor BizBuySell.com directly if specific alerts are critical.
 - Next digest: 2026-05-08 (Wednesday, per schedule).
+
+### 2026-05-08
+
+- Gmail-primary run: 19 threads processed. 10 BizBuySell alerts (snippet-only, no body content retrievable); 2 SMB Deal Hunter newsletters (editorial); 1 Renna Media internal (excluded); 6 broker email threads with full content.
+- **Primary Strong Matches:** 0
+- **Passive Strong Matches:** 0
+- **Borderline:** 0 new (Turnkey Auto Shop #12618 from 2026-05-04 remains under review)
+- **Total excluded:** 10 new listings, all food or SDE-out-of-range
+- Pattern: 2-day gap since 2026-05-06 run. No new Primary or Passive strong matches. Thin discovery week. East Coast Business Brokers newsletter batch (2026-05-07) contained 8 listings, all food or already-seen. Dryer vent service re-appeared at same SDE ($148K, sub-floor).
+- Gmail connector blocker persists: 10 BizBuySell alerts across dates 2026-05-02 through 2026-05-07, all snippet-only. This is third consecutive run with this blocker pattern. Full body retrieval unavailable; direct marketplace monitoring remains recommended.
+- Tuning note: Synergy and East Coast Brokers broker email volume is high but thesis fit is poor (hospitality/food dominant, geographic radius mostly out of scope). Deprioritize broker newsletters; emphasize direct marketplace + off-market broker outreach (Kensington, Argus, M&M, Sunbelt).
+- Digest output: 2026-05-08.md. Zero promotions recommended. Renna Media coordination thread excluded. Next scheduled run: 2026-05-10 (Friday).
