@@ -30,49 +30,18 @@ To recreate a task on a new machine, start a Cowork session, invoke the **Schedu
 | **Status** | Enabled |
 | **Prompt file** | `~/Documents/Claude/Scheduled/granola-notes-sync/SKILL.md` |
 
-**Purpose:** Pulls new Granola meeting notes and routes them into the correct project's `meetings/2026/` folder (montclair-digital, personal, driving-school-acquisition). Also updates the relevant project's memory.md when meaningful.
+**Purpose:** Pulls new Granola meeting notes and routes them into the correct project's `meetings/2026/` folder (montclair-digital, personal). Also updates the relevant project's memory.md when meaningful.
 
-**Full prompt:**
+**Important:** Driving school acquisition is archived. Do not route to `projects/driving-school-acquisition/`. If meetings mention broker names (Zanol, etc.), route to personal.
 
-```
-## Start here
+**Routing table:**
 
-Find the CoPilot root by running:
-```
-ls "/sessions/*/mnt/matts-copilot/"
-```
-Use the result as `<base>`.
+| Context | Route to | Triggers |
+|---------|----------|----------|
+| Montclair Digital | `<base>/projects/montclair-digital/meetings/2026/` | Einhorn Barbarito staff (Liz Lindley, Alissa Hascup, Ashley Hitch), Flyosophy (Mara Scott), or consulting client discussions |
+| Personal | `<base>/projects/personal/meetings/2026/` | Job interviews, financial planning, family, life admin, acquisition/business exploration, anything not Montclair Digital |
 
-Then read the project instructions file:
-```
-<base>/CLAUDE.md
-```
-
-CLAUDE.md contains the full operating rules for this system, including folder structure, memory conventions, and output standards. Follow it precisely.
-
-## Your job this run
-
-1. **Sync Granola** - pull any new meeting notes using the Granola MCP `list_meetings` tool (`time_range: "last_30_days"`). Compare against existing files in each project's `meetings/2026/` folder. For any new meeting, determine which project it belongs to and write it to that project's `meetings/2026/` folder.
-
-   Project routing:
-   - Montclair Digital, Einhorn, Flyosophy work -> `projects/montclair-digital/meetings/2026/`
-   - Driving school acquisition -> `projects/driving-school-acquisition/meetings/2026/`
-   - Personal (interviews, family, finance, insurance, etc.) -> `projects/personal/meetings/2026/`
-   - If unclear, leave a note at the end of this run asking for classification
-
-   LIV Golf is archived. Do not write to `archive/liv-golf/`.
-
-2. **Update project memory** - for each new meeting, append a terse entry to the relevant project's `memory.md` Session Log: date, what happened, any decisions or open items. Keep it factual.
-
-3. **Update people docs** - if the project has a `people/` folder and the meeting involves someone with an existing person doc, append to their Interaction History. Create a new person doc only if someone meaningful appears repeatedly.
-
-## Constraints
-
-- Do not overwrite existing files; skip if a meeting note already exists
-- Follow the meeting note format used in recent files in each project
-- Do not use em dashes or emoji
-- Keep summaries tight; the full transcript lives in Granola
-```
+If a meeting doesn't fit either active context (e.g., archived project), skip and note in the sync report.
 
 ---
 
@@ -97,9 +66,9 @@ Full prompt archived in `archive/liv-golf/notes/scheduled-tasks.md` (section: `m
 | Field | Value |
 |-------|-------|
 | **Description** | Gmail-primary digest of business-for-sale listings matching Matt's acquisition thesis |
-| **Schedule** | Mon/Wed/Fri at 8:00 AM ET |
-| **Cron** | `0 8 * * 1,3,5` |
-| **Status** | Enabled (created 2026-04-19; Gmail-primary since 2026-04-22) |
+| **Schedule** | Mon/Wed/Fri at 2:00 AM ET |
+| **Cron** | `0 2 * * 1,3,5` |
+| **Status** | Enabled (created 2026-04-19; Gmail-primary since 2026-04-22; rescheduled to overnight 2026-05-06) |
 | **Prompt file** | `~/Documents/Claude/Scheduled/acquisitions-digest/SKILL.md` |
 
 **Purpose:** Generates a 3x/week digest of new business-for-sale listings against Matt's barbell thesis (Primary Operating Business + Passive Holds). Gmail is the primary source: the task reads every thread in the `Acquisitions` label (100% coverage guarantee), extracts listings, applies the thesis, and writes a segmented digest to `projects/acquisitions/digests/YYYY-MM-DD.md`. WebSearch is a secondary supplement to catch marketplaces without email alerts. Thesis is re-read from disk every run so the task evolves with Matt's view.

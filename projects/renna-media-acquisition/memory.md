@@ -67,6 +67,11 @@ This is Joe's 4th attempted deal. Three prior buyers died in the last 12 months.
 
 ## Session Log
 
+### 2026-05-07
+- Shapco Direct Mail consultation on newspaper printing and distribution. Town newspaper startup targeting EDDM, 5K initial, 200K+ scale, $0.50/unit target. Shapco (art/coffee table books) not ideal fit. Recommendation: mail houses better for high-volume, low-cost (web press, inline printing, sorting). Ken Anderson to send Duluth contact.
+- Acquisition financing structure discussed with David (lender). Loan $348.5k (under $350k target): $50k personal, $125k seller note, $100k LOC, $75k working capital. 8.25% rate (stress 10.75%). Cash flow positive on 2025. Business added 6 territories, cut 1 employee position. 2023-2024 drop concerning. Target 2.7-3x SDE multiple on $140k baseline, max $420k offer. SBA with Huntington Bank. David to finalize term sheet.
+- Renna Media acquisition kick-off with Cheryl. Cheryl: nonprofit job ended January, PT at First Draft Academy (Write on Sports/Arts, 8-10 hrs/wk remote), building retirement home on NJ lake. Matt: left LIV Golf after ~1 yr (platinum airline status by March, unsustainable pace). Renna Media: 40-yr community newspaper, 200K+ monthly across 30 NJ towns, $1M revenue, SDE $179K (2025). Listed $500k (overpriced). Target ~$420k with seller financing. Eric Sharet broker. Cheryl commission structure: pay upfront, refund if deal closes.
+
 ### 2026-04-27
 - Loaded CIM (18-page PDF) into `inputs/`
 - Reviewed CIM and Matt's ChatGPT investment memo
@@ -98,6 +103,13 @@ This is Joe's 4th attempted deal. Three prior buyers died in the last 12 months.
 - Captured the rate card from page 14 of every paper to `analysis/rate-card-2026-01.md` and as the Rate Card sheet in the xlsx. Effective rates 11/1/2024 forward.
 - Built a broader first-pass Jan 2026 ad analysis workbook at `analysis/jan-2026-ad-analysis.xlsx` plus CSV at `analysis/jan-2026-ad-analysis-inventory.csv` and summary at `analysis/jan-2026-ad-analysis-summary.md`. Method: manually verified Westfield rows + auto-scanned ad boxes, phone fingerprints, and repeated full-page creative hashes across all 30 active Jan 2026 papers.
 - First-pass Jan 2026 results: 427 total inventory rows, 365 paid/potential-paid placements, 80 paid/potential-paid advertiser fingerprints, 32 rows requiring visual review (mostly image-only full-page/back-cover creatives). Bundle distribution: 40 advertisers in 1 paper, 13 in 2-3, 13 in 4-6, 8 in 7-12, 4 in 13-20, 2 in 21-30.
+
+---
+
+## People
+
+- Cheryl: Murphy business evaluator, now PT at First Draft Academy. Commission-based partnership on Renna acquisition. Phone contact and meeting notes in memory.md.
+- Eric Sharret: Murphy broker (Westfield), representing Joe Renna. Contact: 973-245-9445.
 - Largest Jan 2026 reach buyers by paper count: Magnolia Home Remodeling (28 papers, mostly full-page), Best Places Expo (23), VDS NJ Video Tape Transfers (20), Glenn Buys Motorcycles (18), Estates Roadshow (16, 32 full-page placements across two creatives), Pizzano Photo Studio (14), Dr. Murphy Suburban Chiropractic (12), My Handyman & Painter (12).
 - Built two longitudinal 2024-2025 advertiser-retention outputs:
   - `analysis/phone-retention-2024-2025.xlsx` / `.csv` / summary: fast phone-fingerprint view, best for retention and cross-paper purchasing.
@@ -178,3 +190,7 @@ This is Joe's 4th attempted deal. Three prior buyers died in the last 12 months.
 - Simplified the newspaper prototype to a single content stream: removed top section navigation, visible category headings/eyebrow labels, section metadata, and category-filtered homepage blocks.
 - Built `newspaper-site-prototype/advertise.html` as an editable HTML/CSS version of the Renna Media Newspapers advertising rate sheet, including reach messaging, coverage board, distribution list, rate table, premium positions, special offers, and Joe Renna contact/payment details. Wired homepage and article Advertise links to the new page.
 - Adjusted the advertise page bottom cards so Premium Positions, Special Offers, and Get Started Today share a consistent height; reduced Special Offers text sizing for a cleaner fit.
+
+### 2026-05-06
+- **David Bohlander SBA financing call.** Notes in `meetings/2026/2026-05-06-david-bohlander-sba-financing.md`. Discussed loan structure targeting $350K SBA + seller note. Key recommendations: 10% down minimum, 24-month interest-only preferred, target offer 3x three-year average (~$420K). David to prepare term sheet with forgivable seller note tied to advertiser retention. Matt to send CIM and connect with Cheryl Venezia for M&A guidance.
+- **Newsletter printing specs call with Kent.** Notes in `meetings/2026/2026-05-06-newsletter-printing-specs-kent.md`. 5,000 copies, 16 pages, newsprint format. Kent to provide pricing quote by end of day covering print + mailing.

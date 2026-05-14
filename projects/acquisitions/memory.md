@@ -154,3 +154,29 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Gmail connector blocker persists: 10 BizBuySell alerts across dates 2026-05-02 through 2026-05-07, all snippet-only. This is third consecutive run with this blocker pattern. Full body retrieval unavailable; direct marketplace monitoring remains recommended.
 - Tuning note: Synergy and East Coast Brokers broker email volume is high but thesis fit is poor (hospitality/food dominant, geographic radius mostly out of scope). Deprioritize broker newsletters; emphasize direct marketplace + off-market broker outreach (Kensington, Argus, M&M, Sunbelt).
 - Digest output: 2026-05-08.md. Zero promotions recommended. Renna Media coordination thread excluded. Next scheduled run: 2026-05-10 (Friday).
+
+### 2026-05-11
+
+- Gmail-primary run: 18 threads processed. 10 BizBuySell alerts (snippet-only, no body content); 2 SMB Deal Hunter newsletters (editorial, no specific listings); 1 Renna Media internal thread; 1 Acquire.com alert (already seen); 4 East Coast Business Brokers threads (mostly food or already seen).
+- **Primary Strong Matches:** 0
+- **Passive Strong Matches:** 0
+- **Borderline:** 0 new
+- **Total excluded:** 16 (10 BizBuySell inaccessible, 2 food, 2 editorial, 1 internal, 1 already-seen)
+- **WebSearch supplement:** 3 queries (NJ SDE range, NJ self-storage, Bergen County retiring owner). Returned generic marketplace links, no specific new listings identified.
+- Gmail connector blocker (critical): 5th consecutive run with BizBuySell snippet-only issue (2026-04-27, 4/29, 5/6, 5/8, 5/11). BizBuySell alerts indicate 15-20 listings per week are embedded in inaccessible full HTML bodies. This is a blocking issue for email-primary discovery.
+- Recommendation: Switch to direct BizBuySell.com monitoring (NJ filter, $250K-$1M SDE, work-ON-not-IN screens) as interim workaround. Off-market broker outreach (Argus, M&M, Kensington) remains highest-leverage discovery path.
+- Digest output: 2026-05-11.md. Zero promotions recommended.
+
+### 2026-05-13
+
+- Gmail-primary run: 18 threads processed. 5 BizBuySell alerts (snippet-only, no body content retrievable); 2 SMB Deal Hunter newsletters (educational case studies, no specific listings); 2 CPA introduction threads (Renna Media internal); 2 Renna Media internal threads (in-process deal); 7 East Coast Business Brokers threads (full content parsed).
+- **Primary Strong Matches:** 0 new (Elite Landscape #12581 and Kitchen Cabinet Mfg #12570 from 2026-05-01 remain strong; already in pipeline)
+- **Passive Strong Matches:** 0
+- **Borderline:** 0 new (Turnkey Auto Shop #12618 remains under review from 2026-05-04 run)
+- **Total excluded:** 2 new listings (both food: Boston Bakery #12731, Merrimack Valley Bakery #12730)
+- **WebSearch supplement:** None (short run)
+- Gmail connector blocker persists: 6th consecutive run with BizBuySell snippet-only issue (now spans 2026-04-27 through 2026-05-13). Five alerts returned subject line only; estimated 5-8 specific listings embedded in inaccessible HTML bodies. Pattern is consistent and unresolved.
+- Pattern: Two-week stretch (2026-05-01 through 2026-05-13) with zero new Primary Strong Matches. Thin discovery cycle. Prior two strong matches from 2026-05-01 remain best options in pipeline (Landscape $850K SDE, Cabinet Mfg $1M SDE).
+- Note: Renna Media deal dominating unread count (4 threads across May 4-13), reflecting internal work on that transaction. This deal should migrate to its own project folder once LOI signed to decongest the Acquisitions label.
+- Digest output: 2026-05-13.md. Zero new promotions recommended. Auto shop #12618 and prior Borderline candidates carry forward for Matt's judgment.
+- Next scheduled run: 2026-05-15 (Wednesday). Recommend testing BizBuySell.com direct access or reaching out to Blake at Synergy / Henry at East Coast for priority feed setup.

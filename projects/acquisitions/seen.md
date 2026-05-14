@@ -56,3 +56,5 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-05-07 | Highly Profitable Absentee Pizza Shop, New York County (Listing #12693) | Gmail - East Coast Business Brokers 5/7 | Excluded - food
 2026-05-07 | 21,000 SQFT Turnkey Supermarket, Clinton County NY (Listing #12643) | Gmail - East Coast Business Brokers 5/7 | Excluded - food + out of geography
 2026-05-07 | DTC + B2B Luxury Bespoke Fashion Brand | Gmail - Acquire.com notification | Excluded - SDE above ceiling (~$2.2M TTM profit)
+2026-05-12 | Iconic 50 Year Metro Boston Bakery (Listing #12731) | Gmail - East Coast Business Brokers 5/12 | Excluded - food
+2026-05-12 | Prime Merrimack Valley Bakery & Café (Listing #12730) | Gmail - East Coast Business Brokers 5/12 | Excluded - food

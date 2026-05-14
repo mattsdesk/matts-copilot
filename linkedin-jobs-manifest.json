@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    {
+      "id": "upwave-vp-pm-4412419816",
+      "title": "VP, Product Management",
+      "company": "Upwave",
+      "industry": "Data Analytics / SaaS",
+      "location": "New York, NY",
+      "salary": "$181K - $285K / year",
+      "link": "https://www.linkedin.com/comm/jobs/view/4412419816/",
+      "addedDate": "2026-05-11",
+      "dismissed": false
+    },
+    {
+      "id": "hinge-director-growth-4402994025",
+      "title": "Director of Product, Growth",
+      "company": "Hinge",
+      "industry": "Dating / Social",
+      "location": "New York, NY",
+      "salary": "$181K - $285K / year",
+      "link": "https://www.linkedin.com/comm/jobs/view/4402994025/",
+      "addedDate": "2026-05-11",
+      "dismissed": false
+    },
+    {
+      "id": "hackajob-svp-4411973338",
+      "title": "Senior Vice President, Product & Innovation Execution Team",
+      "company": "hackajob",
+      "industry": "Recruitment / HR Tech",
+      "location": "New York, NY",
+      "salary": "$181K - $285K / year",
+      "link": "https://www.linkedin.com/comm/jobs/view/4411973338/",
+      "addedDate": "2026-05-11",
+      "dismissed": false
+    },
+    {
+      "id": "flex-director-martech-4411705297",
+      "title": "Director of Product, Martech",
+      "company": "Flex",
+      "industry": "Marketing Technology",
+      "location": "New York, NY",
+      "salary": "$181K - $285K / year",
+      "link": "https://www.linkedin.com/comm/jobs/view/4411705297/",
+      "addedDate": "2026-05-11",
+      "dismissed": false
+    }
+  ],
+  "lastUpdated": "2026-05-11T12:00:00Z"
+}

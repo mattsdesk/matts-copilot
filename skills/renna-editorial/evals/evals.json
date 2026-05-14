@@ -1,0 +1,23 @@
+{
+  "skill_name": "renna-editorial",
+  "evals": [
+    {
+      "id": 1,
+      "name": "bullet-point-input",
+      "prompt": "Turn this into a Renna article:\n- Fanwood Community Cleanup Day\n- Saturday May 15\n- 80 volunteers signed up\n- Mayor Alice Johnson participating\n- Focus: downtown area and Jackson Park\n- Part of spring beautification initiative\n- Contact: Fanwood Parks Dept",
+      "expected_output": "Publication-ready Renna-style article with headline, opening, body, and closer. Should read like polished news, not a formatted list. 200-300 words, community-focused angle."
+    },
+    {
+      "id": 2,
+      "name": "loose-paragraph-input",
+      "prompt": "Turn this into a Renna article:\nDr. Sarah Patel runs a free clinic for uninsured residents in Summit. She's been doing this for 5 years, every Tuesday evening at the Summit Community Center. She just won a 2026 Community Health Hero award from the New Jersey Medical Association. She says healthcare is a human right and that's why she does this work.",
+      "expected_output": "Publication-ready Renna-style article with headline, opening, body, and closer. Should be polished and structured. 200-300 words, emphasizing community impact and her achievement."
+    },
+    {
+      "id": 3,
+      "name": "scattered-info-input",
+      "prompt": "Turn this into a Renna article:\nBerkeley Heights Library launching youth coding program - starts June 1, partnership with Code.org, after-school classes, ages 8-14, free, no prior experience needed, Wednesdays and Saturdays, first 50 kids get free coding kit, registration May 20, registration at library or online",
+      "expected_output": "Publication-ready Renna-style article with headline, opening, body, and closer. Should organize scattered facts into coherent narrative. 200-300 words, emphasizing youth opportunity and access."
+    }
+  ]
+}
