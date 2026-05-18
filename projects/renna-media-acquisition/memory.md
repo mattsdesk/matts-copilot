@@ -194,3 +194,9 @@ This is Joe's 4th attempted deal. Three prior buyers died in the last 12 months.
 ### 2026-05-06
 - **David Bohlander SBA financing call.** Notes in `meetings/2026/2026-05-06-david-bohlander-sba-financing.md`. Discussed loan structure targeting $350K SBA + seller note. Key recommendations: 10% down minimum, 24-month interest-only preferred, target offer 3x three-year average (~$420K). David to prepare term sheet with forgivable seller note tied to advertiser retention. Matt to send CIM and connect with Cheryl Venezia for M&A guidance.
 - **Newsletter printing specs call with Kent.** Notes in `meetings/2026/2026-05-06-newsletter-printing-specs-kent.md`. 5,000 copies, 16 pages, newsprint format. Kent to provide pricing quote by end of day covering print + mailing.
+
+### 2026-05-15
+- **Granola notes sync (scheduled task):** 3 new meetings identified from May 15. All routed to Renna Media context.
+  - 2026-05-15-business-acquisition-offer-letter.md: Offer letter review with David. $450K asset purchase structure: $10K good faith deposit, $60K seller note (36 months, 8% interest, quarterly), $380K wire at closing. September 30 target close, September 15 APA signature. 30-day due diligence, 8 weeks post-closing support, option to hire seller as employee. Meets bulk sale filing timeline and tax compliance review requirements.
+  - 2026-05-15-cheryl-venezia-offer-review.md: Cheryl sent updated offer to purchase document. Plans Zoom review session line by line with Matt and Sandra. Cheryl to call Eric this afternoon to float the updated offer before formal presentation.
+  - 2026-05-15-cheryl-venezia-voicemail.md: Voicemail from Cheryl Venezia and Easia at Murphy Business Sales. Contact: +19083705034.

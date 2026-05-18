@@ -180,3 +180,17 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Note: Renna Media deal dominating unread count (4 threads across May 4-13), reflecting internal work on that transaction. This deal should migrate to its own project folder once LOI signed to decongest the Acquisitions label.
 - Digest output: 2026-05-13.md. Zero new promotions recommended. Auto shop #12618 and prior Borderline candidates carry forward for Matt's judgment.
 - Next scheduled run: 2026-05-15 (Wednesday). Recommend testing BizBuySell.com direct access or reaching out to Blake at Synergy / Henry at East Coast for priority feed setup.
+
+### 2026-05-15
+
+- Gmail-primary run: 18 threads processed. 5 BizBuySell alerts (snippet-only, bodies not retrievable); 2 SMB Deal Hunter newsletters (educational, no specific listings); 1 Acquire.com alert (already in seen.md); 10 East Coast Business Brokers / Synergy / broker threads (full content parsed).
+- **Primary Strong Matches:** 0 new
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 0 new this run (Turnkey Auto Shop #12618 Nassau County from 2026-05-04 remains under review; all new readable emails contained already-catalogued listings)
+- **Total excluded:** 4 new listings (Burger Shop Queens #12609, Restaurant Flatironnomad #12711, Tap Room Nassau #12665, Liquor License Bergen #12712 - all food except license, which is non-operating)
+- **WebSearch supplement:** 3 queries (general NJ businesses, self-storage tri-state, car wash tri-state). Returned marketplace directory links only; no specific new standalone listings identified. Self-storage and car wash inventory confirmed as robust in tri-state region but asking prices noted above Primary SDE ceiling ($1.2M-$4.6M range).
+- Gmail connector blocker: 7th consecutive run with BizBuySell snippet-only issue (2026-04-27 through 2026-05-15). Estimated 15+ specific listings remain embedded in inaccessible HTML bodies across BizBuySell alerts.
+- Pattern: 13-day discovery cycle (2026-05-01 through 2026-05-15) shows zero new Primary Strong Matches. Two strong candidates remain from 2026-05-01 run (Elite Landscape $850K SDE, Kitchen Cabinet Mfg $1M SDE). Thin deal flow persists. Broker newsletter volume is high but low-fit (food/hospitality dominant).
+- Tuning observation: Prior run notes (2026-05-13) flagged Renna Media deal congesting the Acquisitions label. That deal should be migrated to its own project folder to reduce label noise and improve digest signal-to-noise ratio.
+- Digest output: 2026-05-15.md. Zero new promotions (Auto Shop #12618 flagged as Borderline pending verification). Recommendation: Matt contact Ralph Galdorski (516-707-4670) at East Coast Business Brokers to verify auto shop owner involvement ("semi-absentee" claim requires substantiation).
+- Pattern note: Marketplace refresh continues to be slow; 7+ days between new strong matches. Mon/Wed/Fri cadence is appropriate. Off-market broker outreach (Kensington, Argus, M&M, Sunbelt direct) should be prioritized over newsletter monitoring.

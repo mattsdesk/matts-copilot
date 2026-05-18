@@ -1,38 +1,48 @@
 # WBD Interview with Recruiter
 
 **Date:** April 17, 2026
-**Attendees:** Matt Saunders, Bernie (WBD Recruiter)
+**Attendees:** Matt Saunders
 **Context:** Personal
 **Source:** Granola, meeting ID `200b0ba2-1379-4376-8de7-d3a2de45cf67`
 
 ---
 
-## Role Overview & Company Context
+## Background & Connection
 
-Senior Product Manager role at Bleacher Report (Warner Bros Discovery). Reports to Daniel Joseph (VP) toward GVP structure. Platform product counterpart driving adoption and content optimization. Team rebuilding after leadership transitions.
+Comcast recruiter reached out via LinkedIn. Mutual connection through Stacy Luskarden (Senior Director, Executive Search, 11-12 years at Comcast).
 
-Need leader with gravitas to gain buy-in from senior stakeholders. Caroline Harrington leading charge to overhaul BR for deeper fan engagement. Focus on more robust, competitive systems vs counterparts.
+## Current Situation
 
-## Compensation & Logistics
+Matt seeking new opportunities:
+- Achieved platinum airline status by March (excessive travel at LiveGolf)
+- Two kids ages 7 and 10, wants to be more present
+- Ready to leave current role even without next position lined up
 
-Target range: $275K-$295K base (max $300K). 40% ICP bonus for the band. New hire equity grant: $75K-$150K RSUs (3-year vest). Total comp: $430K-$500K range.
+## Recruiter's Portfolio
 
-Location: Open to NY, CA, Atlanta (NY preferred by candidate). Timeline: Start end of April/early May if possible.
+Supports VP+ level roles across Comcast:
+- Xfinity (B2C business)
+- Comcast Business (B2B)
+- Comcast Advertising: Freewheel, Media Solutions, Universal Ads
+- Handles both open requisitions and proactive talent identification
+- Product focus spans traditional PM to business owner/P&L roles
 
-## Interview Process
+## Compensation Discussion
 
-Bernie to send available 30-minute slots for Danny Joseph meeting. Target Tuesday/Wednesday next week (before Monday team pre-brief).
-
-Loop interviews: 5 rounds, 60 minutes each, multiple days. Full prep doc provided. Functional competency + "empower storytelling" guiding principle. 4 other candidates in current pipeline. Decision timeline: 2-3 weeks from loop completion.
+- Current base: $360k total compensation
+- Open to slight step down for work-life balance
+- VP roles at Comcast: VP1 ($300-320k base, 30% bonus), VP2 (mid-$300k base, 40-45% bonus)
+- Signing stock: $150-160k over 3 years
+- Annual RSUs: $230-250k per year
+- Geographic flexibility: NJ-based, open to Philadelphia commute
 
 ---
 
 ## Action Items
 
-- [ ] Wait for Bernie's available 30-minute slots for Danny Joseph meeting
-- [ ] Target Tuesday/Wednesday for Danny meeting (before Monday pre-brief)
-- [ ] Prepare for 5-round loop interview series
-- [ ] Review prep docs on "empower storytelling" principle
+- [ ] Send resume to recruiter
+- [ ] Monitor Comcast career postings
+- [ ] Keep in touch for future opportunities
 
 ---
 

@@ -58,3 +58,7 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-05-07 | DTC + B2B Luxury Bespoke Fashion Brand | Gmail - Acquire.com notification | Excluded - SDE above ceiling (~$2.2M TTM profit)
 2026-05-12 | Iconic 50 Year Metro Boston Bakery (Listing #12731) | Gmail - East Coast Business Brokers 5/12 | Excluded - food
 2026-05-12 | Prime Merrimack Valley Bakery & Café (Listing #12730) | Gmail - East Coast Business Brokers 5/12 | Excluded - food
+2026-05-15 | Burger Shop, Queens (Listing #12609) | Gmail - East Coast Business Brokers 5/1 email | Excluded - food
+2026-05-15 | Turnkey Restaurant, Flatironnomad NYC (Listing #12711) | Gmail - East Coast Business Brokers 5/1 email | Excluded - food
+2026-05-15 | 33 Year Legacy Tap Room Nassau (Listing #12665) | Gmail - East Coast Business Brokers 5/1 email | Excluded - food
+2026-05-15 | Type 33 Pocket Liquor License, Bergen NJ (Listing #12712) | Gmail - East Coast Business Brokers 5/1 email | Excluded - not an operating business

@@ -1,74 +1,61 @@
 # WBD BR Interview with Danny
 
 **Date:** April 24, 2026
-**Attendees:** Matt Saunders, Danny Joseph (VP, Bleacher Report)
+**Attendees:** Matt Saunders
 **Context:** Personal
 **Source:** Granola, meeting ID `d15d655a-8837-4c08-8133-e30e557801d1`
 
 ---
 
-## Background and Connections
+## Background & Connection
 
-- Mutual connections through Sean and Jeff Douglas (former Discovery colleagues)
-- Jeff Douglas: ViewLift partner, known for calm leadership during live video crises
-- Both worked at MLB Advanced Media (Chelsea Market) at different times: Matt doing overnight game editing for MLB.com packages; Danny on production side doing video logging for World Series and This Week in Baseball
-- Shared experience with technology evolution: hand logging, Avid, Final Cut Pro, SD-to-HD transition
+Danny Joseph at WBD/Bleacher Report. Mutual connections through Sean and Jeff Douglas (ViewLift partner).
 
----
+## Matt's Career Journey
 
-## Matt's Career Journey and Philosophy
+Started as TV producer inspired by Fred Friendly. Transitioned to inventing how stories get told.
 
-- Started as TV producer inspired by Fred Friendly (Edward R. Murrow's producer)
-- Transitioned from storytelling to "inventing how stories get told"
-- Product management at the intersection of editorial, UX, and technology
-- Key roles: Associated Press, Weight Watchers (subscription), Marvel (digital ownership), ESPN/Disney, Fubo (sports streaming), LIV Golf (league/rights holder perspective)
-- Core motivation: building products that serve exciting storytelling, especially sports
-  - Sports appeal: "perfect outcome not guaranteed" creates authentic emotional moments
-  - Example cited: NHL All-Star enforcer scoring hat trick and becoming MVP
+Progression: AP, Weight Watchers, Marvel, ESPN/Disney, Fubo, LiveGolf.
 
----
+Core motivation: building products serving exciting storytelling, especially sports.
 
-## Technical Experience and AI Implementation
+## Technical Experience & AI
 
-- Pragmatic approach to new technology, not prototype-focused
-- Fubo: managed entire post-signup user experience, including content discovery, recommendations, video players, and CMS with rapid editorial response
-  - AI-powered thumbnail optimization for basketball content using Gemini
-  - Recommendation algorithms via Vertex AI for time-spent optimization
-- LIV Golf: platform rebuild on a 72-day timeline with hands-on product leadership
-- AI safety experience: headline generation issues resolved with "write as NPR headline" prompt pattern
+Pragmatic approach to technology (not prototype-focused).
 
----
+Fubo: entire post-signup experience (discovery, recommendations, video players, CMS).
 
-## Role Discussion
+LiveGolf: 72-day platform rebuild.
 
-Two potential positions under consideration:
+AI safety experience: headline generation fixes.
 
-1. **VP CMS Innovation:** backend systems, tooling, AI productionization, managing two teams (tooling and algorithmic systems)
-2. **Principal UX:** front-end customer experience, content discovery, user journeys
+## WBD/Bleacher Report Opportunity
 
-Office: Union Square (19th and Park), currently 3 days per week. Paramount acquisition uncertainty acknowledged.
+Two potential roles:
+1. VP CMS Innovation: backend systems, tooling, AI productization, team management
+2. Principal UX: front-end customer experience, content discovery
 
-Key focus areas for VP role: CMS and editorial tooling optimization, recommendation algorithms and personalization at scale, AI implementation with safety guardrails.
+Key focus areas: CMS/editorial tooling optimization, recommendation algorithms and personalization, AI implementation with proper guardrails.
 
----
+Office: Union Square (19th & Park), 3 days/week.
 
-## Cultural Fit and Success Factors
+## Cultural Fit & Success Factors
 
-Three traits Danny cited as critical for earning credibility:
+Three critical traits for earning credibility:
+1. Genuine curiosity about product, customers, historical context
+2. Sports passion and fan perspective (Bleacher Report = fans building for fans)
+3. Bias for action and velocity (sports content loses value within hours)
 
-1. Genuine curiosity about the product, customers, and historical context
-2. Sports passion and fan perspective: Bleacher Report is fans building for fans; community-first, not pure streaming; sports content loses value within hours unlike library content
-3. Bias for action and velocity: sprints often too long for sports content needs; balance planning with rapid iteration
+## Compensation & Logistics
 
-Danny noted a recent cultural shift back toward a product-focused approach after corporate constraints.
+Base range similar to other WBD opportunities. Location: Union Square NYC, 3 days/week. Paramount acquisition uncertainty acknowledged.
 
 ---
 
 ## Action Items
 
-- [ ] Matt to consider preference between VP CMS Innovation and Principal UX roles before next conversation
-- [ ] Danny to connect with Bernie about next steps in the process
-- [ ] Follow up on coffee meeting in NYC to continue discussion
+- [ ] Discuss with Bernie about process continuation
+- [ ] Consider preference between VP and Principal roles
 
 ---
 

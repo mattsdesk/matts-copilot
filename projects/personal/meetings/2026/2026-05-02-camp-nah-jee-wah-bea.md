@@ -1,80 +1,76 @@
-# Camp Nah Jee Wah - Bea Placement Call
+# Camp Nah Jee Wah Camp Mom Call for Bea Saunders
 
 **Date:** May 2, 2026
-**Attendees:** Jill (Camp Mom), Matt Saunders
+**Attendees:** Matt Saunders, Jill (Camp Mom)
 **Context:** Personal
 **Source:** Granola, meeting ID `c83a243d-daff-495e-b709-e61a404f9c05`
 
 ---
 
-## Camp Role & Logistics
+## Camp Introduction & Role
 
-Jill is camp mom for her 7th summer at Camp Nausea. In this role, she handles homesickness issues, supports counselors/directors, and strategically manages bunking assignments based on interests and compatibility.
+Jill is camp mom for 7th summer at Camp Nah Jee Wah. New role: handles homesickness, issues, supports counselors/directors. Helps with strategic bunking based on interests/compatibility.
 
----
+Jack (going into 6th grade) may have separate call with different coordinator. Will check with Carrie about his placement.
 
-## Bea's Profile
+## Bea's Background & Personality
 
-**Grade & Program:** Going into 3rd grade. Attending Session 2 (3 weeks). Abbey Division (grades 1-4).
+Going into 3rd grade, attending 2nd session (3 weeks).
 
-**Background:**
-- Day camp: 4+ years at Willow Lake before Nausea
-- Completed First Steps program last summer, loved it
-- Excited about returning, though gets anxious when Jack worries
+Day camp experience: 4+ years at Willow Lake before Nah Jee Wah. Completed First Steps program last summer, loved it.
 
-**Personality:**
-- Initially shy and cautious, then very talkative and energetic
-- Marches to own beat, moves between friend groups easily
-- Natural leader but independent, goes where interests lead
-- When upset: withdraws, gets quiet, plays alone (not confrontational)
+Social style: Initially shy and cautious, then very talkative/energetic. Marches to own beat, moves between friend groups. Natural leader but independent. Goes where interests lead.
 
-**Practical Details:**
-- Good sleeper, occasional nightmares (decreasing)
-- Very picky eater, gets hangry
-- Found salad bar success during First Steps: carrots and chickpeas
-- Seasonal allergies: occasional Claritin/Mucinex needed
-- Mentions "breathing trouble" when congested but no asthma
-- Dramatic about health issues
-- No dietary restrictions, medications, or therapy
+When upset: withdraws, gets quiet, plays alone (not confrontational).
 
----
+## Medical & Practical Details
 
-## Activities & Preferences
+Seasonal allergies: occasional Claritin/Mucinex needed.
 
-**Current Interests:** Reading, gymnastics, arts/crafts, jewelry making
+No asthma (previously investigated) but mentions "breathing trouble" when congested.
 
-**Potential Camp Activities:**
-- Studio art
-- Ceramics
-- Lake activities
-- Gymnastics team tryouts
-- Daily electives (2 available)
+Dramatic about health issues.
 
-**Bunk Preference:** Bottom bunk
+No dietary restrictions, medications, or therapy.
 
-**Allowed Items:** Camera (no bunk photos), books, craft supplies
+Lives with parents, brother Jack, dog Charlie.
 
----
+Current activities: reading, gymnastics, arts/crafts, jewelry making.
 
-## Family & Logistics
+## Sleep & Eating Patterns
 
-**Home:** Lives with parents, brother Jack, dog Charlie
+Good sleeper, occasional nightmares decreasing.
 
-**Sibling:** Jack going into 6th grade. Separate call with different coordinator needed to discuss his placement.
+Very picky eater, gets "hangry".
 
-**Communication:** Weekly emails + letters encouraged. Brother/sister visitation Saturdays after Shabbat (45 minutes).
+Found salad bar success during First Steps (carrots + chickpeas).
 
-**Original Plan:** Was going to bunk with Charlotte (friend), but Charlotte may not attend.
+## Camp Logistics
+
+Bea excited about returning, some nervousness when Jack gets anxious.
+
+Communication: weekly emails + letters encouraged.
+
+Preferred bottom bunk.
+
+Can bring camera (no bunk photos), books, craft supplies.
+
+Abbey Division (grades 1-4), will have 2 daily electives.
+
+Potential activities: studio art, ceramics, lake activities, gymnastics team tryouts.
+
+Brother/sister visitation Saturdays after Shabbat (45 minutes).
+
+Originally planned to bunk with Charlotte (friend moving, may not attend).
 
 ---
 
-## Next Steps
+## Action Items
 
 - [ ] Jill will contact Carrie about Jack's coordinator assignment
 - [ ] Schedule separate call for Jack if needed
 - [ ] Remind Bea of positive First Steps experiences
-- [ ] Encourage open-minded attitude about bunking
-- [ ] Avoid "you can come home" messaging
+- [ ] Encourage open-minded attitude about bunk placement
 
 ---
 

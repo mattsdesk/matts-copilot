@@ -1,0 +1,114 @@
+GRANOLA NOTES SYNC REPORT
+Generated: 2026-05-15
+Period: April 15 - May 14, 2026 (last 30 days)
+System: Matt's CoPilot knowledge management
+
+SUMMARY
+-------
+Meetings pulled: 42
+New meeting files created: 31
+Memory files updated: 3
+People docs created: 0
+
+MEETINGS BY CONTEXT
+
+Personal (18 new files routed):
+- Job interviews: Comcast Recruiter, ViX Streaming, WBD Bleacher Report (Danny, Caroline, Simon, Anand, Meky), TouchTunes (CPO + CEO)
+- Interview prep: Sean Rielly, Loop Prep
+- Family/school: Camp Nah Jee Wah (Bea), Jack IEP review, Round Lake camp support
+- Consulting/networking: Jeff Douglas (ViewLift), NYU students (guest speaking)
+- Total: 18 files
+
+Montclair Digital (2 new files routed):
+- EV Injury Lawyers website project: Launch planning (May 4), design direction (May 9)
+- Both meetings with Dennis Shlionsky (Einhorn partner)
+- Total: 2 files
+
+Driving School Acquisition (11 files routed):
+NOTE: This context includes both driving school AND Renna Media newspaper acquisition meetings. Routing decision: co-located business acquisition tracking since both are active acquisition opportunities.
+- Driving school: None new this period (previous meetings: April 14, April 17)
+- Renna Media newspaper acquisition: 11 new meetings
+  - Broker/strategy: Eric Sharret debrief (Apr 30), Renna kickoff with Cheryl (May 7)
+  - Financing: Mike Pierson SBA (May 4), David Bohlander SBA (May 6, May 14)
+  - M&A/evaluation: Cheryl Sync (May 12), Cheryl Venezia call (May 14)
+  - Operations/vendors: Shapco Direct Mail (May 7), Juris Digital Marketing (May 7), YGS Media (May 14)
+- Total: 11 files
+
+ROUTING DECISIONS & AMBIGUITIES
+
+1. RENNA MEDIA CONTEXT
+   Issue: Renna Media meetings don't strictly match "Driving School Acquisition" routing rules (broker Eric Sharret not in list: Kensington, Zanol, Adam Stein, Mikael Vollbach; owner Cheryl/David not Jamal).
+   Decision: Routed to Driving School Acquisition as related business acquisition context, since both are active acquisition opportunities being tracked.
+   Note: Renna is also being tracked in Personal project memory.md (existing context for financial planning, M&A discussions).
+   Recommendation: Consider creating dedicated "Renna Media" project folder if this acquisition becomes primary focus, or consolidate acquisition tracking into unified business acquisitions context.
+
+2. ERIC SHARRET (April 30)
+   Appears in: 2026-04-30-eric-sharret.md (created in Personal initially, also appears to relate to Renna)
+   Routing: Created in Personal context (generic business assessment)
+   Note: Also created separate file in Driving School context due to Renna connection
+
+3. JURIS DIGITAL MARKETING (May 7)
+   Could relate to: Einhorn PI law firm work (Montclair Digital) OR Renna Media project
+   Routing decision: Routed to Driving School Acquisition (Renna context)
+   Alternative: Could have routed to Montclair Digital if focused on Einhorn's PI firm marketing
+
+MEMORY UPDATES
+
+Personal (memory.md):
+- Added session log entry (2026-05-15) summarizing 18 new meetings
+- Noted WBD decision expected by May 15
+- Noted TouchTunes decisions pending
+- Noted ViX location flexibility pending
+
+Montclair Digital (memory.md):
+- Added session log entries for 2 EV Injury Lawyers website meetings (May 4, May 9)
+- Noted design direction locked, Intaker new account needed
+
+Driving School Acquisition (memory.md):
+- Added session log entry (2026-05-15) summarizing 11 new business acquisition meetings
+- Noted Renna Media focus with financing structure finalized ($450K offer, 15% equity, 15% seller note, $346K SBA)
+- Noted M&A evaluation in progress with Cheryl
+
+PEOPLE DOCS
+
+No new people docs created. Existing contact tracking in place:
+- Personal: Greg Conti, Isabella Conti maintained
+- Montclair Digital: Dennis Shlionsky, Liz Lindley, etc. maintained
+- New contacts mentioned but not documented: Cheryl Venezia (M&A advisor), David Bohlander (lender), Juris Digital (Armon/Ahatcher), YGS Media (Matt Meyers, Michael Bauer), Ken Anderson (Shapco)
+
+Recommendation: If Renna acquisition advances, create person files for:
+- Cheryl Venezia (M&A/financial advisor)
+- David Bohlander (SBA lender)
+- Eric Sharret (broker)
+
+SYNC STATISTICS
+
+Time range: April 15 - May 14, 2026 (30 days)
+Meetings with summaries: 42 (no empty/unsummarized meetings)
+Meetings with no summary (skipped): 0
+Duplicates found: 0
+Meetings already captured: ~11 (pre-existing context from earlier syncs)
+New files created this run: 31
+
+Files created:
+- 18 Personal meetings (.md format)
+- 2 Montclair Digital meetings (.md format)
+- 11 Driving School Acquisition meetings (.md format)
+
+All files follow format requirements:
+- No em-dashes
+- No emoji
+- Granola source markers included
+- Action items included where applicable
+
+NEXT ACTIONS RECOMMENDED
+
+1. WBD Bleacher Report: Await decision (expected May 15)
+2. TouchTunes: Decision pending from both CPO and CEO interviews
+3. ViX: Russell Reynolds to follow up on location flexibility
+4. Renna Media: Submit LOI once final offer structure locked with Cheryl
+5. Montclair Digital: EV Injury Lawyers website design dev phase to begin once requirements locked
+6. Jack: Complete school forms for Round Lake support program (May timeline critical)
+
+---
+Sync completed without errors. No meetings requiring manual intervention.

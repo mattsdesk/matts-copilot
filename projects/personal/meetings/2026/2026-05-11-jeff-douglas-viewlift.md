@@ -1,46 +1,64 @@
-# ViewLift Acquisition Update
+# Matt Saunders and Jeff Douglas
 
 **Date:** May 11, 2026
-**Attendees:** Jeff Douglas (ViewLift)
+**Attendees:** Matt Saunders, Jeff Douglas (ViewLift)
 **Context:** Personal
 **Source:** Granola, meeting ID `98fe659d-3cc9-43e9-8aaa-722bfa92441c`
 
 ---
 
-## ViewLift Acquisition
+## ViewLift Acquisition Update
 
-Jeff's company acquired by larger firm with closing expected June 2026 (6-8 weeks). Moving to acquirer's office near Penn Station/Grand Central. Jeff continuing in same role, focused on growth.
+Jeff's company acquired by larger firm. Closing expected June 2026 (6-8 weeks).
 
-Strategic fit: ViewLift brings growth momentum (strong last 18 months). Acquirer provides support infrastructure and portfolio synergies.
+Moving to acquirer's office near Penn Station/Grand Central.
+
+Jeff continuing in same role, focused on growth.
+
+Strategic fit leveraging mutual capabilities: ViewLift brings growth momentum (strong last 18 months), acquirer provides support infrastructure and portfolio synergies.
 
 ## Matt's Current Situation
 
-Left previous role, now consulting and side projects. Achieved airline platinum status before departure. Making equivalent income through consulting. Considering whether to return to corporate or continue independently.
+Left previous role, now consulting and side projects.
 
-### AI Consulting for Law Firms
+Achieved airline platinum status before departure.
 
-Building private AI systems for attorney-client privilege compliance. Setting up on-premise server racks with RAG-based AI. High-touch service model for underserved market segment.
+Making equivalent income through consulting.
+
+Considering whether to return to corporate or continue independently.
+
+## Matt's Current Projects
+
+AI consulting for law firms: building private AI systems for attorney-client privilege compliance. Setting up on-premise server racks with RAG-based AI. High-touch service model for underserved market segment.
 
 Other consulting: marketing strategy for SMBs, web development.
 
-## Live TV / Streaming Industry
+## Live TV/Streaming Industry Insights
 
 Clark Douglas no longer at Live TV (official this week).
 
 Financial challenges at Live TV:
 - Payments delayed since January, partial payments recently
-- Attempted to cut broadcast operations but prepaid contracts (Moby) prevented savings
+- Already attempted to cut broadcast operations but prepaid contracts (Moby) prevented savings
 - Likelihood of similar operations next year very low
 
 Strategic advice for ViewLift: Consider more assertive collection approach. Original partnership contacts no longer there. Decision-makers prioritizing vendors likely to pursue legal action.
 
-## Warner Bros Discovery / Career
+## Warner Bros Discovery & Career Opportunities
 
 Danny at WBD as potential connection for Matt. Built Discovery+ together, Amazon culture influence. Strong product instincts, business-minded leadership style. Survived recent HBO integration and leadership changes.
 
-Matt completed interview loop at WBD. Decision expected by Wednesday. Loop included Danny's manager Caroline, HR partner, engineering lead, HBO Max leader.
+Matt completed interview loop at WBD. Decision expected by Wednesday.
 
 WBD-Paramount merger implications: Internal preference for Paramount over Netflix acquisition. Technology superiority positioning WBD favorably.
+
+---
+
+## Action Items
+
+- [ ] Follow up on WBD decision (expected Wednesday)
+- [ ] Consider ViewLift partnership opportunities given mutual connections
+- [ ] Evaluate corporate vs independent consulting path
 
 ---
 

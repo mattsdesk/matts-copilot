@@ -4,8 +4,17 @@
 
 ## Active Opportunities
 
+### NPR - SVP Product and Data
+- **Contact:** Benjamin Oberholtzer, Ruby Verga (True Search recruiter)
+- **Role:** SVP of Product and Data, reports to CPO
+- **Scope:** Owns product teams, front-end engineering, data teams; intersection of data and UX
+- **Scale:** 40M users across properties, 27M digital members, strong podcasting app
+- **Strategic context:** Recent landmark grants funding digital transformation (first major resources for platform modernization)
+- **Status:** True Search recruiter call done May 18; job description to be finalized and sent; awaiting formal interview loop
+- **Key fit:** Mission-driven media, emotional storytelling focus (aligned with LIV experience), platform modernization opportunity
+
 ### Warner Bros Discovery (Bleacher Report)
-- **Contact:** Bernie (recruiter)
+- **Contact:** Bernie (recruiter), Danny Joseph (VP)
 - **Role:** Senior Product Manager, Bleacher Report, reports to Daniel (Danny) Joseph (VP)
 - **Comp:** $275K-$295K base, 40% ICP bonus, $75K-$150K RSU grant (3yr vest); total $430K-$500K
 - **Location:** NY preferred; CA, Atlanta also open
@@ -72,12 +81,15 @@
 - 2026-05-11 -- Jeff Douglas (ViewLift) update: ViewLift acquired by larger firm, closing June 2026. Jeff staying in role. Insights on Live TV financial challenges (payments delayed since January), Paramount-WBD merger context, and Danny Joseph as bridge at WBD.
 - 2026-05-11 -- TouchTunes SVP Product interview (recruiting phase). SVP role reports to CEO Scott Levine. Montreal-based (travel every other week). Role involves product-led growth transformation. Decision timeline pending.
 - 2026-05-12 -- Granola sync: pulled 2 new personal meetings. (1) TouchTunes CEO Scott Levine exploratory call on product leader role; core mandate is growth after stagnant period; product leader as true partner to drive vision independently; 30/60/90 approach standard. (2) Cheryl sync on Murphy newspaper acquisition; Cheryl granted access to deal room; retainer increased to $2,000/month; Matt developing operational automation plans (AI for journalism, InDesign automation, 30-paper digital editions); financing options under evaluation (HELOC vs SBA); pricing analysis underway.
+- 2026-05-15 -- Granola notes sync (scheduled task): Pulled 42 meetings from last 30 days. Routed 18 new personal meetings to context (job interviews: Comcast, ViX, WBD BR loop x5, TouchTunes x2; family: Camp Nah Jee Wah, Jack IEP, Round Lake support; financial: none new; other: NYU students, Jeff Douglas ViewLift). Key status: WBD BR decision expected by 5/15; TouchTunes both interviews completed (awaiting decision); ViX location flexibility pending Russell Reynolds follow-up; 401k rollover still pending status change (check portal); insurance planning with Contis waiting on revised illustrations.
+- 2026-05-18 -- Granola sync: pulled 1 new meeting. (1) NPR SVP Product and Data role via True Search recruiter call; mission-driven media opportunity aligned with storytelling focus (LIV experience); platform modernization with landmark grant funding; job description pending from True Search.
 
 ---
 
 ## Meeting History
 | Date | Meeting | Key Outcome |
 |------|---------|-------------|
+| 2026-05-18 | [NPR - True Search Recruiter](meetings/2026/2026-05-18-npr-true-search-recruiter-call.md) | SVP Product and Data role; 40M users, 27M digital members; mission-driven media with landmark grant funding; awaiting job description |
 | 2026-05-12 | [TouchTunes CEO - Scott Levine](meetings/2026/2026-05-12-touchtunes-scott-levine-ceo.md) | Exploratory call on product leader role; core mandate growth after stagnant period; looking for strategic partner; 65K locations deployed |
 | 2026-05-12 | [Cheryl Sync - Murphy Acquisition](meetings/2026/2026-05-12-cheryl-sync-murphy-acquisition.md) | Murphy newspaper acquisition progress; retainer $2K/mo; operational automation plans (AI journalism, InDesign, 30 papers); financing under evaluation |
 | 2026-05-11 | [TouchTunes SVP Product](meetings/2026/2026-05-11-touchtunes-svp-product.md) | SVP Product role with CEO Scott Levine; product-led growth transformation; Montreal-based with bi-weekly travel |
