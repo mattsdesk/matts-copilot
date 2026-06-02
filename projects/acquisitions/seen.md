@@ -62,3 +62,13 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-05-15 | Turnkey Restaurant, Flatironnomad NYC (Listing #12711) | Gmail - East Coast Business Brokers 5/1 email | Excluded - food
 2026-05-15 | 33 Year Legacy Tap Room Nassau (Listing #12665) | Gmail - East Coast Business Brokers 5/1 email | Excluded - food
 2026-05-15 | Type 33 Pocket Liquor License, Bergen NJ (Listing #12712) | Gmail - East Coast Business Brokers 5/1 email | Excluded - not an operating business
+2026-05-25 | Pharmacy - Jersey City NJ | Gmail - BizBuySell Alert 5/8 | Borderline (Primary - SDE above ceiling, healthcare sector non-preferred)
+2026-05-25 | Medical Practice (Multi-Disciplinary: PT, Chiropractic) - NJ | Gmail - BizBuySell Alerts 5/8, 5/24 | Borderline (Primary - $1.1M revenue, work-ON-not-IN risk, licensing)
+2026-05-25 | B2B Print & Marketing Turnkey Franchise - NJ | Gmail - BizBuySell Alert 5/16 | Borderline (Primary - franchise structure, SDE unconfirmed, concentration risk)
+2026-05-27 | Highly Profitable Italian Restaurant & Bar ($2M+ annually) - NJ | Gmail - BizBuySell Alert 5/24 | Excluded - food
+2026-05-27 | Long Island Restaurant ($5.7M revenue, $1.4M cash flow) - Long Island NY | Gmail - East Coast Business Brokers 5/26 | Excluded - food (Listing #12425)
+2026-05-29 | Exterior Services, Restoration & Holiday Lighting - Bergen County NJ | Gmail - BizBuySell 5/27 (Listing #2510465) | Borderline (Primary - $1.26M ask, SDE unknown)
+2026-05-29 | Dynamic Organization System Creators - Morris Plains NJ | Gmail - BizBuySell 5/27 (Listing #2510466) | Excluded - SDE below Primary floor ($265K ask)
+2026-05-29 | Highly Profitable Italian Restaurant & Bar ($2M+ annually) - NJ | Gmail - BizBuySell 5/24 | Excluded - food
+2026-05-29 | Multi-Disciplinary Medical Practice (PT, Chiropractic) - NJ | Gmail - BizBuySell 5/24 (Listing #2509851) | Borderline (Primary - $450K ask, $1.1M revenue, work-ON-not-IN risk)
+2026-05-29 | B2B Print & Marketing Turnkey Franchise - NJ | Gmail - BizBuySell 5/16 (Listing #2506810) | Borderline (Primary - franchise, $720K ask, concentration risk)

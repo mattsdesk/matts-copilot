@@ -1,58 +1,45 @@
 # Driving School: Initial Broker Call
 
 **Date:** April 14, 2026
-**Attendees:** Matt Saunders
+**Attendees:** Zanol (business broker)
 **Context:** Driving School Acquisition
 **Source:** Granola, meeting ID `1a450352-86b9-4f73-b769-b097cd0dca40`
 
 ---
 
-## Background and Opportunity
+## Background & Location
 
-Central Jersey driving school opportunity. Business has been on market for approximately 1 year with previous LOIs that fell through at closing. No current competitive pressure or rush.
+Matt is based in Montclair, North Jersey (7.5 years), with 15-20 years of experience in digital marketing, product development, and digital media. Recently left corporate role. Seeking local business ownership for better work-life balance. Kids at age where corporate ladder climbing no longer appealing.
 
----
+## Business Search Criteria
 
-## Matt's Profile (for broker context)
+- Avoiding food industry
+- Seeking interesting or unique businesses where digital marketing expertise can accelerate growth
+- Flexible on industry (previously considered music businesses but financial strength more important)
+- Preference for local operations, not city-based
+- Want operational control and growth experimentation freedom
 
-- Location: Montclair, North Jersey (7.5 years)
-- Background: 15-20 years in digital marketing, product development, digital media
-- Recently left corporate role
-- Seeking local business ownership for better work-life balance
-- Children at age where corporate ladder climbing no longer appealing
+## Central Jersey Driving School Opportunity
 
----
+- Follow-up call about NDA signed for driving school opportunity
+- Business has been on market approximately 1 year
+- Previous LOIs fell through at closing
+- No current rush or competition pressure
 
-## Acquisition Search Criteria
+## Acquisition Financing Approach
 
-**Industries:** Avoiding food industry. Seeking interesting/unique businesses where digital marketing expertise can accelerate growth.
-
-**Geography:** Local operations preferred, not city-based.
-
-**Control:** Wants operational control and freedom to experiment with growth.
-
-**Financing:** Flexible on structure. Prefers leveraging financing over full cash.
-
-Options considered:
-- SBA loans (prior experience with process)
-- Seller financing
-- Earn-out structures
+- Flexible on financing structure
+- Prefers leveraging financing over full cash
+- Open to multiple options: SBA loans, seller financing, earn-out structures
 - Previous SBA attempts unsuccessful due to cash buyers outbidding
-
----
-
-## Next Steps
-
-- Broker (Zanol) sending detailed business information via email within 5 minutes
-- Matt to review financials and prepare questions
-- Follow-up call in couple days to discuss interest and next steps
-- No timeline pressure given business market history
 
 ---
 
 ## Action Items
 
-- [ ] Review detailed business information from broker
+- [ ] Review detailed business information (broker sending via email)
+- [ ] Prepare questions on financials
+- [ ] Follow-up call in couple days to discuss interest and potential next steps
 
 ---
 

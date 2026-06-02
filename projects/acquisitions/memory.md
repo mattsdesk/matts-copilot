@@ -16,7 +16,7 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Hard exclude: food businesses.
 - Sectors: open minus food, leaning toward services, education, distribution, physical.
 - Predecessor: `music-biz-monitor` scheduled task (disabled 2026-04-17) did thematic weekly scans. New system is its generalization.
-- Archived: Manalapan/Marlboro driving schools (`/projects/driving-school-acquisition/`). Matt moved on from this deal as of 2026-05-01.
+- Archived: Manalapan/Marlboro driving schools (`/archive/driving-school-acquisition/`). Matt moved on from this deal as of 2026-05-01.
 - Broker relationships to date: Adam Stein / Mikael Vollbach (Kensington); Zanol (Central Jersey DS listing).
 
 ---
@@ -45,7 +45,7 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Created `projects/acquisitions/` with full structure: CLAUDE.md, thesis.md, sources.md, pipeline.md, memory.md
 - Created templates: listing-intake, triage-scorecard, vet-report, daily-digest
 - Created empty `digests/`, `inbox/`, `deals/`, `archive/` directories with README stubs
-- Logged `driving-school-acquisition` as graduated deal in pipeline.md
+- Logged `driving-school-acquisition` as graduated deal in pipeline.md; later archived at `/archive/driving-school-acquisition/`
 - Matt confirmed: 1-hour radius max, "open minus food" approach with a growing exclude list (bread routes and laundromats added), digest cadence 3x/week
 - Added digital nuance to thesis: open to digital but lower priority, with extra skepticism on AI-exposed digital (thin SaaS, content sites, SEO-dependent). Prefer durable non-AI moats.
 - Bumped thesis to v0.7
@@ -178,6 +178,7 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Gmail connector blocker persists: 6th consecutive run with BizBuySell snippet-only issue (now spans 2026-04-27 through 2026-05-13). Five alerts returned subject line only; estimated 5-8 specific listings embedded in inaccessible HTML bodies. Pattern is consistent and unresolved.
 - Pattern: Two-week stretch (2026-05-01 through 2026-05-13) with zero new Primary Strong Matches. Thin discovery cycle. Prior two strong matches from 2026-05-01 remain best options in pipeline (Landscape $850K SDE, Cabinet Mfg $1M SDE).
 - Note: Renna Media deal dominating unread count (4 threads across May 4-13), reflecting internal work on that transaction. This deal should migrate to its own project folder once LOI signed to decongest the Acquisitions label.
+
 - Digest output: 2026-05-13.md. Zero new promotions recommended. Auto shop #12618 and prior Borderline candidates carry forward for Matt's judgment.
 - Next scheduled run: 2026-05-15 (Wednesday). Recommend testing BizBuySell.com direct access or reaching out to Blake at Synergy / Henry at East Coast for priority feed setup.
 
@@ -194,3 +195,98 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Tuning observation: Prior run notes (2026-05-13) flagged Renna Media deal congesting the Acquisitions label. That deal should be migrated to its own project folder to reduce label noise and improve digest signal-to-noise ratio.
 - Digest output: 2026-05-15.md. Zero new promotions (Auto Shop #12618 flagged as Borderline pending verification). Recommendation: Matt contact Ralph Galdorski (516-707-4670) at East Coast Business Brokers to verify auto shop owner involvement ("semi-absentee" claim requires substantiation).
 - Pattern note: Marketplace refresh continues to be slow; 7+ days between new strong matches. Mon/Wed/Fri cadence is appropriate. Off-market broker outreach (Kensington, Argus, M&M, Sunbelt direct) should be prioritized over newsletter monitoring.
+
+### 2026-05-20
+
+- Gmail-primary run: 20 threads processed. 8 BizBuySell alerts (snippet-only, no body content retrievable); 2 inquiry confirmations (Local Advertising, Local Magazine - Matt already submitted inquiries); 2 SMB Deal Hunter newsletters (educational, no specific listings); 3 broker email threads with food/already-seen listings; 2 East Coast Business Brokers newsletters (top-X lists, mostly food or already-seen); 1 Synergy featured list (already catalogued 2026-05-01).
+- **Primary Strong Matches:** 0 new
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 0 new
+- **Total excluded:** 23 (8 BizBuySell inaccessible, 3 food, 4 already-seen/dedup, 2 out-of-geography, 1 SDE-above-ceiling, 1 non-operating, 2 educational-no-listing, 2 inquiry-confirmation)
+- **WebSearch supplement:** 4 queries (NJ SDE range, self-storage/car wash, equipment rental/vending, retiring owner Montclair). Returned marketplace directories only; no specific new standalone listings identified.
+- Gmail connector blocker: 8th consecutive run with BizBuySell snippet-only issue (2026-04-27 through 2026-05-20). Estimated 15+ specific listings remain embedded in inaccessible HTML bodies.
+- Pattern: 19-day discovery cycle (2026-05-01 through 2026-05-20) with zero new Primary or Passive Strong Matches. Two prior strong candidates remain in pipeline (Elite Landscape $850K, Cabinet Mfg $1M). Thin deal flow continues.
+- Digest output: 2026-05-20.md. Zero new promotions. Auto Shop #12618 remains flagged for Borderline verification. Recommendation: direct BizBuySell.com monitoring as interim workaround until Gmail connector blocker is resolved.
+- Next scheduled run: 2026-05-22 (Friday).
+
+### 2026-05-22
+
+- Gmail-primary run: 0 threads in `label:Acquisitions`. No new unread messages.
+- **Primary Strong Matches:** 0 new
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 0 new
+- **Total excluded:** 0 new (no novel listings this run)
+- **WebSearch supplement:** 4 queries run (retiring owner, owner-financed service, automated car wash, equipment rental). Returned marketplace directory links and generic business summaries already catalogued in prior runs; no specific new standalone listings identified.
+- Pattern: 21-day discovery cycle (2026-05-01 through 2026-05-22) with zero new Primary or Passive Strong Matches. Two prior strong candidates remain in pipeline (Elite Landscape $850K, Cabinet Mfg $1M). Thin deal flow continues.
+- Gmail connector blocker persists: 8th consecutive run with BizBuySell snippet-only issue. Estimated 15-20 listings/week remain embedded in inaccessible HTML bodies.
+- Digest output: 2026-05-22.md. Zero new promotions. Auto Shop #12618 remains flagged for review.
+- Next scheduled run: 2026-05-24 (Monday).
+
+### 2026-05-25
+
+- Gmail-primary run: 21 threads processed. 50+ listings extracted. 6 broker email threads fully parsed (BizBuySell, Synergy, East Coast Business Brokers, Transworld). 15 threads accounted for without full body retrieval (marketing/educational emails, duplicate alerts, inquiry confirmations).
+- **Primary Strong Matches:** 0 new
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 3 new (Pharmacy Jersey City $1.5M ask $4.8M revenue, Medical Practice Multi-Disciplinary NJ $700K ask $1.1M revenue work-ON-not-IN risk, B2B Print & Marketing Turnkey NJ $720K ask franchise SDE unconfirmed)
+- **Total excluded:** 21 threads fully accounted for (4 out of geography, 6 food, 1 SDE below, 1 SDE above, 3 no specific listing/marketing, 1 healthcare non-preferred, 5 other/insufficient data)
+- **WebSearch supplement:** 4 queries run (Essex County NJ, self-storage NJ, car wash tri-state, Bergen County retiring owner). Returned marketplace platform directories and summary inventory data; no specific new standalone listings identified beyond marketplace confirmation. School bus company Essex County (already in seen.md 2026-04-27).
+- Gmail connector blocker: Persists on BizBuySell alerts (thread 19e57111e8b2cbd6 121KB, 19e54f904fb42085 112KB). Worked around by parsing available thread previews and categorizing unprocessed threads by type.
+- Pattern: 24-day discovery cycle (2026-05-01 through 2026-05-25) with zero new Primary or Passive Strong Matches. Two prior strong candidates remain in pipeline (Elite Landscape $850K, Cabinet Mfg $1M). Thin deal flow continues. Marketplace refresh rate sub-daily.
+- Tuning note: Medical practice sector appearing with increasing frequency (3 instances this run) but all carry work-ON-not-IN risk (service delivery dependent, licensing requirements, staff retention). Consider tightening sector filter on medical practices in future runs.
+- Tuning note: BizBuySell alert volume high (50+ listings across 21 threads) but low thesis fit (heavy food/medical/non-geographic bias). Consider deprioritizing in favor of direct marketplace browsing or off-market broker outreach.
+- Digest output: 2026-05-25.md. Zero promotions. Borderline candidates (Pharmacy, Medical Practice, B2B Print) flagged for Matt review per template. Next scheduled run: 2026-05-27 (Wednesday).
+
+### 2026-05-27
+
+- Gmail-primary run: 28 threads processed. ~60 individual listings extracted and triaged. Most threads were BizBuySell and East Coast Business Brokers multi-listing alert emails spanning dates 2026-05-01 through 2026-05-26.
+- **Primary Strong Matches:** 0 new (two prior strong candidates remain from 2026-05-01: Elite Landscape $850K SDE, Cabinet Mfg $1M SDE)
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 0 new (prior Borderline candidates from 2026-05-25 remain: Pharmacy $4.8M revenue, Medical Practice $1.1M revenue, B2B Print franchise)
+- **Total excluded:** 55 listings (21 food, 4 franchises, 8 out-of-geography, 3 SDE-below-range, 1 under-5-years, 4 no-specific-listing, 14 already-in-pipeline/deduped)
+- **WebSearch supplement:** 3 queries run (general NJ SDE $250-$1M range, self-storage tri-state, car wash Bergen County). Returned marketplace platform directories and general marketplace data; no specific new standalone listings identified beyond confirmation of existing marketplace landscape (218+ businesses on SMERGERS, 507 on BFS, 1,500+ on BizBuySell).
+- Gmail connector blocker: Persists on large BizBuySell emails (19e65ac8d98acb3b 72KB, 19e57111e8b2cbd6 121KB). Partial content and subject lines extracted where possible.
+- Pattern: 26-day discovery cycle (2026-05-01 through 2026-05-27) with zero new Primary or Passive Strong Matches. Two prior strong candidates remain in pipeline (Elite Landscape $850K, Cabinet Mfg $1M). Deal flow thin; marketplace refresh rate sub-daily.
+- Email quality pattern: East Coast Business Brokers (Henry Galasso) and BizBuySell dominate unread volume (80%+ of threads) but thesis fit remains poor. High food/franchise density, limited non-food service listings. Synergy and Transworld also active but with similar low-fit patterns.
+- Tuning observation: May 2026 email volume strongly skewed toward franchises and food service, both excluded by thesis. Newsletter content quality remains low for Primary and Passive Holds sourcing.
+- Broker relationship opportunity: Henry Galasso (East Coast) remains most prolific contact. Recommend follow-up call to discuss SDE/sector filtering to improve signal-to-noise ratio on future alerts.
+- Recommendation: Prioritize off-market broker outreach (Kensington, Argus, M&M, Sunbelt direct), direct marketplace browsing (BizBuySell.com, BizQuest, SMERGERS filtering), and warm introductions from existing broker relationships over newsletter monitoring.
+- Digest output: 2026-05-27.md. Zero promotions recommended. Auto Shop #12618 remains flagged for review from 2026-05-04 run. Next scheduled run: 2026-05-29 (Friday).
+
+### 2026-05-27 (routing review)
+
+- Reviewed Granola meeting-note routing after project-list drift.
+- Updated active `granola-notes-sync` prompt plus root task docs: Renna Media Acquisition is now an active routing destination; Driving School Acquisition is archived.
+- Added dedupe rule: if a Granola meeting ID exists anywhere in active or historical meeting folders, do not create another copy; log misfiles instead.
+- Cleaned prior routing drift: Renna/Cheryl/Eric/Mike/David/YGS/Shapco/Maria acquisition notes now live under Renna Media; Juris Digital remains under Montclair Digital; Driving School moved out of active projects to `/archive/driving-school-acquisition/`.
+
+### 2026-05-29
+
+- Gmail-primary run: 33 threads processed. Approximately 40+ individual listings extracted across BizBuySell, East Coast Business Brokers, Synergy, and Transworld emails spanning 2026-05-01 through 2026-05-27.
+- **Primary Strong Matches:** 0 new (two prior strong candidates remain from 2026-05-01: Elite Landscape $850K SDE, Cabinet Mfg $1M SDE)
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 3 new (Exterior Services Restoration Bergen County $1.26M ask SDE unconfirmed; Medical Practice multi-disciplinary $450K ask $1.1M revenue work-ON-not-IN risk; B2B Print Marketing franchise $720K ask franchise concentration risk). Plus previously flagged from 2026-05-25 (Pharmacy, Medical Practice, B2B Print).
+- **Total excluded:** 35+ listings (15 food, 8 out-of-geography, 2 SDE below, 3 SDE above, 1 laundromat, 1 under-5-years, 2 no-specific-listing, 3 already-in-pipeline/deduped)
+- **WebSearch supplement:** 3 queries run (Essex County NJ, services businesses NJ 2026, self-storage equipment rental tri-state). Returned marketplace platform directories and general business data summaries; no specific new standalone listings beyond marketplace landscape confirmation.
+- Gmail connector blocker: Persists on large BizBuySell and Synergy emails (token limits on multiple threads). Partial content extracted; full-body parsing incomplete.
+- Pattern: 28-day discovery cycle (2026-05-01 through 2026-05-29) with zero new Primary or Passive Strong Matches. Two prior strong candidates remain in pipeline (Elite Landscape $850K, Cabinet Mfg $1M). Deal flow thin; marketplace refresh rate sub-daily.
+- Tuning observation: Exterior Services Bergen County (New for 2026-05-29, $1.26M ask) is highest-priority lead this cycle. Services sector alignment, in-geography, but SDE unconfirmed. Recommend broker contact for financials.
+- Email quality pattern: East Coast Business Brokers and BizBuySell continue to dominate volume (80%+ of threads) with heavy food/franchise bias. Low thesis fit. Marketplace newsletter content quality remains poor for Primary / Passive Holds sourcing.
+- Broker contact opportunity: Henry Galasso (East Coast Business Brokers, 516-779-8900, henry@eastcoastbusinessbrokers.com) remains most prolific contact. Follow-up call recommended to discuss SDE/sector filtering and improve signal-to-noise ratio.
+- Email hygiene tuning: 33 unread threads in label:Acquisitions represent 5+ weeks of accumulation. Recommend label refinement: create sub-labels for validated brokers (e.g., East Coast, Synergy) to reduce main-label noise; unsubscribe from low-signal newsletters (mass franchise promos, educational emails); prioritize marketplace direct access and off-market broker outreach.
+- Recommendation: Prioritize direct BizBuySell.com browsing (NJ filter), off-market broker outreach (Kensington, Argus, M&M, Sunbelt), and warm introductions from validated brokers over newsletter monitoring.
+- Digest output: 2026-05-29.md. Zero promotions recommended. Exterior Services $1.26M ask flagged for priority broker research. Auto Shop #12618 remains flagged from 2026-05-04 run. Next scheduled run: 2026-05-31 (Sunday - off-cycle; next on-schedule run is 2026-06-02 Monday).
+
+### 2026-06-01
+
+- Gmail-primary run: 30 threads processed. 20+ individual listings extracted and triaged across BizBuySell, East Coast Business Brokers, Synergy, and Transworld emails spanning 2026-05-26 through 2026-05-31.
+- **Primary Strong Matches:** 0 new (two prior strong candidates remain from 2026-05-01: Elite Landscape $850K SDE, Cabinet Mfg $1M SDE)
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 0 new this run (Exterior Services Bergen County $1.26M ask, Medical Practice $1.1M revenue, B2B Print $720K ask remain from prior runs)
+- **Total excluded:** ~20 listings (6 food, 1 laundromat, 1 SDE below, 13+ already-in-pipeline/deduped)
+- **WebSearch supplement:** 3 queries run (NJ SDE range, self-storage tri-state, Bergen County recent). Returned marketplace platform directories and aggregator pages; no specific new standalone listings identified. Self-storage inventory confirmed as limited in sub-$1M SDE range (statewide ave sale price $5.4M).
+- Gmail connector blocker: Persists on BizBuySell HTML emails (thread 19e7bc84e7e22a3e 121KB, 19e6a80957df5c0f 115KB). Partial content extraction only.
+- Pattern: 31-day discovery cycle (2026-05-01 through 2026-06-01) with zero new Primary or Passive Strong Matches. Two prior strong candidates remain in pipeline (Elite Landscape $850K, Cabinet Mfg $1M). Deal flow remains thin. Marketplace refresh rate sub-daily.
+- Email quality pattern: East Coast Business Brokers and BizBuySell dominate volume (80%+) with persistent heavy food/franchise/hospitality bias. Low thesis fit continues. Broker newsletter content quality remains poor for Primary and Passive Holds sourcing.
+- Alert fatigue observation: 30 unread threads in label:Acquisitions represent 6 weeks of accumulation (2026-05-26 through 2026-06-01). Nearly all represent broker newsletters with low-fit listings. Recommended action: create email sub-labels to separate broker newsletters from direct deal inquiries; deprioritize newsletter monitoring in favor of direct marketplace access and off-market broker outreach.
+- Recommendation: Prioritize direct BizBuySell.com/BizQuest.com browsing with tight sector filters, direct contact with validated off-market brokers (Kensington, Argus, M&M, Sunbelt), and selective follow-up on prior Borderline candidates (Exterior Services, Medical Practice, B2B Print, Auto Shop #12618). Reduce reliance on broker newsletter monitoring.
+- Digest output: 2026-06-01.md. Zero promotions recommended. Prior Borderline candidates carry forward for Matt's review. Next scheduled run: 2026-06-04 (Wednesday, per Mon/Wed/Fri cadence).

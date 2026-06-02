@@ -14,4 +14,4 @@ Standard contents:
 
 Killed deals move to `../archive/[same-slug]/` with a reason captured in triage.md or vet.md.
 
-Graduated deals (serious enough for LOI or deep engagement) move to their own top-level project folder, e.g., `/projects/[deal-slug]-acquisition/`. See `/projects/driving-school-acquisition/` as the template.
+Graduated deals (serious enough for LOI or deep engagement) move to their own top-level project folder, e.g., `/projects/[deal-slug]-acquisition/`. See `/projects/renna-media-acquisition/` as the current example.

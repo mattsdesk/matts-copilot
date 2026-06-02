@@ -2,7 +2,7 @@
 
 **Date:** May 7, 2026
 **Attendees:** Matt Saunders
-**Context:** Driving School Acquisition
+**Context:** Renna Media Acquisition
 **Source:** Granola, meeting ID `a024ff56-8ab4-49f8-9f4c-f948be35f3de`
 
 ---

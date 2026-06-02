@@ -2,7 +2,7 @@
 
 > Record of automated Claude tasks that operate on this project. Use this to recreate the setup on a new machine.
 >
-> **Last updated:** 2026-04-29
+> **Last updated:** 2026-05-27
 
 ---
 
@@ -30,18 +30,22 @@ To recreate a task on a new machine, start a Cowork session, invoke the **Schedu
 | **Status** | Enabled |
 | **Prompt file** | `~/Documents/Claude/Scheduled/granola-notes-sync/SKILL.md` |
 
-**Purpose:** Pulls new Granola meeting notes and routes them into the correct project's `meetings/2026/` folder (montclair-digital, personal). Also updates the relevant project's memory.md when meaningful.
+**Purpose:** Pulls new Granola meeting notes and routes them into the correct project's `meetings/2026/` folder. Active routing destinations are Montclair Digital, Renna Media Acquisition, and Personal. Also updates the relevant project's memory.md when meaningful.
 
-**Important:** Driving school acquisition is archived. Do not route to `projects/driving-school-acquisition/`. If meetings mention broker names (Zanol, etc.), route to personal.
+**Important:** Driving school acquisition is archived at `archive/driving-school-acquisition/`. Do not route new notes to `projects/driving-school-acquisition/`.
 
 **Routing table:**
 
 | Context | Route to | Triggers |
 |---------|----------|----------|
 | Montclair Digital | `<base>/projects/montclair-digital/meetings/2026/` | Einhorn Barbarito staff (Liz Lindley, Alissa Hascup, Ashley Hitch), Flyosophy (Mara Scott), or consulting client discussions |
-| Personal | `<base>/projects/personal/meetings/2026/` | Job interviews, financial planning, family, life admin, acquisition/business exploration, anything not Montclair Digital |
+| Renna Media Acquisition | `<base>/projects/renna-media-acquisition/meetings/2026/` | Renna Media, Joe/Tina Renna, Eric Sharret, Murphy Business, Cheryl Venezia, David Bohlander, Mike Pierson, acquisition financing, Maria/KRS accountant when focused on the newspaper acquisition, printing/mail vendors for the newspaper project including YGS and Shapco, LOI, diligence, offer, APA, closing, USPS/EDDM, advertiser analysis |
+| Acquisitions Pipeline | no meeting file by default | General business-for-sale sourcing, broker newsletters, thesis conversations, or deal exploration before a specific project is opened. Log only in `projects/acquisitions/memory.md` if meaningful. Once a deal has its own project folder, route there. |
+| Personal | `<base>/projects/personal/meetings/2026/` | Job interviews, financial planning not tied to a specific deal, family, life admin, personal networking, anything not covered by a more specific active project |
 
-If a meeting doesn't fit either active context (e.g., archived project), skip and note in the sync report.
+If a meeting ID already exists in any active meeting folder, do not create a duplicate in another project. Use archived folders only to avoid re-importing archived project notes, not as active destinations.
+
+If a meeting doesn't fit an active context, skip and note it in the sync report.
 
 ---
 

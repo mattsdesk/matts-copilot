@@ -4,7 +4,7 @@
 **Organisation:** Einhorn Barbarito (Advertising Agency)
 **Relationship:** Vendor
 **Context:** Montclair Digital
-**Last interaction:** April 21, 2026
+**Last interaction:** May 19, 2026
 
 ---
 
@@ -25,6 +25,7 @@ Liz is a principal at Einhorn Barbarito advertising agency and Matt's primary co
 
 ## Open Items
 
+- **CRITICAL: Site relaunch content delivery** -- Liz has been unresponsive for ~2 weeks; missed promised deadline from last week; Dennis sent pointed email to partners; needs 5-year content archive for complete site rebuild
 - Landing page disclaimer footer setup and duplication
 - PI microsite scope clarification (Dennis vs. Chris Manos approach)
 - Personal injury website development kickoff
@@ -37,12 +38,15 @@ Liz is a principal at Einhorn Barbarito advertising agency and Matt's primary co
 
 *Running log of key points from each 1:1 — most recent first.*
 
+**May 19, 2026** -- Site relaunch content bottleneck. Dennis needs all of Liz's content (5 years of materials) to proceed with site build. Liz has been unresponsive for approximately 2 weeks (last contact day after initial conversation, said "we've got it" then went silent). Missed promised deadline from previous week. Dennis sent pointed email to partners (CC'ing Matt) with firm tone to get attention; acknowledges Liz may be annoyed but prioritizing results. Complete site rebuild required, not overlay on existing site. Matt to reply on Dennis's email thread (not separate communication) and coordinate between Dennis and Liz.
+
 **April 21, 2026** -- Call with Liz and Brian Alford (Jaffe PR). Campaign performing well: 14 leads at $13/lead on April 21, averaging ~$20/lead month-to-date. Budget cap is the constraint, not demand. Liz flagged interest in deeper ongoing engagement after losing their previous SEO person. Matt prefers contractor status; white-label arrangement discussed. Brian committed to configuring Google Search Console same day. Liz scheduling follow-up with Matt Nunn for April 22. Liz described current website as "horrific" and noted need for rebuild.
 
 ## Interaction History
 
 | Date | Meeting | Notes |
 |------|---------|-------|
+| 2026-05-19 | [Liz Content Follow-Up](../meetings/2026/2026-05-19-liz-content-follow-up.md) | Site relaunch content bottleneck; Liz unresponsive 2 weeks; Dennis sent firm email; needs 5-year content archive |
 | 2026-01-27 | [Einhorn Advertising Meeting](../meetings/2026/2026-01-27-einhorn-advertising-meeting.md) | Legal situation with Tom Snyder, digital marketing strategy, website issues |
 | 2026-02-10 | [Chat with Liz (Einhorn)](../meetings/2026/2026-02-10-chat-liz-einhorn.md) | Google Ads performance, landing page setup, PI microsite development |
 | 2026-04-21 | [Einhorn](../meetings/2026/2026-04-21-einhorn.md) | April campaign performance, GSC setup, scope expansion discussion, Matt Nunn follow-up |

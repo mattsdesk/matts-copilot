@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Renna Media - Advertiser Analysis</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gridjs@5.0.2/dist/theme/mermaid.min.css" integrity="sha384-jZvDSsmGB9oGGT/4l9bHXGoAv1OxvG/cFmSo0dZaSqmBgvQTKDBFAMftlXTmMbNW" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/gridjs@5.0.2/dist/gridjs.umd.js" integrity="sha384-/XXDzxe4FsGiAe50i/u9pY/Vy/uX654MHB1xoc1BJNnH1WXHhqHga9g3q5tF4gj7" crossorigin="anonymous"></script>
+  <style>
+    :root {
+      --color-primary: #2563eb;
+      --color-bg: #f8fafc;
+      --color-text: #1e293b;
+      --color-border: #e2e8f0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: white;
+      color: var(--color-text);
+      margin: 0;
+      padding: 24px;
+    }
+
+    .page-header {
+      margin-bottom: 32px;
+    }
+
+    h1 {
+      margin: 0 0 8px 0;
+      font-size: 28px;
+      font-weight: 600;
+    }
+
+    .subtitle {
+      color: #64748b;
+      margin-bottom: 16px;
+      font-size: 14px;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+    }
+
+    .stat-card {
+      background: var(--color-bg);
+      border: 1px solid var(--color-border);
+      border-radius: 6px;
+      padding: 12px;
+    }
+
+    .stat-label {
+      font-size: 11px;
+      font-weight: 500;
+      color: #64748b;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+
+    .stat-value {
+      font-size: 20px;
+      font-weight: 600;
+      color: var(--color-primary);
+    }
+
+    .main-grid {
+      display: grid;
+      grid-template-columns: 1fr 1.4fr;
+      gap: 24px;
+      margin-bottom: 32px;
+    }
+
+    .heatmap-container {
+      background: white;
+      border: 1px solid var(--color-border);
+      border-radius: 8px;
+      padding: 16px;
+      overflow-x: auto;
+    }
+
+    .heatmap-title {
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 12px;
+      color: var(--color-text);
+    }
+
+    .heatmap-table {
+      border-collapse: collapse;
+      font-size: 12px;
+      width: 100%;
+    }
+
+    .heatmap-table th {
+      background: var(--color-bg);
+      padding: 8px 4px;
+      text-align: center;
+      font-weight: 500;
+      color: var(--color-text);
+      border: 1px solid var(--color-border);
+    }
+
+    .heatmap-table td {
+      padding: 6px 4px;
+      text-align: center;
+      border: 1px solid var(--color-border);
+      font-weight: 500;
+    }
+
+    .heatmap-row-header {
+      background: var(--color-bg);
+      text-align: left;
+      font-weight: 500;
+      max-width: 140px;
+      word-break: break-word;
+    }
+
+    .cell-0 { background: white; color: #94a3b8; }
+    .cell-1 { background: #e0f2fe; color: #0c4a6e; }
+    .cell-2 { background: #bae6fd; color: #0c4a6e; }
+    .cell-3 { background: #7dd3fc; color: #0c4a6e; }
+    .cell-4 { background: #38bdf8; color: white; }
+    .cell-5 { background: #0ea5e9; color: white; }
+    .cell-6plus { background: #0284c7; color: white; }
+
+    .right-panel {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .filter-section {
+      background: var(--color-bg);
+      border: 1px solid var(--color-border);
+      border-radius: 8px;
+      padding: 16px;
+    }
+
+    .filter-title {
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 12px;
+      color: var(--color-text);
+    }
+
+    .filter-group {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .filter-item {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .filter-item label {
+      font-size: 12px;
+      font-weight: 500;
+      margin-bottom: 4px;
+      color: var(--color-text);
+    }
+
+    select, input {
+      padding: 6px 10px;
+      border: 1px solid var(--color-border);
+      border-radius: 6px;
+      font-size: 12px;
+      font-family: inherit;
+    }
+
+    .filter-buttons {
+      display: flex;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    button {
+      padding: 6px 12px;
+      background: var(--color-primary);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #1d4ed8;
+    }
+
+    button.secondary {
+      background: #94a3b8;
+    }
+
+    button.secondary:hover {
+      background: #64748b;
+    }
+
+    .gridjs-wrapper {
+      border: 1px solid var(--color-border);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .gridjs-table {
+      width: 100%;
+    }
+
+    .gridjs-th {
+      background: var(--color-bg);
+      font-weight: 600;
+      color: var(--color-text);
+      border-color: var(--color-border);
+      padding: 10px;
+      font-size: 12px;
+    }
+
+    .gridjs-td {
+      padding: 10px;
+      border-color: var(--color-border);
+      font-size: 12px;
+    }
+
+    .gridjs-tr:nth-child(even) {
+      background: #fafbfc;
+    }
+
+    .highlight-prepaid {
+      background: #dbeafe;
+      color: #0c4a6e;
+      padding: 2px 4px;
+      border-radius: 3px;
+      font-size: 11px;
+      font-weight: 500;
+    }
+
+    .amount {
+      font-weight: 500;
+      color: var(--color-primary);
+    }
+
+    @media (max-width: 1200px) {
+      .main-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-header">
+    <h1>Renna Media - Advertiser Analysis</h1>
+    <p class="subtitle">March 2026 Transaction Detail | 104 transactions</p>
+
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Total Transactions</div>
+        <div class="stat-value" id="statTotal">104</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Prepaid</div>
+        <div class="stat-value" id="statPrepaid">5</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Total Revenue</div>
+        <div class="stat-value" id="statRevenue">$80.7K</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Avg Transaction</div>
+        <div class="stat-value" id="statAvg">$776</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main-grid">
+    <div class="heatmap-container">
+      <div class="heatmap-title">Ad Units by Number of Towns</div>
+      <table class="heatmap-table" id="heatmapTable">
+        <!-- Will be populated by JavaScript -->
+      </table>
+    </div>
+
+    <div class="right-panel">
+      <div class="filter-section">
+        <div class="filter-title">Filter Results</div>
+        <div class="filter-group">
+          <div class="filter-item">
+            <label>Unit Size</label>
+            <select id="unitFilter">
+              <option value="">All Sizes</option>
+              <option value="1-unit (Business Card)">1-unit (Business Card)</option>
+              <option value="2-unit">2-unit</option>
+              <option value="3-unit">3-unit</option>
+              <option value="4-unit">4-unit</option>
+              <option value="6-unit">6-unit</option>
+              <option value="9-unit (Half Page)">9-unit (Half Page)</option>
+              <option value="18-unit (Full Page)">18-unit (Full Page)</option>
+              <option value="Banner/Other">Banner/Other</option>
+              <option value="Insert/Printing">Insert/Printing</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+          <div class="filter-item">
+            <label>Number of Towns</label>
+            <select id="townsFilter">
+              <option value="">All</option>
+              <option value="1">1 Town</option>
+              <option value="2">2 Towns</option>
+              <option value="3">3 Towns</option>
+              <option value="4">4 Towns</option>
+              <option value="6">6 Towns</option>
+              <option value="9">9 Towns</option>
+              <option value="12">12 Towns</option>
+            </select>
+          </div>
+          <div class="filter-item">
+            <label>Prepaid</label>
+            <select id="prepaidFilter">
+              <option value="">All</option>
+              <option value="Yes">Yes</option>
+              <option value="No">No</option>
+            </select>
+          </div>
+        </div>
+        <div class="filter-buttons">
+          <button onclick="applyFilters()">Apply Filters</button>
+          <button class="secondary" onclick="resetFilters()">Reset</button>
+        </div>
+      </div>
+
+      <div id="table-container"></div>
+    </div>
+  </div>
+
+  <div style="margin-top: 32px;">
+    <div style="background: white; border: 1px solid var(--color-border); border-radius: 8px; padding: 16px;">
+      <div style="font-size: 13px; font-weight: 600; margin-bottom: 12px; color: var(--color-text);">Ad Placement by Town</div>
+      <div id="towns-table-container"></div>
+    </div>
+  </div>
+
+  <script>
+    let fullData = [];
+    let currentGrid = null;
+
+    const crosstabData = {
+      "units": ["1-unit (Business Card)", "18-unit (Full Page)", "2-unit", "3-unit", "4-unit", "6-unit", "9-unit (Half Page)", "Insert/Printing"],
+      "towns": ["1", "2", "3", "4", "6", "7", "9", "11", "12", "15", "18", "27", "30"],
+      "matrix": [[6,2,3,2,2,0,0,0,1,0,0,0,0],[3,0,2,0,3,0,1,1,1,0,1,1,3],[3,1,13,0,1,1,1,0,2,1,0,0,2],[0,0,0,0,1,0,0,0,0,0,0,0,0],[3,1,5,0,1,0,2,0,2,0,0,0,0],[0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,1,1,0,4,0,0,0,0,0,1],[2,0,0,0,1,0,0,0,0,0,0,0,0]]
+    };
+
+    const townData = [
+      {"town": "Rahway", "total": 1, "units": {"9-unit (Half Page)": 1}},
+      {"town": "Morristown", "total": 1, "units": {"18-unit (Full Page)": 1}},
+      {"town": "Hanover Township", "total": 1, "units": {"18-unit (Full Page)": 1}},
+      {"town": "Berkeley Heights", "total": 2, "units": {"3-unit": 1, "18-unit (Full Page)": 1}},
+      {"town": "New Providence", "total": 2, "units": {"3-unit": 1, "18-unit (Full Page)": 1}},
+      {"town": "Roseland", "total": 2, "units": {"18-unit (Full Page)": 1, "Insert/Printing": 1}},
+      {"town": "Livingston", "total": 2, "units": {"18-unit (Full Page)": 1, "4-unit": 1}},
+      {"town": "Morris Township", "total": 2, "units": {"18-unit (Full Page)": 1, "4-unit": 1}},
+      {"town": "East Hanover", "total": 2, "units": {"18-unit (Full Page)": 1, "Insert/Printing": 1}},
+      {"town": "Mountainside", "total": 2, "units": {"18-unit (Full Page)": 2}},
+      {"town": "The Chathams", "total": 3, "units": {"3-unit": 1, "18-unit (Full Page)": 1, "4-unit": 1}},
+      {"town": "Madison", "total": 3, "units": {"3-unit": 1, "18-unit (Full Page)": 1, "4-unit": 1}},
+      {"town": "Westfield", "total": 3, "units": {"9-unit (Half Page)": 1, "18-unit (Full Page)": 1, "4-unit": 1}},
+      {"town": "Scotch Plains", "total": 3, "units": {"18-unit (Full Page)": 2, "9-unit (Half Page)": 1}},
+      {"town": "Cranford", "total": 3, "units": {"9-unit (Half Page)": 1, "18-unit (Full Page)": 1, "4-unit": 1}}
+    ];
+
+    function getCellClass(value) {
+      if (value === 0) return 'cell-0';
+      if (value === 1) return 'cell-1';
+      if (value === 2) return 'cell-2';
+      if (value === 3) return 'cell-3';
+      if (value === 4) return 'cell-4';
+      if (value === 5) return 'cell-5';
+      return 'cell-6plus';
+    }
+
+    function initHeatmap() {
+      const table = document.getElementById('heatmapTable');
+      let html = '<tr><th style="max-width: 140px;">Units</th>';
+      crosstabData.towns.forEach(town => {
+        html += `<th>${town}</th>`;
+      });
+      html += '</tr>';
+
+      crosstabData.units.forEach((unit, i) => {
+        html += `<tr><td class="heatmap-row-header">${unit}</td>`;
+        crosstabData.matrix[i].forEach(value => {
+          const cellClass = getCellClass(value);
+          html += `<td class="${cellClass}">${value}</td>`;
+        });
+        html += '</tr>';
+      });
+
+      table.innerHTML = html;
+    }
+
+    function initTownTable() {
+      const container = document.getElementById('towns-table-container');
+      let html = '<table style="width: 100%; border-collapse: collapse; font-size: 12px;">';
+      html += '<tr style="background: var(--color-bg);"><th style="border: 1px solid var(--color-border); padding: 10px; text-align: left; font-weight: 600;">Town</th><th style="border: 1px solid var(--color-border); padding: 10px; text-align: center; font-weight: 600;">Total Ads</th><th style="border: 1px solid var(--color-border); padding: 10px; text-align: left; font-weight: 600;">Size Breakdown</th></tr>';
+
+      townData.forEach((row, idx) => {
+        const sizeBreakdown = Object.entries(row.units)
+          .map(([size, count]) => `${size} (${count})`)
+          .join(', ');
+        const bgColor = idx % 2 === 0 ? 'white' : '#fafbfc';
+        html += `<tr style="background: ${bgColor};"><td style="border: 1px solid var(--color-border); padding: 10px;">${row.town}</td><td style="border: 1px solid var(--color-border); padding: 10px; text-align: center; font-weight: 600;">${row.total}</td><td style="border: 1px solid var(--color-border); padding: 10px;">${sizeBreakdown}</td></tr>`;
+      });
+
+      html += '</table>';
+      container.innerHTML = html;
+    }
+
+    async function loadData() {
+      try {
+        const response = await fetch('renna_parsed.json');
+        fullData = await response.json();
+        renderTable(fullData);
+      } catch (e) {
+        console.log('Could not load external JSON');
+        fullData = [];
+        renderTable(fullData);
+      }
+    }
+
+    function renderTable(data) {
+      const columns = [
+        { name: 'Account', width: '160px' },
+        { name: 'Unit Size', width: '130px' },
+        { name: 'Towns', width: '80px' },
+        { name: 'Prepaid', width: '70px' },
+        { name: 'Duration', width: '80px' },
+        { name: 'Amount', width: '80px' }
+      ];
+
+      const processedData = data.map(row => [
+        row.Account,
+        row['Unit Size'],
+        row['Number of Towns'] || '-',
+        row.Prepaid === 'Yes' ? '<span class="highlight-prepaid">Yes</span>' : 'No',
+        row['Prepay Duration (months)'] || '-',
+        `<span class="amount">$${(row.Amount || 0).toLocaleString()}</span>`
+      ]);
+
+      if (currentGrid) {
+        currentGrid.destroy();
+      }
+
+      currentGrid = new gridjs.Grid({
+        columns: columns,
+        data: processedData,
+        pagination: { limit: 15 },
+        sort: true,
+        search: true,
+        style: {
+          table: {
+            border: 'none'
+          }
+        }
+      }).render(document.getElementById('table-container'));
+
+      updateStats(data);
+    }
+
+    function applyFilters() {
+      const unitFilter = document.getElementById('unitFilter').value;
+      const townsFilter = document.getElementById('townsFilter').value;
+      const prepaidFilter = document.getElementById('prepaidFilter').value;
+
+      let filtered = fullData;
+
+      if (unitFilter) {
+        filtered = filtered.filter(row => row['Unit Size'] === unitFilter);
+      }
+
+      if (townsFilter) {
+        filtered = filtered.filter(row => row['Number of Towns'] == townsFilter);
+      }
+
+      if (prepaidFilter) {
+        filtered = filtered.filter(row => row.Prepaid === prepaidFilter);
+      }
+
+      renderTable(filtered);
+    }
+
+    function resetFilters() {
+      document.getElementById('unitFilter').value = '';
+      document.getElementById('townsFilter').value = '';
+      document.getElementById('prepaidFilter').value = '';
+      renderTable(fullData);
+    }
+
+    function updateStats(data) {
+      const total = data.length;
+      const prepaid = data.filter(row => row.Prepaid === 'Yes').length;
+      const revenue = data.reduce((sum, row) => sum + (row.Amount || 0), 0);
+      const avg = total > 0 ? revenue / total : 0;
+
+      document.getElementById('statTotal').textContent = total;
+      document.getElementById('statPrepaid').textContent = prepaid;
+      document.getElementById('statRevenue').textContent = '$' + (revenue / 1000).toFixed(1) + 'K';
+      document.getElementById('statAvg').textContent = '$' + Math.round(avg).toLocaleString();
+    }
+
+    initHeatmap();
+    initTownTable();
+    loadData();
+  </script>
+</body>
+</html>

@@ -146,10 +146,11 @@ Meeting notes and people docs are stored per-project:
 
 - **Montclair Digital meetings:** `projects/montclair-digital/meetings/2026/`
 - **Montclair Digital people:** `projects/montclair-digital/people/`
+- **Renna Media Acquisition meetings:** `projects/renna-media-acquisition/meetings/2026/`
 - **Personal meetings:** `projects/personal/meetings/2026/`
 - **Personal context:** `projects/personal/`
 
-LIV Golf has been archived to `archive/liv-golf/`. Do not reference or update those files.
+LIV Golf has been archived to `archive/liv-golf/`. Driving School Acquisition has been archived to `archive/driving-school-acquisition/`. Do not reference or update archived project files during routine meeting-note ingestion.
 
 ---
 
@@ -235,3 +236,7 @@ Your job is to:
 - make work faster
 - make outputs better
 - maintain continuity across sessions
+
+## Imported Claude Cowork project instructions
+
+This is a project that helps me organize my personal and professional efforts.

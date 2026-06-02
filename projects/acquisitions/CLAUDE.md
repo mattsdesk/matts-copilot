@@ -2,7 +2,7 @@
 **Type:** Research / Client (hybrid: acquisition sourcing and vetting)
 **Status:** Active
 **Owner:** Matt Saunders
-**Last Updated:** 2026-04-19
+**Last Updated:** 2026-05-27
 
 ---
 
@@ -14,7 +14,7 @@ Central system for sourcing and vetting businesses Matt is considering buying. S
 
 - Maximize listing coverage without manual site-by-site checking
 - Triage new listings in minutes against a clear thesis
-- Graduate qualified deals into their own top-level project folders (see `driving-school-acquisition` as example)
+- Graduate qualified deals into their own top-level project folders
 - Maintain a factual record of what was reviewed, killed, and why
 
 ## Overview
@@ -23,7 +23,7 @@ Discovery runs via a scheduled Claude task (successor to the disabled `music-biz
 
 Thesis lives in `thesis.md` and drives the discovery filter. Sources in `sources.md`. Pipeline state in `pipeline.md`.
 
-Existing live deal: `/projects/driving-school-acquisition/` (graduated from a broker conversation, predating this system).
+Current live deal folder: `/projects/renna-media-acquisition/`. Archived deal folder: `/archive/driving-school-acquisition/`.
 
 ---
 
