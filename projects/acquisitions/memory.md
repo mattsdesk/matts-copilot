@@ -290,3 +290,17 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Alert fatigue observation: 30 unread threads in label:Acquisitions represent 6 weeks of accumulation (2026-05-26 through 2026-06-01). Nearly all represent broker newsletters with low-fit listings. Recommended action: create email sub-labels to separate broker newsletters from direct deal inquiries; deprioritize newsletter monitoring in favor of direct marketplace access and off-market broker outreach.
 - Recommendation: Prioritize direct BizBuySell.com/BizQuest.com browsing with tight sector filters, direct contact with validated off-market brokers (Kensington, Argus, M&M, Sunbelt), and selective follow-up on prior Borderline candidates (Exterior Services, Medical Practice, B2B Print, Auto Shop #12618). Reduce reliance on broker newsletter monitoring.
 - Digest output: 2026-06-01.md. Zero promotions recommended. Prior Borderline candidates carry forward for Matt's review. Next scheduled run: 2026-06-04 (Wednesday, per Mon/Wed/Fri cadence).
+
+### 2026-06-03
+
+- Gmail-primary run: 28 threads processed. 0 new listings extracted (all listings present in seen.md from prior runs).
+- **Primary Strong Matches:** 0 new (two prior strong candidates remain from 2026-05-01: Elite Landscape $850K SDE, Cabinet Mfg $1M SDE)
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 0 new (Exterior Services, Medical Practice, B2B Print, Auto Shop remain from prior runs)
+- **Total accounted for:** 28 threads (2 specific listings already deduped, 3 educational/marketing newsletters with no specific listing, remainder broker alerts within marketplace coverage)
+- **WebSearch supplement:** 3 queries run (NJ SDE range, self-storage tri-state, equipment rental updates). Returned marketplace directories only; no specific new standalone listings identified.
+- Gmail connector status: Large BizBuySell HTML emails confirmed retrievable in FULL_CONTENT mode (threads 19e6a80957df5c0f, 19e65ac8d98acb3b). BizBuySell 5/27 email contained Exterior Services and Dynamic Organization (both already in seen.md 2026-05-29). Email parsing improved vs prior runs.
+- Pattern: 33-day discovery cycle (2026-05-01 through 2026-06-03) with zero new Primary or Passive Strong Matches. Thin deal flow continues. Marketplace refresh rate sub-daily.
+- Email volume pattern: 28 unread threads represent 5+ weeks of broker newsletters (5/1 through 5/27, plus old 2025 threads). East Coast Business Brokers and BizBuySell dominate (80%+, heavy food/hospitality bias, low fit). Synergy and Transworld also present but low-fit patterns. Newsletter content quality remains poor for Primary and Passive Holds.
+- Broker observation: Henry Galasso (East Coast, 516-779-8900, henry@eastcoastbusinessbrokers.com) remains prolific source; warm call recommended for filter tuning.
+- Digest output: 2026-06-03.md. Zero promotions recommended. Four Borderline candidates carry forward for Matt's review. No action on specific listings this cycle.
