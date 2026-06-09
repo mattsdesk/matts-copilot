@@ -304,3 +304,18 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Email volume pattern: 28 unread threads represent 5+ weeks of broker newsletters (5/1 through 5/27, plus old 2025 threads). East Coast Business Brokers and BizBuySell dominate (80%+, heavy food/hospitality bias, low fit). Synergy and Transworld also present but low-fit patterns. Newsletter content quality remains poor for Primary and Passive Holds.
 - Broker observation: Henry Galasso (East Coast, 516-779-8900, henry@eastcoastbusinessbrokers.com) remains prolific source; warm call recommended for filter tuning.
 - Digest output: 2026-06-03.md. Zero promotions recommended. Four Borderline candidates carry forward for Matt's review. No action on specific listings this cycle.
+
+### 2026-06-05
+
+- Gmail-primary run: 0 unread threads in `label:Acquisitions`. Label empty.
+- **Primary Strong Matches:** 0 new
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 0 new
+- **Total extracted:** 0 listings
+- **WebSearch supplement:** 4 queries run (self-storage NJ, service businesses Bergen County retiring owner, equipment rental tri-state, automated car wash NJ/PA). Returned marketplace platform directories and general inventory summaries (Crexi 26+ self-storage, 41 total NJ facilities at avg $5.4M; LoopNet/Showcase/BizBuySell active on car wash and equipment rental; Synergy/Business Brokers maintain Bergen County service category pipelines). No specific new standalone listings with price/SDE/owner detail identified.
+- Pattern: 35-day discovery cycle (2026-05-01 through 2026-06-05) with zero new Primary or Passive Strong Matches. Two prior strong candidates remain in pipeline (Elite Landscape $850K SDE from 2026-05-01, Cabinet Mfg $1M SDE from 2026-05-01). Four Borderline candidates carry forward (Exterior Services Bergen County $1.26M ask, Medical Practice $1.1M revenue, B2B Print Marketing franchise, Auto Shop #12618 Nassau County $314K SDE). Deal flow remains thin; marketplace refresh rate sub-daily.
+- Email hygiene note: 0 unread threads suggests label has been cleared (either processed/read externally or label manually cleaned). Prior run (2026-06-03) had 28 unread threads representing 5+ weeks of accumulation.
+- Gmail connector status: Per prior run (2026-06-03), FULL_CONTENT retrieval confirmed working. BizBuySell alerts and multi-listing broker emails now parse correctly. No blocker on email body content.
+- Marketplace observation: WebSearch returned robust inventory across all Passive Holds categories (self-storage 41+ NJ facilities, car wash multiple tri-state listings, equipment rental platforms active). However, specimen-level detail (price, SDE, owner terms) remains inaccessible via WebSearch API. Direct marketplace browsing (BizBuySell.com, LoopNet.com, Crexi.com, Synergy.com) or broker outreach required to extract specific deals.
+- Tuning recommendation: Email-based discovery has been muted since 2026-05-29 (36 days of zero Primary or Passive strong matches). Recommend Matt initiate direct broker outreach calls (Henry Galasso / East Coast, Blake / Synergy, Kensington off-market) or dedicated BizBuySell.com browsing session with tight SDE/sector filters to activate pipeline. Current broker newsletter model (high volume, low fit) has not produced Primary strong match in 35 days.
+- Digest output: 2026-06-05.md. Zero promotions recommended. Four prior Borderline candidates remain available for Matt review if needed. Next scheduled run: 2026-06-07 (Friday, per Mon/Wed/Fri cadence).

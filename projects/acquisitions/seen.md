@@ -72,3 +72,20 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-05-29 | Highly Profitable Italian Restaurant & Bar ($2M+ annually) - NJ | Gmail - BizBuySell 5/24 | Excluded - food
 2026-05-29 | Multi-Disciplinary Medical Practice (PT, Chiropractic) - NJ | Gmail - BizBuySell 5/24 (Listing #2509851) | Borderline (Primary - $450K ask, $1.1M revenue, work-ON-not-IN risk)
 2026-05-29 | B2B Print & Marketing Turnkey Franchise - NJ | Gmail - BizBuySell 5/16 (Listing #2506810) | Borderline (Primary - franchise, $720K ask, concentration risk)
+2026-06-08 | Auto Collision Repair Service - NJ | Gmail - BizBuySell 5/5 (Listing #2502340) | Borderline (Primary - $1.5M ask, implied SDE $430K-$600K, work-ON-not-IN unverified)
+2026-06-08 | Auto Body Shop - NJ | Gmail - BizBuySell 5/6 (Listing #2502716) | Borderline (Primary - $825K ask, implied SDE $235K-$330K, low end of Primary floor)
+2026-06-08 | 15 FedEx Ground Routes - Dover NJ | Gmail - BizBuySell 5/7 (Listing #2503415) | Excluded - route-based distribution (hard-excluded)
+2026-06-08 | Profitable Prime Location Italian Restaurant - Bergen County NJ | Gmail - BizBuySell 5/4 (Listing #2502011) | Excluded - food
+2026-06-08 | Highly Profitable Bakery - Middlesex County NJ | Gmail - BizBuySell 5/3 (Listing #2501767) | Excluded - food
+2026-06-08 | Bergen County After-School Learning Franchise (Transworld 6/7) | Gmail - Transworld thread 19e9fb33654bf6f5 | Borderline (Primary - snippet only, franchise structure, Bergen County NJ, SDE unknown)
+2026-06-08 | Growing Tech Construction Company - $3M EBITDA | Gmail - Synergy 5/27 thread 19e6a80957df5c0f | Excluded - SDE above Primary ceiling
+2026-06-08 | Car Carrier Transportation (12 trucks) | Gmail - Synergy 5/27 thread 19e6a80957df5c0f | Excluded - distribution/logistics
+2026-06-08 | Addiction Treatment & Behavioral Health Business | Gmail - Synergy 5/27 thread 19e6a80957df5c0f | Excluded - healthcare/licensing
+2026-06-08 | [5 stale 2025 threads, Aug-Nov 2025] | Gmail - threads 19ab75d387a174ee, 19aa1aa99987a299, 199aa6a4eb1ab873, 1998658c72b5e50c, 198ec70efc64f2d9 | Excluded - stale (7-10 months old, listings almost certainly off market)
+2026-06-08 | [East Coast 5/26 "8 Businesses" - content unread] | Gmail - thread 19e65ac8d98acb3b | Logged - file unreadable (HTML too large), likely food-heavy per East Coast pattern
+2026-06-08 | [East Coast 5/7 "These Won't Last" - content unread] | Gmail - thread 19e032c3f33fb814 | Logged - file unreadable (HTML too large)
+2026-06-08 | [BizBuySell 5/23 - 4 matches - content unread] | Gmail - thread 19e54df3eaea7ff0 | Logged - file unreadable (HTML too large)
+2026-06-08 | [Transworld 5/23 multi-listing email - content unread] | Gmail - thread 19e57111e8b2cbd6 | Logged - file unreadable (HTML too large)
+2026-06-08 | [SMB Deal Hunter 5/1 "He left PwC" newsletter] | Gmail - thread 19de531933e2c7b6 | Logged - file unreadable, newsletter likely no specific listing
+2026-06-08 | [East Coast 5/1 Top 6 - likely duplicate of prior run] | Gmail - thread 19de445aa81f88c8 | Logged - file unreadable, content likely covered by 5/1 session entries
+2026-06-08 | [East Coast 4/30 Top 8 - likely duplicate of prior run] | Gmail - thread 19ddf2191744d254 | Logged - file unreadable, content likely covered by 5/1 session entries

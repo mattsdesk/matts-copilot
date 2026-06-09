@@ -155,3 +155,21 @@ Beyond the questions above, request before LOI:
 90 minutes. Walk the monthly cycle first. Then concentration. Then digital demand. Save retention drivers for last so the conversation has built rapport.
 
 Bring a notebook. Do not lead the witness. Listen for what they choose to emphasize and what they avoid.
+
+---
+
+## Integrated Open Questions Tracker
+
+Use this section as the working diligence tracker. Meeting notes below are context only until backed by seller records, contracts, system exports, or third-party statements.
+
+| Open question / diligence ask | Why it matters / risk | Evidence needed to verify | Owner | Status |
+|---|---|---|---|---|
+| Get anonymized 2026 `RMADS` customer spreadsheet showing advertiser, towns, pricing, and billing cadence | Pricing matrix and cross-town bundle logic may be hiding discount compression, customer concentration, and weak unit economics | Seller export from the live Google Sheet with customer names anonymized but spend, towns, products, invoice cadence, and start dates preserved | Matt / Cheryl | New |
+| Build a complete digital asset and access inventory: domains, redirects, hosting, email accounts, Facebook pages, analytics, and admin owners | Two-thirds ownership of 20+ redirect URLs suggests transfer gaps; missing admin access could impair lead flow and post-close operations | Registrar records, domain list, redirect map, account admin screenshots, email/hosting provider list, social page admin roster | Seller via Eric | New |
+| Confirm phone number ownership, carrier, and transfer mechanics for all published business numbers | Phone is described as the primary response channel; failed transfer would directly hit advertiser ROI and renewal confidence | Carrier bills, number inventory, transfer eligibility details, call-routing setup, and cutover plan | Seller / Broker | New |
+| Verify Wells Fargo payment-processing flow and PCI handling for stored customer payment data | Unclear card-data practices create compliance, breach, and merchant-account transition risk | Merchant processing statements, written payment workflow, tokenization/storage policy, PCI questionnaire or compliance attestation | Seller / Accountant | New |
+| Reconcile transition support scope with actual production calendar and key-customer handoff timing | Eight weeks of support may be too thin if the 20-day sales window and month-end production cycle overlap badly | Calendarized production workflow, closing target by issue cycle, named A-list handoff plan, consulting scope if needed | Matt / Cheryl | Updated |
+| Obtain printer, postage, and post-office receipts plus May 2026 financials | June 1 notes reference these items as pending and they are needed to validate cost pressure claims and current run-rate performance | May 2026 P&L, printer invoices, USPS/post office receipts, postage statements, and any mailing reconciliations | Seller via Eric | Updated |
+| Test the downside case behind the June 1 pressure analysis: 5% revenue decline plus 15% cost increase wipes out SDE before debt service | If directionally true, the business has almost no cushion for transition churn or postage inflation | Seller financial model inputs, 2024-2026 monthly P&L, current vendor pricing, and an independent bridge from revenue/cost movement to SDE | Matt / David | New |
+| Clarify what fixed assets are included versus excluded from the sale, especially the hard drive, computers, and vehicle on books | Asset ambiguity can create purchase-price leakage and post-close operational gaps | Fixed asset list tied to the APA schedules, depreciation schedule, and seller confirmation of inclusions/exclusions | Attorney / Seller | Updated |
+| Confirm whether pre-close consulting is allowed, useful, and compensated if closing slips or dies | Pre-close work could improve retention, but unpaid work or blurred roles creates execution and legal risk | Broker-approved scope, fee terms, liability boundaries, and lender/APA constraints on pre-close involvement | Matt / Attorney | New |
