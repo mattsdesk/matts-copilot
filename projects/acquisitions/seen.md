@@ -89,3 +89,38 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-06-08 | [SMB Deal Hunter 5/1 "He left PwC" newsletter] | Gmail - thread 19de531933e2c7b6 | Logged - file unreadable, newsletter likely no specific listing
 2026-06-08 | [East Coast 5/1 Top 6 - likely duplicate of prior run] | Gmail - thread 19de445aa81f88c8 | Logged - file unreadable, content likely covered by 5/1 session entries
 2026-06-08 | [East Coast 4/30 Top 8 - likely duplicate of prior run] | Gmail - thread 19ddf2191744d254 | Logged - file unreadable, content likely covered by 5/1 session entries
+2026-06-10 | Premier Fitness & Racquet Center with Real Estate - NJ | Gmail - BizBuySell 6/9 (Listing #2515618) | Borderline (Primary - $4.95M asking includes real estate, SDE unknown)
+2026-06-10 | [BizBuySell 5/2 "4 New Business Matches"] | Gmail - thread 19de8e4c2375f96b | Logged - HTML too large, content unreadable; listings 5+ weeks old
+2026-06-10 | Exterior Services, Restoration & Holiday Lighting - Bergen County NJ (Listing #2502607) | Gmail - BizBuySell 5/6 thread 19dfd6800a33da72 | Dedup - confirmed same business as previously logged #2510465
+2026-06-10 | Established Landscaping, Snow Plowing, Hardscape & Concrete Co - Clifton NJ | WebSearch - Sunbelt Network #58140 | Strong Match (Primary - $800K SDE, $5M revenue, $2.99M asking, Passaic County NJ)
+2026-06-10 | Successful HVAC Company - Bergenfield NJ | WebSearch - BusinessBroker.net #556075 | Borderline (Primary - 32yr, 10 employees, retiring owner, SDE ~$500K unconfirmed, licensing TBD)
+2026-06-12 | Roofing Company, 40+ yrs, retiring owner - NJ | WebSearch - DealStream owner-financed query | Borderline (Primary - SDE/location unknown, work-ON-not-IN risk)
+2026-06-12 | Absentee-Run Gas Station, 70K gal/mo - Essex County NJ | WebSearch - BizBuySell Essex County | Borderline (Primary - SDE unknown, fuel retail not thesis-preferred)
+2026-06-12 | Retail Liquor Business, retiring owners - Sussex County NJ | WebSearch - DealStream owner-financed query | Borderline (Primary - geography edge, SDE unknown)
+2026-06-12 | Pizzeria, Caldwell NJ (since 2004) | WebSearch - BizBuySell Essex County | Excluded - food
+2026-06-12 | Smoothie/Juice/Bowls Shop - Essex County NJ | WebSearch - BizBuySell Essex County | Excluded - food
+2026-06-12 | Chicken Franchise ($118K CF) - Morris County NJ | WebSearch - BizBuySell Morris County | Excluded - food
+2026-06-12 | Latin/Mexican QSR ($150K SDE) - Morris County NJ | WebSearch - BizBuySell Morris County | Excluded - food
+2026-06-12 | Pizzeria w/ seller financing - Bergen County NJ | WebSearch - DealStream owner-financed query | Excluded - food
+2026-06-12 | Saloon Restaurant - southern Bergen County NJ | WebSearch - DealStream owner-financed query | Excluded - food
+2026-06-12 | B2B Turnkey Operation ($150K ask) - Atlantic County NJ | WebSearch - BizQuest | Excluded - out of geography
+2026-06-12 | Pharmacy, 6 yrs - Essex County NJ | WebSearch - BizBuySell Essex County | Excluded - healthcare/licensing non-preferred
+2026-06-12 | Pharmacy, 10+ yrs ($4,900 rent) - Essex County NJ | WebSearch - BizBuySell Essex County | Excluded - healthcare/licensing non-preferred
+2026-06-12 | Tow Truck Company (single truck) - Essex County NJ | WebSearch - BizBuySell Essex County | Excluded - solo operator
+2026-06-12 | Used Car Dealership - North Jersey | WebSearch - BizBuySell Essex County | Excluded - insufficient detail
+2026-06-12 | Auto Body, 25+ yrs, retiring owners - NJ | WebSearch - DealStream owner-financed query | Excluded - insufficient detail, probable dup of prior NJ auto body listings
+2026-06-12 | Toms River NJ Self-Storage Development Site | WebSearch - self storage query | Excluded - development deal, not operating business
+2026-06-12 | Approved 6.6-Acre Self-Storage Site - NJ | WebSearch - self storage query | Excluded - development deal, not operating business
+2026-06-15 | Profitable Iconic Pizzeria, Somerset ($1.44M rev) | Gmail - BizBuySell 6/13 | Excluded - food
+2026-06-15 | Profitable Iconic Pizzeria, Somerset County ($20-22K) | Gmail - BizBuySell 6/11 | Excluded - food
+2026-06-15 | Premier Fitness & Racquet Center with Real Estate, NJ ($4.95M) | Gmail - BizBuySell 6/9 | Borderline - real estate TBD (re-surfaced)
+2026-06-15 | Fully Built Restaurant / Coffee Shop, Hoboken NJ ($599K) | Gmail - BizBuySell 6/12 | Excluded - food
+2026-06-15 | Limousine Company for Sale, NJ ($2.2M) | Gmail - BizBuySell 6/12 | Borderline - SDE unknown
+2026-06-15 | School Bus Service, Essex County NJ ($900K) | Gmail - BizBuySell 6/12 | Borderline - SDE unknown
+2026-06-15 | 2 FedEx Linehaul Routes, Woodbridge NJ ($1.3M) | Gmail - BizBuySell 6/12 | Borderline - route-based, SDE likely above Passive range
+2026-06-15 | In Home Family and Elder Care Business, Trenton NJ ($224K) | Gmail - BizBuySell 6/12 | Excluded - out of geography
+2026-06-15 | Elder and Family Home Services Business, Atlantic City NJ ($225K) | Gmail - BizBuySell 6/12 | Excluded - out of geography
+2026-06-15 | Specialty Hair Care and Beauty Products Retailer, Youngstown OH ($700K) | Gmail - Transworld 6/14 | Excluded - out of geography
+2026-06-15 | PRIME Nomad NYC Deli and Convenience Market ($1.5M) | Gmail - Transworld 6/14 | Excluded - food
+2026-06-15 | Turnkey Burger & Wings Franchise, Bergen County NJ ($450K) | Gmail - Transworld 6/14 | Excluded - food
+2026-06-15 | Rare Metro T-Mobile Franchise Sales Operation, Monmouth County NJ ($225K) | Gmail - Transworld 6/14 | Excluded - SDE below range

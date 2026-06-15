@@ -319,3 +319,28 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Marketplace observation: WebSearch returned robust inventory across all Passive Holds categories (self-storage 41+ NJ facilities, car wash multiple tri-state listings, equipment rental platforms active). However, specimen-level detail (price, SDE, owner terms) remains inaccessible via WebSearch API. Direct marketplace browsing (BizBuySell.com, LoopNet.com, Crexi.com, Synergy.com) or broker outreach required to extract specific deals.
 - Tuning recommendation: Email-based discovery has been muted since 2026-05-29 (36 days of zero Primary or Passive strong matches). Recommend Matt initiate direct broker outreach calls (Henry Galasso / East Coast, Blake / Synergy, Kensington off-market) or dedicated BizBuySell.com browsing session with tight SDE/sector filters to activate pipeline. Current broker newsletter model (high volume, low fit) has not produced Primary strong match in 35 days.
 - Digest output: 2026-06-05.md. Zero promotions recommended. Four prior Borderline candidates remain available for Matt review if needed. Next scheduled run: 2026-06-07 (Friday, per Mon/Wed/Fri cadence).
+
+### 2026-06-10
+
+- Gmail-primary run: 33 threads processed, 1 new listing extracted (Premier Fitness & Racquet Center with Real Estate, NJ, $4.95M, Listing #2515618). 1 additional thread content unreadable (BizBuySell 5/2 "4 New Business Matches," HTML too large). All other 31 threads confirmed as previously logged.
+- **Primary Strong Matches:** 1 new — Established Landscaping/Hardscape/Concrete, Clifton NJ ($800K SDE, $5M revenue, $2.99M asking, Sunbelt #58140). Via WebSearch, not Gmail.
+- **Passive Strong Matches:** 0 new
+- **Borderline:** 2 new — Premier Fitness & Racquet Center NJ ($4.95M includes real estate, SDE unknown); Successful HVAC Company Bergenfield NJ (32yr, 10 employees, retiring owner, SDE ~$500K unconfirmed, licensing TBD — BusinessBroker.net #556075).
+- Gmail connector: BizBuySell full HTML body retrieval now working correctly for most threads. The 5/2 4-match thread remains unreadable (too large).
+- Sunbelt Network surfacing strong leads not present in Gmail alerts — recommend adding Sunbelt NJ email alerts or periodic manual check of Sunbelt Passaic listings page.
+- Digest output: 2026-06-10.md. Three promotion actions pending Matt's review.
+
+### 2026-06-12
+
+- Gmail-primary run: label:Acquisitions empty (0 unread, 0 new threads in past 3 days). WebSearch-only mode: 5 queries, 17 items accounted for, 3 new Borderline (NJ roofing co 40+ yrs retiring owner; Essex County absentee gas station 70K gal/mo; Sussex County liquor store retiring owners). 0 new Primary or Passive Strong Matches.
+- Pattern: Gmail label empty 2 of last 3 runs (6/5, 6/12). Verify saved-search alerts are still flowing — broker email was the primary discovery channel.
+- Pattern: second gas station surfaced (after Bergen 4/29). Thesis needs a position on fuel retail. Sussex County appeared for the first time; thesis geography could use an explicit county list.
+- Digest output: 2026-06-12.md. Four promotion/verification actions pending Matt's review.
+
+### 2026-06-15
+
+- Gmail-primary run: 38 threads processed, 14 new listings extracted across 7 new/updated threads (since 6/12); remaining 31 threads confirmed previously logged. 0 new Primary or Passive Strong Matches.
+- **Borderline:** 4 — Limousine Company NJ ($2.2M, SDE unknown); School Bus Service Essex County NJ ($900K, SDE unknown); 2 FedEx Linehaul Routes Woodbridge NJ ($1.3M, route-based, likely above Passive SDE range); Premier Fitness & Racquet Center NJ ($4.95M, real estate component, re-surfaced).
+- Pattern continues: food businesses dominate BizBuySell/Transworld NJ alerts (5 of 14 new listings excluded as food this run). Persistent oversized-email issue continues for Transworld/BizBuySell multi-listing digests, requiring persisted-file Read workaround.
+- Open thesis question reinforced: FedEx linehaul / contracted delivery routes don't fit narrow Passive Holds sector list but match the "route with operators in place" structural model - candidate for thesis sector-list expansion.
+- Digest output: 2026-06-15.md. Three verification actions + one thesis TBD pending Matt's review.

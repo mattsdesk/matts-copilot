@@ -3,7 +3,7 @@
 **Role:** Business Acquisition Broker/Advisor  
 **Company:** Murphy Business Sales  
 **Phone:** +1-908-370-5034  
-**Last Interaction:** May 15, 2026  
+**Last Interaction:** June 10, 2026  
 
 ---
 
@@ -14,6 +14,20 @@ Cheryl is the primary advisor/broker on the Renna Media newspaper acquisition. H
 ---
 
 ## Recent Activity
+
+### Renna Media Check In (June 10)
+
+- First weekly Wednesday check-in with Joe, Eric, and Matt. Diligence read positive: no red flags, P&Ls validate.
+- Flagged April postage discrepancy on the call: her invoice tally $41,113.49 vs Joe's spreadsheet $38,389; Joe to verify, likely summary-sheet entry error.
+- Spoke with David Bohlander: bank package with underwriter, credit pulled, verbal commitment expected next week. Target close window early August, 90 days outer bound.
+- Coordinating shared-folder uploads: Angle printing invoices and postage reports from Jan 2025 forward.
+
+### Due Diligence Review (June 9)
+
+- Reviewed DD findings with Matt. P&L figures validate Joe's claims with no red flags; discrepancies (5-10%) look like sloppiness not fraud.
+- Key items flagged for tomorrow's call with Joe: AR aging contradicts stated credit policy; prepaid report formula errors (corrected ~$72K vs $66K PDF); postage figures off ~$3K across files.
+- Commitment letter from David Bohlander expected end of week; master advertiser spreadsheet to follow.
+- Matt to drop retainer at David Holdes' office this week; credit card transition risk needs Sandra's legal opinion.
 
 ### Valuation & Offer Strategy (May 14)
 - Conducted valuation analysis pointing to $450k offer price (weighted avg of revenue, SDE, EBITDA)
@@ -73,4 +87,4 @@ Cheryl is the primary advisor/broker on the Renna Media newspaper acquisition. H
 
 ---
 
-*Last updated: 2026-05-22*
+*Last updated: 2026-06-11*
