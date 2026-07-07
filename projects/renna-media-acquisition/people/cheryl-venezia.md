@@ -3,7 +3,7 @@
 **Role:** Business Acquisition Broker/Advisor  
 **Company:** Murphy Business Sales  
 **Phone:** +1-908-370-5034  
-**Last Interaction:** June 10, 2026  
+**Last Interaction:** June 23, 2026  
 
 ---
 
@@ -14,6 +14,21 @@ Cheryl is the primary advisor/broker on the Renna Media newspaper acquisition. H
 ---
 
 ## Recent Activity
+
+### Renna Media Touchpoint (June 23)
+
+- On call with Matt, Joe, and Eric. SBLOC approval expected within 1-2 days; financing risk flagged as zero.
+- APA draft sent to Mitch (Joe's lawyer) this morning. David sees no complex issues; expects wrap within the week.
+- APA must be signed by July 13 for 10 business-day bulk sale filing window. Target close: week of July 27.
+- Promissory note (seller financing) is Mitch's paper; separate from APA, signed at closing.
+- Discussed transition logistics: Joe back July 6, onboarding starts that week. August edition to announce new ownership.
+- Next check-in: Joe to call Matt Tuesday July 7.
+
+### Cheryl - Matt Financing and Diligence Call (June 16)
+
+- Financing update: David Bohlander still non-responsive; underwriter needs clarification on earmarked vs. available cash (college and retirement assets). Realistic close pushed to end of August at that point.
+- HELOC flagged as fallback. Financial analysis passed -- expense lines reconcile closely.
+- Demoed Reference Solutions (NJ library card / NJ Clicks): searchable business database for cold-call prospect lists.
 
 ### Renna Media Check In (June 10)
 
@@ -47,7 +62,7 @@ Cheryl is the primary advisor/broker on the Renna Media newspaper acquisition. H
 - **Purchase Price:** $450k (up from initial $400k discussion)
 - **Financing Structure:** Asset purchase (not stock); $10k deposit, $60k seller note, $380k wire at close
 - **Seller Support:** 8 weeks post-closing @ up to 40 hrs/week
-- **Timeline:** September 30, 2026 target closing
+- **Timeline:** Target close week of July 27, 2026 (APA signature by July 13)
 - **Joe's Position:** Prefers money upfront (not earnouts); previous deal fell apart over closing adjustments
 
 ---
@@ -87,4 +102,4 @@ Cheryl is the primary advisor/broker on the Renna Media newspaper acquisition. H
 
 ---
 
-*Last updated: 2026-06-11*
+*Last updated: 2026-06-29*

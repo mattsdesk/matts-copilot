@@ -124,3 +124,86 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-06-15 | PRIME Nomad NYC Deli and Convenience Market ($1.5M) | Gmail - Transworld 6/14 | Excluded - food
 2026-06-15 | Turnkey Burger & Wings Franchise, Bergen County NJ ($450K) | Gmail - Transworld 6/14 | Excluded - food
 2026-06-15 | Rare Metro T-Mobile Franchise Sales Operation, Monmouth County NJ ($225K) | Gmail - Transworld 6/14 | Excluded - SDE below range
+2026-06-17 | Independent Pharmacy Nets One Million Dollars, NJ (Listing #2518268) | Gmail - BizBuySell 6/16 (thread 19ed0a8ba329acb9) | Borderline (Primary - $1.5M ask, ~$1M SDE, pharmacy licensing TBD)
+2026-06-17 | Performing Arts Preschool & Daycare, NJ (Listing #2518360) | Gmail - BizBuySell 6/16 (thread 19ed0a8ba329acb9) | Borderline (Primary - $760K ask, SDE unconfirmed ~$215-300K, education sector, location TBD)
+2026-06-17 | Physical Therapy, Chiro, Traditional & Alternative Internal Medicine, NJ (Listing #2518339) | Gmail - BizBuySell 6/16 (thread 19ed0a8ba329acb9) | Borderline (Primary - $449K ask, similar to #2509851, healthcare licensing risk)
+2026-06-17 | Full-Service Printing Company - Excellent Reputation, NJ (Listing #2518289) | Gmail - BizBuySell 6/16 (thread 19ed0a8ba329acb9) | Borderline (Primary - $525K ask, SDE likely below floor, B2B services)
+2026-06-17 | Specialized Orthopedic Care Supplier, Manchester Township NJ (Listing #2517966) | Gmail - BizBuySell 6/16 (thread 19ed0a8ba329acb9) | Excluded - out of geography (Ocean County NJ)
+2026-06-17 | Food market/deli/sandwich shop, Cape May County NJ (Listing #2518448) | Gmail - BizBuySell 6/16 (thread 19ed0a8ba329acb9) | Excluded - food + out of geography
+2026-06-17 | Bergen County Full-Service Pet Care Business (est. 1954, ~$250K SDE) | WebSearch - Bergen County NJ businesses 2026 | Borderline (Primary - ~$250K SDE approximate, 70+ years, work-ON-not-IN unverified)
+2026-06-17 | Double In-Bay Automatic Car Wash, Warren County NJ | WebSearch - automated car wash NJ 2026 (VestedBB Listing #34004) | Excluded - multiple too high ($1.2M ask on $100K SDE = 12x, vs 3x Passive Holds ceiling)
+2026-06-19 | Premier Commercial Parking Lot Sweeping Nets 650k, NJ (Listing #2519535) | Gmail - BizBuySell 6/18 (thread 19edb1d9b5060309) | Strong Match (Primary - $650K SDE, $2M ask, 3.1x, B2B commercial services, crew-structure TBD)
+2026-06-19 | Residential Remodeling Platform Company, NJ (Listing #2519278) | Gmail - BizBuySell 6/18 (thread 19edb1d9b5060309) | Borderline (Primary - price undisclosed, SDE unknown, "platform" model ambiguous)
+2026-06-19 | Frame & Decor Store, 40yr retiring owner, NJ | WebSearch - BizBuySell retiring owner NJ 2026 | Borderline (Primary - 40+ yrs, strip center, SDE unknown, specialty retail work-ON-not-IN risk)
+2026-06-22 | Profitable Iconic Pizzeria, Somerset County NJ ($1.14M rev, $450K ask) | Gmail - BizBuySell 6/22 (Listing #2520751, thread 19eeea66f5f79e66) | Excluded - food
+2026-06-22 | Profitable Iconic Italian Restaurant, Bergen County NJ ($675K ask) | Gmail - BizBuySell 6/22 (Listing #2520748, thread 19eeea66f5f79e66) | Excluded - food
+2026-06-22 | Physical Therapy, Chiro, Traditional & Alternative Internal Medicine, NJ ($449K ask) | Gmail - BizBuySell 6/20 (Listing #2520377, thread 19ee52dbb82cc4b7) | Dedup - same business/price as #2518339 logged 2026-06-17
+2026-06-22 | In-Home Care & Living Assistance for Elderly Adults, Toms River NJ ($3.25M ask) | Gmail - BizBuySell 6/19 (Listing #2519724, thread 19ee05cf437ce0d3) | Excluded - out of geography (Ocean County) + SDE above ceiling
+2026-06-22 | Non-Medical & Local In-Home Care Services, Summit NJ ($299,890 ask) | Gmail - BizBuySell 6/19 (Listing #2520101, thread 19ee05cf437ce0d3) | Excluded - SDE below Primary floor
+2026-06-22 | NJ ATM Route Portfolio (66 machines, hands-off, ~90% contract coverage) | WebSearch - vending/ATM route query | Borderline (Passive Hold - price/SDE unknown, structurally passive per description)
+2026-06-22 | Middlesex County NJ Vending Route (40 yrs, ~$203K annualized) | WebSearch - vending/ATM route query | Borderline (Passive Hold - owner currently works route, structural passivity unverified)
+2026-06-22 | Warren County NJ retiring-owner business ($500K rev/$80K cash flow) | WebSearch - retiring owner SDE $500K query | Excluded - SDE below range
+2026-06-22 | Italian Deli est. 1975, NJ ($275K ask, $500K rev) | WebSearch - retiring owner SDE $500K query | Excluded - food
+2026-06-22 | HVAC company NJ (~$500K SDE, ~$2M rev) | WebSearch - retiring owner SDE $500K query | Dedup - likely same as Bergenfield HVAC logged 2026-06-10
+2026-06-24 | SBA Approved Pizzeria, Somerset County NJ (Listing #2521226) | Gmail - BizBuySell 6/23 (thread 19ef4caaae103ed1) | Excluded - food
+2026-06-24 | Iconic Pizzeria, Burlington County NJ (Listing #2521217) | Gmail - BizBuySell 6/23 (thread 19ef4caaae103ed1) | Excluded - food
+2026-06-24 | Est. 15-Year Wholesale Furniture Distributor, Monroe Township NJ (Listing #2520340) | Gmail - BizBuySell 6/23 (thread 19ef4caaae103ed1) | Borderline (Primary - distribution sector, price/SDE undisclosed)
+2026-06-24 | Highly Profitable Fitness Franchise, NJ (Listing #2520200) | Gmail - BizBuySell 6/23 (thread 19ef4caaae103ed1) | Borderline (Primary - franchise structure, $1.9M asking, SDE/geography undisclosed)
+2026-06-24 | Turnkey Pizzeria & Italian Eatery, Middlesex County NJ (Listing #2520091) | Gmail - BizBuySell 6/23 (thread 19ef4caaae103ed1) | Excluded - food
+2026-06-26 | Highly Profitable Specialist PR and Social Agency, Greater New York/NJ (Listing #2521289) | Gmail - BizBuySell 6/25 (thread 19efedc87f4ea125) | Borderline (Primary - price/SDE undisclosed, key-person risk)
+2026-06-26 | 500 Seat Restaurant & BAR for Sale or Joint Development, Woodbridge Township NJ (Listing #2522260) | Gmail - BizBuySell 6/25 (thread 19efedc87f4ea125) | Excluded - food
+2026-06-26 | Lucrative Health Food Wholesaler, Ridgefield NJ (Listing #2521966) | Gmail - BizBuySell 6/25 (thread 19efedc87f4ea125) | Borderline (Primary - $1M ask, SDE unknown, B2B wholesale, Bergen County)
+2026-06-26 | Turnkey Hospitality Business, 17 Units, $971K TTM Revenue, Scotch Plains NJ (Listing #2520384) | Gmail - BizBuySell 6/24 (thread 19ef9ecb102f87c0) | Borderline (Primary - $445K ask, SDE at or below floor, Union County NJ)
+2026-06-26 | Turn Key Childcare Franchise, NJ (Listing #2521691) | Gmail - BizBuySell 6/24 (thread 19ef9ecb102f87c0) | Excluded - SDE below Primary floor (~$120K implied)
+2026-06-26 | 35-Year Med/Pain Practice, $795K Rev, $239K SDE, Mercer County NJ (Listing #2521637) | Gmail - BizBuySell 6/24 (thread 19ef9ecb102f87c0) | Excluded - SDE below Primary floor + healthcare licensing
+2026-06-26 | Well-Established HVAC & Commercial Kitchen Repair, NJ (Listing #2521300) | Gmail - BizBuySell 6/24 (thread 19ef9ecb102f87c0) | Borderline (Primary - $600K ask, SDE unknown, licensing risk)
+2026-06-26 | Women's Health Practice: 3M+ EBITDA | Gmail - Synergy 6/24 (thread 19efa273065c2879) | Excluded - SDE above Primary ceiling
+2026-06-26 | Construction Technology Company: 3M+ EBITDA | Gmail - Synergy 6/24 (thread 19efa273065c2879) | Excluded - SDE above Primary ceiling
+2026-06-26 | Beverage Import & Distribution (national, location unconfirmed) | Gmail - Synergy 6/24 (thread 19efa273065c2879) | Excluded - geography unconfirmed (Synergy pattern = out of geo)
+2026-06-26 | Urgent Care Centers | Gmail - Synergy 6/24 (thread 19efa273065c2879) | Excluded - healthcare/licensing
+2026-06-26 | SaaS Platform, B2B (location unconfirmed) | Gmail - Synergy 6/24 (thread 19efa273065c2879) | Excluded - geography unconfirmed (Synergy pattern = out of geo)
+2026-06-26 | Sleep & Lung Practice | Gmail - Synergy 6/24 (thread 19efa273065c2879) | Excluded - healthcare/licensing
+2026-06-26 | Essex County NJ Residential Painting Company, 40+ years, retiring owner | WebSearch - Essex County NJ retiring owner 2026 | Borderline (Primary - SDE/price unknown, work-ON-not-IN risk, 40yr tenure)
+2026-06-26 | Bergen County NJ Renovated Flex/Express Car Wash, $1.5M asking | WebSearch - car wash NJ tri-state 2026 | Excluded - SDE above Passive Hold ceiling (at $1.5M ask)
+2026-07-03 | Engineering Firm For Governmental Agencies Nets 450k, NJ (Listing #2524718) | Gmail - BizBuySell 7/2 (thread 19f231b76fb98e0f) | Strong Match (Primary - $450K SDE, $1.8M ask = 4.0x above ceiling, PE licensing TBD)
+2026-07-03 | Iconic Italian Restaurant, Bergen County NJ $675K (Listing #2524758) | Gmail - BizBuySell 7/2 (thread 19f231b76fb98e0f) | Excluded - food (likely relist of #2520748)
+2026-07-03 | PT, Chiropractic, Traditional & Alternative Internal Medicine, NJ $455K (Listing #2524343) | Gmail - BizBuySell 7/1 (thread 19f1e85551630500) | Dedup - relist of #2518339/#2520377, price now $455K
+2026-07-03 | Jersey Shore Diner & Real Estate, $520K cash flow, $3.95M ask (Listing #2524155) | Gmail - BizBuySell 7/1 (thread 19f1e85551630500) | Excluded - food
+2026-07-03 | Authentic Italian Restaurant Experience, NJ $650K (Listing #2524256) | Gmail - BizBuySell 7/1 (thread 19f1e85551630500) | Excluded - food
+2026-07-03 | Behavioral Health & Psychological Services Practice, NJ $1.1M (Listing #2524010) | Gmail - BizBuySell 7/1 (thread 19f1e85551630500) | Excluded - healthcare/licensing
+2026-07-03 | Premier Gutter Installation Business, NJ $899K (Listing #2523973) | Gmail - BizBuySell 7/1 (thread 19f1e85551630500) | Borderline (Primary - SDE unknown, work-ON-not-IN unverified)
+2026-07-03 | Residential Pool Service Company, Morris County NJ (est. 1989, retiring owner) | WebSearch - Morris/Union retiring owner query | Borderline (Primary - SDE/price unknown, recurring revenue, 37 yrs)
+2026-07-03 | Hudson River West Bank Marina, 26.5 acres | WebSearch - marina/RV park Hudson Valley query | Borderline (Passive Hold - price/SDE unknown, geography to verify)
+2026-07-03 | Power Washing Business, Union/Morris/Somerset NJ (3 yrs) | WebSearch - Morris/Union retiring owner query | Excluded - under 5 years
+2026-07-03 | Union County NJ Dry Cleaning, retiring owner | WebSearch - Morris/Union retiring owner query | Excluded - sector not preferred (probable dup of 4/29 listing)
+2026-07-03 | Morris County NJ Diner (11+ yrs, retiring owner) | WebSearch - Morris/Union retiring owner query | Excluded - food
+2026-07-03 | Morris County NJ Country Store/Deli + Wine License | WebSearch - Morris/Union retiring owner query | Excluded - food
+2026-07-03 | Morris County NJ Turnkey Pizzeria | WebSearch - Morris/Union retiring owner query | Excluded - food
+2026-07-03 | Cumberland County NJ $35M Self-Storage Development | WebSearch - self storage NJ query | Excluded - out of geography + development, not operating business
+2026-07-06 | SBA pre-approved Hair & Beauty Supply, Mahoning County OH ($1.2M ask, $360K SDE) | Gmail - Transworld 7/5 (thread 19f3035887db38f7) | Excluded - out of geography
+2026-07-06 | Community Fitness Martial Arts Center, Union NJ ($475K ask, $200K SDE) | Gmail - Transworld 7/5 | Excluded - SDE below Primary floor
+2026-07-06 | Established Café & Pizzeria (multi-concept F&B), Bergen County NJ ($85K ask, $94K SDE) | Gmail - Transworld 7/5 | Excluded - food
+2026-07-06 | Established Florist & Events, Bergen County NJ ($150K ask, $75K SDE) | Gmail - Transworld 7/5 | Excluded - SDE below range
+2026-07-06 | Established Fusion Restaurant (Vietnamese-inspired), Union County NJ ($200K ask, $120K SDE) | Gmail - Transworld 7/5 | Excluded - food
+2026-07-06 | Beauty Supply Store, Comanche County OK ($195K ask, $144K SDE) | Gmail - Transworld 7/5 | Excluded - out of geography
+2026-07-06 | Premier Bubble Tea Franchise (Gong Cha), Bergen County NJ ($69K ask, $48.5K SDE) | Gmail - Transworld 7/5 | Excluded - food
+2026-07-06 | [UPDATE] After-School Learning Program, Norwood/Bergen NJ now $175K ask, $75.5K SDE | Gmail - Transworld 7/5 | Resolved - was Borderline 6/8, now Excluded - SDE below floor
+2026-07-06 | [UPDATE] Turnkey Burger & Wings Franchise, Bergen NJ price drop $450K -> $395K ($225K SDE) | Gmail - Transworld 7/5 | Excluded - food (dedup of 6/15)
+2026-07-06 | Iconic Profitable Pizzeria $21-22K/wk, Somerset NJ ($450K, Listing #2525558) | Gmail - BizBuySell 7/4 (thread 19f2cbb36f482c11) | Excluded - food
+2026-07-06 | Profitable SBA Approved Pizzeria $21-22K/wk, NJ ($455K, Listing #2525282) | Gmail - BizBuySell 7/3 (thread 19f280ad2994e01d) | Excluded - food
+2026-07-06 | Artisan Pizzeria, Middlesex County NJ ($750K, Listing #2524919) | Gmail - BizBuySell 7/3 + 7/4 | Excluded - food
+2026-07-06 | Premier Bridal Boutique $215K Cash Flow, NJ relocatable ($599K, Listing #2525159) | Gmail - BizBuySell 7/3 | Excluded - SDE below Primary floor
+2026-07-06 | Famous Dive Bar since 1960s, Toms River NJ ($1.4M, Listing #2525130) | Gmail - BizBuySell 7/3 | Excluded - food + out of geography
+2026-07-06 | Exclusive Neighborhood Pharmacy Only One in Town, NJ ($550K, Listing #2525074) | Gmail - BizBuySell 7/3 + 7/4 | Excluded - healthcare/licensing
+2026-07-06 | Full-Service Residential Inground Pool Design & Construction, NJ relocatable ($430K, Listing #2524770) | Gmail - BizBuySell 7/4 (thread 19f2d26f91f28b4b) | Excluded - SDE below floor (implied)
+2026-07-06 | Profitable Amazon FBA Pet Supply Store, Jersey City NJ ($120K, Listing #2524570) | Gmail - BizBuySell 7/4 | Excluded - SDE below + digital durability
+2026-07-06 | Profitable North Mid-Atlantic Restoration Franchise, NJ (price undisclosed, Listing #2524063) | Gmail - BizBuySell 7/4 | Borderline (Primary - no price/SDE, franchise structure)
+2026-07-06 | Fully Equipped Indian Restaurant, Hoboken NJ ($350K, Listing #2523646) | Gmail - BizBuySell 7/4 | Excluded - food
+2026-07-06 | Title Settlement Company + Real Estate, NJ ($10.5M, Listing #2524997) | Gmail - BizBuySell 7/4 | Excluded - SDE above ceiling
+2026-07-06 | Profitable Cabinet Business, NJ ($2.3M, Listing #2524103) | Gmail - BizBuySell 7/4 | Borderline (Primary - implied SDE $660-920K, light manufacturing, county/SDE unconfirmed)
+2026-07-06 | Iconic Coffee Shop $800K Cash Flow, NJ ($4M, Listing #2523635) | Gmail - BizBuySell 7/4 | Excluded - food
+2026-07-06 | Profitable Authentic Ethnic Italian Restaurant, Bergen County NJ ($325K, Listing #2524739) | Gmail - BizBuySell 7/4 | Excluded - food
+2026-07-06 | Fully Equipped Medical Laboratory $12.5M+ annually, NJ ($9M, Listing #2524346) | Gmail - BizBuySell 7/4 | Excluded - SDE above ceiling + healthcare
+2026-07-06 | Profitable Smoke Shop, NJ ($210K, Listing #2524020) | Gmail - BizBuySell 7/4 | Excluded - SDE below floor (implied)
+2026-07-06 | 17-Year B2B Wholesale Distribution, Bergen County NJ | WebSearch - BizQuest Bergen County | Borderline (Primary - SDE/price unknown, verify distinct from Ridgefield wholesaler 6/26)
+2026-07-06 | Monmouth County NJ business, $500K+ cash flow, $1.8M sales, staff in place | WebSearch - BusinessBroker.net | Borderline (Primary - business type unknown, geography edge)

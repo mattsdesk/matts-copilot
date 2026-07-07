@@ -337,6 +337,22 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Pattern: second gas station surfaced (after Bergen 4/29). Thesis needs a position on fuel retail. Sussex County appeared for the first time; thesis geography could use an explicit county list.
 - Digest output: 2026-06-12.md. Four promotion/verification actions pending Matt's review.
 
+### 2026-06-17
+
+- Gmail-primary run: 34 threads processed, 6 listings extracted from 1 new thread (BizBuySell 6/16); 33 threads previously logged.
+- **Primary Strong Matches:** 0 new. **Passive Strong Matches:** 0 new.
+- **Borderline:** 5 new -- Independent Pharmacy $1M SDE / $1.5M ask NJ (licensing TBD); Performing Arts Preschool & Daycare $760K ask NJ; PT/Chiro/Internal Medicine $449K ask NJ (similar to #2509851); Full-Service Printing $525K ask NJ; Bergen County pet care est. 1954 ~$250K SDE (WebSearch).
+- Pattern: Pharmacy sector has now surfaced 5 times. Listing #2518268 has the most compelling SDE/price ratio seen in this sector (1.5x multiple at $1M SDE). Licensing structure is the single gating question.
+- Pattern: Pet care and preschool/daycare are new sectors appearing for the first time. Both fit the thesis model (staff-deliverable services, recurring revenue). Worth establishing thesis positions on both.
+
+### 2026-06-19
+
+- Gmail-primary run: 34 threads processed; 1 new thread (BizBuySell 6/18); 2 listings extracted; 32 threads previously logged in seen.md.
+- **Primary Strong Matches:** 1 new — Premier Commercial Parking Lot Sweeping Nets 650k, NJ ($650K SDE, $2M ask, 3.1x, BizBuySell #2519535). First commercial sweeping listing to surface; B2B contracted services, crew structure TBD.
+- **Passive Strong Matches:** 0. **Borderline:** 2 new (Residential Remodeling Platform Company NJ price undisclosed; Frame & Decor Store 40yr retiring owner NJ).
+- Pattern: Gmail connector working cleanly; BizBuySell HTML body retrieval resolved. Commercial sweeping is a new sector — fits Primary thesis model well if crew structure confirmed.
+- Digest output: 2026-06-19.md. Promotion action: click through #2519535 to verify owner role, crew structure, location, contract details.
+
 ### 2026-06-15
 
 - Gmail-primary run: 38 threads processed, 14 new listings extracted across 7 new/updated threads (since 6/12); remaining 31 threads confirmed previously logged. 0 new Primary or Passive Strong Matches.
@@ -344,3 +360,47 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - Pattern continues: food businesses dominate BizBuySell/Transworld NJ alerts (5 of 14 new listings excluded as food this run). Persistent oversized-email issue continues for Transworld/BizBuySell multi-listing digests, requiring persisted-file Read workaround.
 - Open thesis question reinforced: FedEx linehaul / contracted delivery routes don't fit narrow Passive Holds sector list but match the "route with operators in place" structural model - candidate for thesis sector-list expansion.
 - Digest output: 2026-06-15.md. Three verification actions + one thesis TBD pending Matt's review.
+
+### 2026-06-22
+
+- Gmail-primary run: 37 threads processed (up from 34 on 6/19); 3 new threads (BizBuySell 6/19, 6/20, 6/22); 5 specific listings extracted plus 9 generic franchise-ad placements (not counted as listings). 34 threads previously logged.
+- **Primary Strong Matches:** 0 new (Elite Landscape $850K SDE, Cabinet Mfg $1M SDE, Clifton Landscaping $800K SDE, Commercial Parking Lot Sweeping $650K SDE #2519535 all remain in pipeline awaiting review).
+- **Passive Strong Matches:** 0. **Borderline:** 2 new, both Passive Holds via WebSearch — NJ ATM Route Portfolio (66 machines, hands-off, price/SDE unknown); Middlesex County vending route (40 yrs, ~$203K annualized, owner currently works route — structural passivity unverified).
+- **Total excluded:** 8 new (1 out-of-geography, 3 food, 2 SDE-below, 2 dedup/already-seen) plus 9 generic franchise-ad placements logged as Other.
+- Pattern: in-home/elder care has now surfaced 4 times (Trenton, Atlantic City, Toms River, Summit) with zero matches — all killed on geography or SDE. Staff-delivered model could fit Primary thesis if a listing lands in-geography with SDE in range.
+- Pattern: first specific ATM-route candidate surfaced (already in-scope per thesis Passive Holds list) but missing price/SDE/location detail — needs direct listing link.
+- Digest output: 2026-06-22.md. Four verification actions pending Matt's review (ATM route, Middlesex vending route, Pharmacy #2518268, Parking Lot Sweeping #2519535).
+
+### 2026-06-24
+
+- Gmail-primary run: 37 threads in label:Acquisitions; 36 previously logged in seen.md; 1 genuinely new thread (BizBuySell 6/23, "5 New Business Matches"); 5 listings extracted.
+- **Primary Strong Matches:** 0 new. **Passive Strong Matches:** 0 new.
+- **Borderline:** 2 new — 15-yr wholesale furniture distributor Monroe Township NJ (Listing #2520340, price/SDE undisclosed, distribution sector); Highly Profitable Fitness Franchise NJ ($1.9M ask, Listing #2520200, implied SDE $540-760K, franchise structure, geography unconfirmed).
+- **Total excluded from new thread:** 3 food (2x pizzeria + 1 Italian eatery). WebSearch: 5 queries, 0 unique new finds.
+- Pattern: BizBuySell alert continues to surface food heavily (3 of 5 new listings this run were food). Recommend Matt tighten BizBuySell saved-search criteria to exclude Food & Beverage / Restaurants category.
+
+### 2026-06-26
+
+- Gmail-primary run: 40 threads in label:Acquisitions; 37 previously logged in seen.md; 3 new threads (BizBuySell 6/25, BizBuySell 6/24, Synergy 6/24); 13 listings extracted.
+- **Primary Strong Matches:** 0 new. **Passive Strong Matches:** 0 new.
+- **Borderline:** 5 new — Health Food Wholesaler Ridgefield NJ ($1M ask, SDE unknown, B2B wholesale Bergen County); Hospitality Business 17 Units Scotch Plains NJ ($445K ask, $971K TTM rev, SDE at or below floor); HVAC + Commercial Kitchen Repair NJ ($600K ask, SDE unknown, licensing risk); PR/Social Agency Greater NY/NJ (price/SDE undisclosed, key-person risk); Essex County painting company 40+ yrs retiring owner (SDE/price unknown, WebSearch only).
+- **Total excluded:** 10 new (2 food, 2 SDE above Primary ceiling, 1 SDE above Passive Hold ceiling, 2 SDE below floor, 3 healthcare/geography unconfirmed). 37 deduped from prior runs.
+- Pattern: Synergy Business Brokers (blake@synergybb.com) confirmed zero-fit for thesis — 4th consecutive email with all listings above SDE ceiling or healthcare. Deprioritize.
+- Pattern: Health Food Wholesaler Ridgefield NJ is the highest-priority new lead this run — Bergen County geography, B2B wholesale model, $1M asking suggests SDE in Primary range if priced at 2.5-3.5x.
+- Digest output: 2026-06-26.md. Five promotion actions pending Matt's review.
+
+### 2026-07-03
+
+- Gmail-primary run: 38 threads in label:Acquisitions; 36 previously logged in seen.md; 2 new threads (BizBuySell 7/1 and 7/2); 7 listings extracted. WebSearch: 4 queries, 3 unique finds.
+- **Primary Strong Matches:** 1 new — Engineering Firm for Governmental Agencies, NJ (#2524718): $450K SDE, $1.8M ask (4.0x, above ceiling but negotiable), contracted government revenue. Best thesis fit since parking-lot sweeping 6/19. PE-licensing diligence required. **Passive Strong Matches:** 0.
+- **Borderline:** 3 new — Gutter Installation NJ $899K (#2523973, SDE unknown); Morris County residential pool service, 37 yrs, retiring owner (SDE unknown, recurring revenue); Hudson River west-bank marina 26.5 acres (Passive Hold, price/geo to verify).
+- **Total excluded:** 17 (6 food, 6 franchise-ad no-listing, 3 dedup incl. PT/Chiro practice relisted 4th time now $455K, 1 under-5-years, 2 out-of-geo, 2 other).
+- Pattern: slow week (2 alert emails). Self-storage WebSearch keeps returning developments/institutional deals; rotate that query out. Digest output: 2026-07-03.md.
+
+### 2026-07-06 (scheduled run)
+
+- Gmail: 43 unread threads in label, 39 already in seen.md, 4 new processed (Transworld 7/5, BizBuySell 7/3 + 7/4 x2). 31 listings extracted. WebSearch: 4 queries, 2 unique adds.
+- **Primary Strong Matches:** 0. **Passive Strong Matches:** 0.
+- **Borderline:** 4 — NJ Cabinet Business $2.3M (#2524103, best lead, implied SDE $660-920K); Restoration Franchise (#2524063, no price); Bergen 17-yr B2B wholesale distributor (WebSearch); Monmouth $500K+ CF w/ staff (WebSearch).
+- **Excluded:** 27 (10 food, 6 SDE below, 2 SDE above, 2 out-of-geo OH, 1 pharmacy, 8 dedup). After-School Learning (Borderline 6/8) resolved: $75.5K SDE, kill. Burger & Wings price drop $450K→$395K.
+- Pattern: Transworld still 0-for-10 for thesis; consider direct broker ask or unsubscribe. BizBuySell "64 matches" emails truncate at 15 listings; tighten alert criteria for full coverage. Digest output: 2026-07-06.md.
