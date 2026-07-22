@@ -35,7 +35,7 @@ Cheryl is the primary advisor/broker on the Renna Media newspaper acquisition. H
 - First weekly Wednesday check-in with Joe, Eric, and Matt. Diligence read positive: no red flags, P&Ls validate.
 - Flagged April postage discrepancy on the call: her invoice tally $41,113.49 vs Joe's spreadsheet $38,389; Joe to verify, likely summary-sheet entry error.
 - Spoke with David Bohlander: bank package with underwriter, credit pulled, verbal commitment expected next week. Target close window early August, 90 days outer bound.
-- Coordinating shared-folder uploads: Angle printing invoices and postage reports from Jan 2025 forward.
+- Coordinating shared-folder uploads: Engle printing invoices and postage reports from Jan 2025 forward.
 
 ### Due Diligence Review (June 9)
 

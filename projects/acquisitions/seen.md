@@ -207,3 +207,98 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-07-06 | Profitable Smoke Shop, NJ ($210K, Listing #2524020) | Gmail - BizBuySell 7/4 | Excluded - SDE below floor (implied)
 2026-07-06 | 17-Year B2B Wholesale Distribution, Bergen County NJ | WebSearch - BizQuest Bergen County | Borderline (Primary - SDE/price unknown, verify distinct from Ridgefield wholesaler 6/26)
 2026-07-06 | Monmouth County NJ business, $500K+ cash flow, $1.8M sales, staff in place | WebSearch - BusinessBroker.net | Borderline (Primary - business type unknown, geography edge)
+2026-07-08 | Proven B2B Staffing Franchise, Nassau County NY (Listing #12698) | Gmail - East Coast Business Brokers thread 19e65ac8d98acb3b (5/26) | Strong Match (Primary - $366K SDE, $859K ask, 2.3x, franchise B2B recurring)
+2026-07-08 | Asset-Light Pop-Up Flower Franchise, New York (Listing #12625) | Gmail - East Coast Business Brokers thread 19e65ac8d98acb3b (5/26) | Borderline (Primary - $220K SDE below floor, geography TBD)
+2026-07-08 | Authorized Pro Audio & Lighting Service Center, Jericho/Bronx NY (Listing #12446) | Gmail - East Coast Business Brokers thread 19e65ac8d98acb3b (5/26) | Borderline (Primary - $210K SDE below floor, location inconsistent in listing)
+2026-07-08 | 15,000 SF Events/Hospitality Venue, Queens NY (Listing #12744) | Gmail - East Coast Business Brokers thread 19e65ac8d98acb3b (5/26) | Excluded - food/catering use + SDE above ceiling ($6M ask)
+2026-07-08 | High Volume Vape Distribution Platform, Broward FL (Listing #12747) | Gmail - East Coast Business Brokers thread 19e65ac8d98acb3b (5/26) | Excluded - out of geography
+2026-07-08 | Nassau County Flagship Restaurant, NY (Listing #12685) | Gmail - East Coast Business Brokers thread 19e65ac8d98acb3b (5/26) | Excluded - food
+2026-07-08 | 5-Day Pizzeria + Weekend Catering, Suffolk County NY (Listing #12682) | Gmail - East Coast Business Brokers thread 19e65ac8d98acb3b (5/26) | Excluded - food
+2026-07-08 | Crumbl Dessert Franchise relist (Listing #12642) | Gmail - East Coast Business Brokers thread 19e65ac8d98acb3b (5/26) | Dedup - food, prior relist logged 6/8
+2026-07-08 | East Coast 5/7 "These Won't Last" - full re-parse (Listings #12624, #12642, #12686, #12709, #12539, #12486, #12693, #12643) | Gmail - thread 19e032c3f33fb814 | Dedup - all 8 listings match entries already logged 2026-05-07
+2026-07-08 | Transworld 5/23 multi-listing email | Gmail - thread 19e57111e8b2cbd6 | Excluded - no specific listing extractable (HTML too dense), likely covered by later Transworld runs
+2026-07-08 | BizBuySell 5/23 "4 New Business Matches" (incl. dry cleaning listing) | Gmail - thread 19e54df3eaea7ff0 | Excluded - no specific listing extractable, dry cleaning consistent with standing sector exclusion, 7+ weeks stale
+2026-07-08 | Essex County full-service tunnel car wash, $1.35M ask | WebSearch - Essex County NJ business sweep | Excluded - Passive Hold sector requires automated/express, not full-service
+2026-07-08 | Essex County hand/brushless car wash, 30+ yrs | WebSearch - Essex County NJ business sweep | Borderline (Primary - not automated, SDE unknown)
+2026-07-08 | Essex County collision/auto body shop, 30+ yrs, upscale town | WebSearch - Essex County NJ business sweep | Borderline (Primary - SDE unknown, consistent with prior auto body pattern)
+2026-07-08 | Essex County absentee gas station, ~45K gal/mo | WebSearch - Essex County NJ business sweep | Borderline (Primary - possible dup/update of 70K gal/mo listing logged 6/12)
+2026-07-08 | Essex County 5-star child care center, affluent area | WebSearch - Essex County NJ business sweep | Borderline (Primary - education sector in scope, SDE unknown, work-ON-not-IN risk)
+2026-07-08 | Essex County pharmacy | WebSearch - Essex County NJ business sweep | Excluded - healthcare/licensing non-preferred
+2026-07-08 | Essex County Italian deli/gourmet market, 50 yrs | WebSearch - Essex County NJ business sweep | Excluded - food
+2026-07-08 | Essex County Korean fried chicken restaurant, Caldwell NJ | WebSearch - Essex County NJ business sweep | Excluded - food
+2026-07-08 | Essex County pizzeria, Caldwell NJ (since 2004) | WebSearch - Essex County NJ business sweep | Dedup - already logged 2026-06-12
+2026-07-08 | Morris County NJ Equipment Rental (BizQuest aggregate, $783K ask, $267K CF) | WebSearch - equipment rental NJ query | Strong Match (Passive Hold - 2.93x multiple, listing name/URL unconfirmed - aggregate source)
+2026-07-08 | Union County NJ Vending Route, 10 machines (Westfield/Cranford/Kenilworth/Mountainside/Springfield) | WebSearch - vending/ATM route query | Borderline (Passive Hold - small scale, SDE undisclosed)
+2026-07-08 | ATM Route Portfolio, 150 machines (230 brokered), NYC five boroughs + NJ | WebSearch - vending/ATM route query | Borderline (Passive Hold - price/SDE undisclosed, possibly distinct from 66-machine portfolio logged 6/22)
+2026-07-08 | Middlesex County NJ vending route, 40 yrs | WebSearch - vending/ATM route query | Dedup - already logged 2026-06-22
+2026-07-08 | Ocean County NJ bread route, 10 stops | WebSearch - vending/ATM route query | Excluded - hard-excluded sector (bread routes)
+2026-07-08 | Northern NJ tunnel car wash, $1.2M ask | WebSearch - car wash tri-state query | Dedup - already logged 2026-04-27
+2026-07-08 | Northeast Regional Equipment Rental, VestedBB listing-id-36351 | WebSearch - equipment rental query | Dedup - already logged 2026-04-27
+2026-07-08 | Dutchess County NY car wash + detailing, $150K ask | WebSearch - car wash tri-state query | Excluded - out of geography
+2026-07-13 | Established Optical Business, NJ (Relocatable), $699K ask, $250K+ CF | Gmail - BizBuySell thread 19f3cc9f2667e320 (7/7, q=2525902) | Strong Match (Primary - ~2.8x multiple, SDE at floor, sector/geography/work-ON-not-IN unverified)
+2026-07-13 | Established Indoor Family Entertainment & Play Center, Bergen County NJ, $295K ask | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Borderline (Primary - SDE undisclosed, café component raises food-adjacency flag)
+2026-07-13 | Established Automotive Repair & Service Business, NJ, $275K ask | Gmail - BizBuySell thread 19f515da06d5446e (7/11, "54 matches") | Borderline (Primary - SDE unknown, work-ON-not-IN risk)
+2026-07-13 | 6 NJ Convenience Stores Portfolio, Randolph NJ, $2.9M ask, $3.45M rev | Gmail - BizBuySell threads 19f41e047f09353a (7/8) + 19f515da06d5446e (7/11) | Borderline (Primary - SDE unknown, multi-location staff-run signal, thin-margin retail)
+2026-07-13 | 48-Year Beauty Supply Store, Jersey City NJ, $650K ask | Gmail - BizBuySell thread 19f41e047f09353a (7/8) | Borderline (Primary - SDE unknown, long tenure, single-location owner-dependence risk)
+2026-07-13 | Turnkey Nail Salon, Bergen County NJ, $65K ask, $45K SDE | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Excluded - SDE below Primary floor
+2026-07-13 | Well-Established 25-Year Music & Arts Education, Bergen County NJ, $495K ask, $145K SDE | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Excluded - SDE below Primary floor (education sector otherwise in scope)
+2026-07-13 | Established Florist & Event Supply, Bergen County NJ, $150K ask, $75K SDE | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Excluded - SDE below Primary floor
+2026-07-13 | Turnkey Vietnamese Noodle Kiosk, Hudson County NJ, $125K ask | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Excluded - food
+2026-07-13 | SBA Approved Somerset County Pizzeria, $400K ask, $210K+ net CF (q=2528342) | Gmail - BizBuySell thread 19f561843a9a1a36 (7/12) | Excluded - food
+2026-07-13 | Quick Sale Somerset County Pizzeria, $455K ask, $210K+ net CF (q=2528067) | Gmail - BizBuySell threads 19f515da06d5446e + 19f5141e174df728 (7/11) | Excluded - food
+2026-07-13 | Quick Sale Ocean County Pizzeria Restaurant, $225K ask, $170K+ net CF | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Excluded - food
+2026-07-13 | Quick Sale South Plainfield Pizzeria, $200K ask, $155K net CF | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Excluded - food
+2026-07-13 | Italian Pizza for Sale, NJ, $125K ask (q=2527787) | Gmail - BizBuySell threads 19f515da06d5446e + 19f5141e174df728 (7/11) | Excluded - food
+2026-07-13 | Established Paint & Sip Studio, Brick Township NJ, $50K ask | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Excluded - out of geography (Ocean County shore, outside 1-hr radius)
+2026-07-13 | Middlesex County Bagel, $399K ask, $175K net CF | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Excluded - food
+2026-07-13 | Middlesex County Bagel, $210K ask, $135K net CF | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Excluded - food
+2026-07-13 | Middlesex County Bagel, $155K ask, $100K net CF | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Excluded - food
+2026-07-13 | Monmouth County Deli, $175K ask, $90K net CF | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Excluded - food
+2026-07-13 | Pepperidge Farm Bread Route, Sewell NJ, $330K ask | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Excluded - bread route (hard-excluded sector)
+2026-07-13 | Turnkey Laundromat, Wallington NJ, $289K ask | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Excluded - laundromat (hard-excluded sector)
+2026-07-13 | Mobile Cleaning Company Serving Local Homeowners, New Brunswick NJ, $244,900 ask | Gmail - BizBuySell thread 19f4702fe63bd2ba (7/9) | Excluded - SDE below Primary floor (implied)
+2026-07-13 | Confirmation of Business Inquiry - NYC Metro Digital & Wide Format Printing Company | Gmail - BizBuySell thread 19f4979a186fdeef (7/10) | Excluded - no specific listing (Matt's own inquiry confirmation, already known)
+2026-07-13 | Turnkey Burger & Wings Franchise, Bergen County NJ, $395K ask | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Dedup - relist of listing logged 2026-06-15/2026-07-06
+2026-07-13 | Established Fusion Restaurant (Vietnamese-inspired), Union County NJ, $200K ask, $120K SDE | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Dedup - already logged 2026-07-06
+2026-07-13 | SBA pre-approved Hair & Beauty Supply, Mahoning County OH, $1.2M ask, $360K SDE | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Dedup - already logged 2026-07-06
+2026-07-13 | Community Fitness Martial Arts Center, Union NJ, $475K ask, $200K SDE | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Dedup - already logged 2026-07-06
+2026-07-13 | Established Café & Pizzeria, Bergen County NJ, $85K ask, $94K SDE | Gmail - Transworld thread 19f5424647f06a0e (7/12) | Dedup - already logged 2026-07-06
+2026-07-13 | Fully Equipped Medical Laboratory $12M+ annually, NJ, $9M ask | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Dedup - already logged 2026-07-06 (#2524346)
+2026-07-13 | PT, Chiropractic, Traditional & Alternative Internal Medicine, NJ, $420K ask | Gmail - BizBuySell thread 19f515da06d5446e (7/11) | Dedup - 4th relist of recurring listing (prior prices $449K/$455K/$455K)
+2026-07-17 | Growing Solar Installation Contractor, NJ ($7.0M ask, ~$1.5M EBITDA) | Gmail - Synergy thread 19f5c84be529d395 (7/13) | Excluded - SDE above Primary ceiling
+2026-07-17 | Orthopedic & Personal Injury Medical Practice, Orlando FL ($6.83M ask) | Gmail - Synergy thread 19f5c84be529d395 (7/13) | Excluded - out of geography + healthcare
+2026-07-17 | Behavioral Health & Psychological Services Practice, NJ ($1.1M ask) | Gmail - Synergy thread 19f5c84be529d395 (7/13) | Excluded - healthcare/licensing
+2026-07-17 | Adult Daycare For Sale, South Jersey (~$103K SDE/$199K ask) | Gmail - BizBuySell thread 19f66026905c48c0 (7/15) | Excluded - out of geography (South Jersey)
+2026-07-17 | Beautiful CarWash & Property Opportunity!, NJ (~$165K SDE/$368K ask) | Gmail - BizBuySell thread 19f66026905c48c0 (7/15) | Borderline (Passive Hold - price/SDE fit, mechanism full-service vs. automated TBD)
+2026-07-17 | Full-Service CPA Firm w/ Labor Union Niche, NJ (~$99K SDE/$150K ask) | Gmail - BizBuySell thread 19f66026905c48c0 (7/15) | Excluded - SDE below Primary floor
+2026-07-17 | Wholesale Bakery With Real Estate, South Jersey ($885K ask) | Gmail - BizBuySell thread 19f60def8558836d (7/14) | Excluded - food
+2026-07-17 | Profitable Dry Cleaning Business w/ Drive-Thru, Cresskill NJ (~$110K SDE/$178K ask, 62 yrs) | Gmail - BizBuySell thread 19f60def8558836d (7/14) | Excluded - SDE below Primary floor
+2026-07-17 | Non-Profit Audit Review Book, NJ ($500K revenue, ~$166K SDE/$316K ask) | Gmail - BizBuySell thread 19f60def8558836d (7/14) | Excluded - SDE below Primary floor
+2026-07-17 | SBA Approved Iconic Profitable Pizzeria, NJ ($210K+ net CF, $400K ask) | Gmail - BizBuySell thread 19f6b120364d47fd (7/16) | Excluded - food
+2026-07-17 | [42 threads in label:Acquisitions, dated 2025-08 through 2026-07-12] | Gmail - full label re-check | Dedup - all previously logged/deduped in prior runs (see individual entries above by date)
+2026-07-20 | Southern Sussex County, NJ CPA Practice for Sale ($975K ask, q=2530380) | Gmail - BizBuySell thread 19f7045407e2f6d3 (7/17) | Borderline (Primary - SDE unknown, geography edge, work-ON-not-IN risk)
+2026-07-20 | Residential Landscape Services Business, Cherry Hill NJ ($289,500 ask, q=2530344) | Gmail - BizBuySell thread 19f7045407e2f6d3 (7/17) | Excluded - out of geography (Camden County/South Jersey)
+2026-07-20 | Tapas Restaurant with Liquor License, Bergen County NJ ($699K ask, q=2530495) | Gmail - BizBuySell thread 19f7045407e2f6d3 (7/17) | Excluded - food
+2026-07-20 | Profitable BBQ Restaurant, Edison NJ ($800K ask, q=2530118) | Gmail - BizBuySell threads 19f7045407e2f6d3 (7/17) + 19f7583e6f7d8901 (7/18) | Excluded - food
+2026-07-20 | Central NJ Pizzeria Package, Two Turnkey Locations, $2.43M Revenue ($1M ask, q=2530703) | Gmail - BizBuySell threads 19f75581ac027aa4 + 19f7583e6f7d8901 (7/18) | Excluded - food
+2026-07-20 | Beautiful CarWash & Property Opportunity!, NJ ($2,875,000 ask, q=2529189) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - SDE above Passive Hold ceiling - NOTE: same title logged 2026-07-17 at $368K ask, price discrepancy unresolved, flagged for Matt
+2026-07-20 | Absentee Run Bagel Store doing $15K-$16K, Middlesex County NJ ($399K ask, q=2530458) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - food
+2026-07-20 | Absentee-Run Bagel Store doing $10,000/wk, Middlesex County NJ ($210K ask, q=2530457) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - food
+2026-07-20 | Profitable Deli doing $90K+ Net Cashflow, Monmouth County NJ ($175K ask, q=2530406) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - food
+2026-07-20 | Absentee Run Pizzeria, Essex County NJ, $160K+ NCF ($299K ask, q=2529958) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - food
+2026-07-20 | SBA Approved Iconic Profitable Pizzeria, $210K+ NCF, NJ ($400K ask, q=2529962) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Dedup - relist of listing logged 2026-07-17
+2026-07-20 | SBA Approved Pizzeria, Ocean County NJ, $155K+ NCF ($150K ask, q=2529955) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - food
+2026-07-20 | Profitable Pizzeria, $155K NCF, Middlesex County NJ ($199K ask, q=2529953) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - food
+2026-07-20 | High Margin, Low Entry Home Services - Industry Leader, Manalapan Township NJ ($125K ask, q=2529782) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - SDE below Primary floor
+2026-07-20 | Turn-Key Branded Coffee Shop, West Orange NJ ($79K ask, q=2528649) | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - food
+2026-07-20 | Iconic Restaurant and Bar, Frenchtown NJ | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - food + likely out of geography (far Hunterdon County)
+2026-07-20 | Miracle Method Franchise (B2B & Residential refinishing), Pennsauken NJ | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - out of geography (Camden County/South Jersey) + franchise
+2026-07-20 | Turnkey Opportunity in the Heart of Red Bank, NJ | Gmail - BizBuySell thread 19f7583e6f7d8901 (7/18) | Excluded - no specific listing data extractable (headline only)
+2026-07-20 | Transworld 7/19 "Recent Business Listings 2026-07-14" (6 listings: Music & Arts Education, Burger & Wings Franchise, Vietnamese Noodle Kiosk, Fusion Restaurant, Family Entertainment Play Center, Nail Salon, Hair Care Beauty OH) | Gmail - Transworld thread 19f787afda318ce5 (7/19) | Dedup - full relist of Transworld 7/12 email, all previously logged 2026-07-13
+2026-07-22 | [50 threads in label:Acquisitions, dated 2025-08 through 2026-07-19 - full re-check] | Gmail - full label re-check | Dedup - all previously logged/deduped in prior runs; no new mail since 2026-07-20 run
+2026-07-22 | Car Wash, Warren County NJ (20 yrs, new equipment, $6K/mo rent, 18-yr lease) | WebSearch - car wash tri-state query | Borderline (Passive Hold - geography edge, automated/express mechanism unconfirmed, price/SDE undisclosed)
+2026-07-22 | Semi-Absentee Operation, Jersey City NJ ($500K ask) | WebSearch - SDE $500K NJ query | Borderline (sector/SDE undisclosed, Hudson County in-geography)
+2026-07-22 | Atlantic County NJ Express Exterior Car Wash ($2.6M ask) | WebSearch - car wash tri-state query | Excluded - out of geography
+2026-07-22 | Specialty Glass Contractor, Monmouth County NJ ($510K SDE, $2.2M ask, 4.3x) | WebSearch - SDE $500K NJ query | Excluded - out of geography + multiple above ceiling
+2026-07-22 | Landscaping & Lawn Care, Burlington County NJ ($95K SDE) | WebSearch - SDE $500K NJ query | Excluded - out of geography + SDE below floor
+2026-07-22 | Fitness Facility, Hudson County NJ ($104K SDE) | WebSearch - SDE $500K NJ query | Excluded - SDE below Primary floor

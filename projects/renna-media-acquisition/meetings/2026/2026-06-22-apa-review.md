@@ -22,8 +22,8 @@
 - Advertiser data, contact rolodex, phone numbers for charities and government contacts all included; to be listed as a schedule attached to the APA
 - Newspaper files: production/desktop publishing files and finalized PDFs are critical assets
 - **Printing:** no written contract with the printer
-  - Primary printer: Angle Printing and Publishing Company (black and white)
-  - Second printer handles color inserts, delivers to Angle
+  - Primary printer: Engle Printing and Publishing Company (black and white)
+  - Second printer handles color inserts, delivers to Engle
   - Postal permit (Lancaster PA, #1325) belongs to Joe; likely non-transferable, Matt will need his own
   - David asking his printer contact Brian (meeting June 23) whether permits can transfer
 - USDA/EDA zero-interest loans are the main known liability; Joe provided a list in due diligence
@@ -55,7 +55,7 @@
 - [ ] Clarify pre-closing lien/search requirement with broker
 - [ ] Consult accountant on purchase price allocation classes (Form 8594 class 4/5/6/7 split)
 - [ ] Do a final contracts pass with Joe to surface any unrecognized click-throughs or arrangements
-- [ ] Contact Angle Printing to verify the relationship, pricing, and post-transfer continuity
+- [ ] Contact Engle Printing to verify the relationship, pricing, and post-transfer continuity
 
 ---
 

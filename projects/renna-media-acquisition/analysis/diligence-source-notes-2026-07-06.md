@@ -24,7 +24,7 @@ These notes preserve buyer-side context from Granola meetings that may inform di
 ### Printer and postal permit continuity are not yet proven
 
 - June 22 APA notes say there is no written printer contract.
-- Primary printer is identified as Angle Printing and Publishing Company for black-and-white work; a second printer handles color inserts and delivers to Angle.
+- Primary printer is identified as Engle Printing and Publishing Company for black-and-white work; a second printer handles color inserts and delivers to Engle.
 - The Lancaster, PA postal permit #1325 is described as belonging to Joe and likely non-transferable, meaning the buyer may need a new permit.
 - Diligence implication: get direct printer confirmation, pricing continuity, backup process, color-insert workflow, USPS permit transfer or replacement plan, and any timing risk before the July issue cutover.
 

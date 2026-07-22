@@ -32,7 +32,7 @@
 - April postage discrepancy flagged: Joe's spreadsheet showed $38,389; Cheryl's tally of invoices came to $41,113.49
   - Likely a data-entry error in the summary sheet; Joe to double-check
 - Matt's approach: rebuild cost side from raw invoices to cross-reference against summary reports
-- Agreed scope: Angle printing invoices and postage reports from January 2025 forward (2024 offered too, given the 6-paper expansion in November/December 2024)
+- Agreed scope: Engle printing invoices and postage reports from January 2025 forward (2024 offered too, given the 6-paper expansion in November/December 2024)
 
 ## Operational and Structural Items (Due Diligence Checklist)
 
@@ -59,7 +59,7 @@
 ## Action Items
 
 - [ ] Share RM Ads master file with Matt, pending Joe/Eric post-call discussion (Eric/Joe)
-- [ ] Upload Angle printing invoices and postage reports from January 2025 (and 2024 if possible) to shared folder (Joe/Eric)
+- [ ] Upload Engle printing invoices and postage reports from January 2025 (and 2024 if possible) to shared folder (Joe/Eric)
 - [ ] Investigate April postage discrepancy ($38,389 vs $41,113.49) (Joe)
 - [ ] Locate and share company formation documents via CPA (Joe)
 - [ ] Think through digital asset/hard drive inventory method for APA exhibit (Matt)

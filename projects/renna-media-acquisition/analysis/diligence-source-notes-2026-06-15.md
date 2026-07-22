@@ -27,7 +27,7 @@ These notes preserve buyer-side context from Granola meetings that may inform di
 ### Postage support is still incomplete, but the seller team agreed to provide raw backup
 
 - A specific April mismatch remains open: Joe's summary shows `$38,389` while Cheryl's invoice tally shows about `$41,113`.
-- On June 10, the group agreed to upload Angle printing invoices and postage reports from January 2025 forward, with 2024 expansion-period support if possible.
+- On June 10, the group agreed to upload Engle printing invoices and postage reports from January 2025 forward, with 2024 expansion-period support if possible.
 - Diligence implication: do not rely on postage summaries until the raw invoice bridge is rebuilt.
 
 ### Digital assets exist in a workbook, but transfer execution is still unresolved

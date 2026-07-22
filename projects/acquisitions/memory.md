@@ -397,6 +397,10 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - **Total excluded:** 17 (6 food, 6 franchise-ad no-listing, 3 dedup incl. PT/Chiro practice relisted 4th time now $455K, 1 under-5-years, 2 out-of-geo, 2 other).
 - Pattern: slow week (2 alert emails). Self-storage WebSearch keeps returning developments/institutional deals; rotate that query out. Digest output: 2026-07-03.md.
 
+### 2026-07-07
+
+- Matt confirmed: leave sourcing thesis/criteria as-is for now. Plan is to revisit and tighten the criteria once the Renna Media deal closes, so the pipeline lines up more deliberately with the Renna/local-media thesis rather than the current generic services/SDE-range filter. No changes made this run.
+
 ### 2026-07-06 (scheduled run)
 
 - Gmail: 43 unread threads in label, 39 already in seen.md, 4 new processed (Transworld 7/5, BizBuySell 7/3 + 7/4 x2). 31 listings extracted. WebSearch: 4 queries, 2 unique adds.
@@ -404,3 +408,48 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - **Borderline:** 4 — NJ Cabinet Business $2.3M (#2524103, best lead, implied SDE $660-920K); Restoration Franchise (#2524063, no price); Bergen 17-yr B2B wholesale distributor (WebSearch); Monmouth $500K+ CF w/ staff (WebSearch).
 - **Excluded:** 27 (10 food, 6 SDE below, 2 SDE above, 2 out-of-geo OH, 1 pharmacy, 8 dedup). After-School Learning (Borderline 6/8) resolved: $75.5K SDE, kill. Burger & Wings price drop $450K→$395K.
 - Pattern: Transworld still 0-for-10 for thesis; consider direct broker ask or unsubscribe. BizBuySell "64 matches" emails truncate at 15 listings; tighten alert criteria for full coverage. Digest output: 2026-07-06.md.
+
+### 2026-07-13 (scheduled run)
+
+- Gmail: 47 threads in label, 39 already in seen.md, 8 new threads processed (BizBuySell x5, Transworld x1, plus the 7/7 BizBuySell single-match thread that hadn't been logged). 30 listings extracted (22 new-to-pipeline, 7 dedup/relist, 1 inquiry-confirmation). WebSearch: 5 queries, 0 unique new finds.
+- **Primary Strong Matches:** 1 new — Established Optical Business, NJ (Relocatable): $699K ask, "$250K+ Cash Flow" per listing (~2.8x multiple), best SDE/multiple fit in several weeks. **Passive Strong Matches:** 0.
+- **Borderline:** 4 new — Indoor Family Entertainment & Play Center Bergen County ($295K ask, SDE undisclosed, café-adjacent); Automotive Repair & Service NJ ($275K ask); 6 NJ Convenience Stores Portfolio Randolph NJ ($2.9M ask, $3.45M rev, staff-run signal); 48-Year Beauty Supply Store Jersey City ($650K ask).
+- **Excluded:** 10 food, 1 bread route, 1 laundromat, 4 SDE-below-floor, 1 out-of-geography, 1 no-specific-listing, 7 dedup/relist (PT/Chiro practice now on its 4th relist, currently $420K).
+- Pattern: optical retail is a new sector for this pipeline and worth a thesis note either way it diligences. Multi-unit convenience-store portfolio is a recurring work-ON-not-IN edge case (staff-run across locations is a good signal, but thin margins + no SDE disclosed make it hard to score).
+- Picked up a useful market-data anchor via WebSearch: NJ Main Street multiples currently running ~1.8x-2.8x under $250K SDE, 2.4x-3.4x at $250K-$500K, 2.8x-4.2x at $500K-$1M — good benchmark for future gut-checks.
+- Digest output: 2026-07-13.md. Four promotion/verification actions pending Matt's review, led by the Optical Business.
+
+### 2026-07-08 (scheduled run)
+
+- Gmail: 40 threads in label, all 40 already in seen.md from prior runs (connector is read-only, threads never clear unread). Re-parsed 2 previously-"unreadable" East Coast threads using a new extraction path (markdown links inside quoted-printable HTML) — one yielded 3 new candidates, the other confirmed as a full duplicate of listings logged 5/7. WebSearch: 5 queries, 2 unique adds.
+- **Primary Strong Matches:** 1 new — Proven B2B Staffing Franchise, Nassau County NY (#12698): $366K SDE, $859K ask, 2.3x, franchise system with placement staff. **Passive Strong Matches:** 1 new — Morris County NJ Equipment Rental ($267K CF, $783K ask, 2.93x) but sourced from a BizQuest aggregate, not a confirmed individual listing — needs verification before treating as real.
+- **Borderline:** 8 — flower franchise + audio/lighting service center (both Nassau-area, both ~$30-40K below SDE floor); Essex County car wash/auto body/gas station/childcare cluster (all SDE unknown); Union County 10-machine vending route and NYC/NJ 150-machine ATM portfolio (both Passive Hold, price/SDE undisclosed).
+- **Excluded:** 13 new + 5 dedup + 3 unreadable/stale threads.
+- Pattern: East Coast Business Brokers threads previously flagged "unreadable" are often parseable — the HTML has a cleaner quoted-printable markdown-link section buried in it; check that before giving up. Digest output: 2026-07-08.md.
+
+### 2026-07-20 (scheduled run)
+
+- Gmail: 50 threads in label:Acquisitions, 46 previously logged, 4 new threads processed (BizBuySell 7/17, BizBuySell 7/18 x2, Transworld 7/19). 26 listings extracted, 17 net-new to seen.md after dedup.
+- **Primary Strong Matches:** 0. **Passive Strong Matches:** 0.
+- **Borderline:** 1 new — Southern Sussex County NJ CPA Practice ($975K ask, SDE undisclosed, geography-edge + professional-license work-ON-not-IN risk).
+- **Excluded:** 16 new (11 food, 2 out-of-geography, 1 SDE-below-floor, 1 SDE-above-ceiling, 1 no-specific-data) + 7 dedup/relist (1 pizzeria relist, 6 Transworld full relist of 7/12 email).
+- **WebSearch:** 4 queries, 0 unique new finds — all results matched previously logged items.
+- Flagged for Matt: "Beautiful CarWash & Property Opportunity!" surfaced twice with wildly different asking prices (2026-07-17: $368K; 2026-07-20: $2.875M) under the identical title — needs a click-through to resolve before treating either number as real.
+- Pattern: BizBuySell's "57 New Business Matches" email only rendered 15 listings in-body (same 15-listing truncation pattern noted 2026-07-06); Transworld's 7/19 send was a byte-for-byte relist of 7/12, not fresh inventory.
+
+### 2026-07-17 (scheduled run)
+
+- Gmail: 46 threads in label:Acquisitions, 42 previously logged/deduped, 4 new threads processed (BizBuySell 7/14, 7/15, 7/16; Synergy 7/13). 10 listings extracted.
+- **Primary Strong Matches:** 0. **Passive Strong Matches:** 0.
+- **Borderline:** 1 new — Beautiful CarWash & Property Opportunity, NJ (~$165K SDE, $368K ask, ~2.2x — clean Passive Hold price/SDE fit, but mechanism (full-service vs. automated/express) unconfirmed from alert snippet).
+- **Excluded:** 9 new (2 food, 3 SDE-below-floor, 1 SDE-above-ceiling [Solar Installation $7M ask/~$1.5M EBITDA], 1 healthcare, 2 out-of-geography incl. FL).
+- **WebSearch:** 4 queries, 0 unique new finds (self-storage still developments-only; Essex County retiring-owner results all already-logged; owner-financed search surfaced a Southern NJ landscaping business below SDE floor).
+- Pattern: Synergy Business Brokers now 0-for-3 again — consistent 5+ run streak of healthcare or above-ceiling listings only. Digest output: 2026-07-17.md.
+
+### 2026-07-22 (scheduled run)
+
+- Gmail: 50 threads in label:Acquisitions, all 50 already logged in seen.md from prior runs — 0 new listings extracted. First run with a fully caught-up label; newest unread thread dated 7/19 was already processed 2026-07-20.
+- **Primary Strong Matches:** 0. **Passive Strong Matches:** 0.
+- **Borderline:** 2 new via WebSearch — Warren County NJ car wash (20 yrs, new equipment, 18-yr lease, geography-edge + mechanism unconfirmed); Jersey City semi-absentee operation ($500K ask, sector/SDE undisclosed).
+- **Excluded:** 4 new (2 out-of-geography, 2 SDE-below-floor, 1 SDE-above-ceiling — Specialty Glass Contractor Monmouth County counted once across both reasons).
+- Pattern: worth watching whether the Gmail label stays this quiet — could mean broker/marketplace alert volume has genuinely slowed, or an upstream saved-search/filter issue. Self-storage WebSearch query continues to return only development sites, not operating businesses; consider retiring or tightening that query. Digest output: 2026-07-22.md.
