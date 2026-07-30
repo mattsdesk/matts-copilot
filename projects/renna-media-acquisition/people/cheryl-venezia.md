@@ -3,7 +3,7 @@
 **Role:** Business Acquisition Broker/Advisor  
 **Company:** Murphy Business Sales  
 **Phone:** +1-908-370-5034  
-**Last Interaction:** June 23, 2026  
+**Last Interaction:** July 27, 2026  
 
 ---
 
@@ -14,6 +14,16 @@ Cheryl is the primary advisor/broker on the Renna Media newspaper acquisition. H
 ---
 
 ## Recent Activity
+
+### Business Acquisition Closing (July 27)
+
+- Closing scheduled for the next day at David's (attorney) office in Westfield, in person. Money already wired to the lawyer.
+- Settlement statement reviewed: receivables balance confirmed at ~$26K (not the $70K figure floated earlier in the year); properly excluded from the wire amount.
+- Still missing a fully signed APA with all schedules attached; only a single signed sheet received so far. Plan to sign complete copies at closing.
+- Seller's note not yet received; Matt followed up by text.
+- Cheryl will not attend closing; Eric may or may not attend.
+- $2K deposit credit won't appear on the settlement statement directly - Eric is under Russ Miller's franchise office, Cheryl under Kevin La Guardia, and Russ no longer holds the regional role. Wire goes to Russ, who distributes to all parties including Matt's $2K refund. Cheryl to send a heads-up when the check is on its way (expect 1-2 weeks).
+- Cheryl wants a text confirmation once closing is complete.
 
 ### Renna Media Touchpoint (June 23)
 
@@ -102,4 +112,4 @@ Cheryl is the primary advisor/broker on the Renna Media newspaper acquisition. H
 
 ---
 
-*Last updated: 2026-06-29*
+*Last updated: 2026-07-27*

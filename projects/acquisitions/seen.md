@@ -302,3 +302,36 @@ Format: `YYYY-MM-DD | Business Name | Source | Bucket`
 2026-07-22 | Specialty Glass Contractor, Monmouth County NJ ($510K SDE, $2.2M ask, 4.3x) | WebSearch - SDE $500K NJ query | Excluded - out of geography + multiple above ceiling
 2026-07-22 | Landscaping & Lawn Care, Burlington County NJ ($95K SDE) | WebSearch - SDE $500K NJ query | Excluded - out of geography + SDE below floor
 2026-07-22 | Fitness Facility, Hudson County NJ ($104K SDE) | WebSearch - SDE $500K NJ query | Excluded - SDE below Primary floor
+2026-07-27 | Profitable, Well-Established HVAC Contractor - 30+ Yrs, NJ ($2.25M ask, Listing #2530665) | Gmail - BizBuySell 7/25 (threads 19f994e5c0edcc24 + 19f9968d93c7b3a4) | Borderline (Primary - SDE undisclosed, best-lead-this-run per sector pattern)
+2026-07-27 | Package of 2 Auto Repair Franchise Locations, NJ ($1.9M ask, Listing #2533270) | Gmail - BizBuySell 7/25 (threads 19f994e5c0edcc24 + 19f9968d93c7b3a4) | Borderline (Primary - SDE undisclosed, multi-location franchise)
+2026-07-27 | Turnkey Auto Service & Tire Center with Luxury Dealership Buildout, NJ ($1.85M ask, Listing #2532694) | Gmail - BizBuySell 7/24 (threads 19f94863a106b036 + 19f9968d93c7b3a4) | Borderline (Primary - SDE undisclosed, auto-service work-ON-not-IN risk)
+2026-07-27 | Precision Aviation Tooling & Fabrication Business, NJ ($1.1M ask, Listing #2532249) | Gmail - BizBuySell 7/23 (thread 19f8f71753193841) | Borderline (Primary - new sector, SDE undisclosed, possible regulated-niche defensibility)
+2026-07-27 | Profitable Cannabis Dispensary, Hudson County NJ ($1.75M ask, Listing #2532233) | Gmail - BizBuySell 7/23 (thread 19f8f71753193841) | Borderline (Primary - licensing/regulatory red flag, SDE undisclosed)
+2026-07-27 | Semi-Absentee Pool Service Company - Recurring Revenue, NJ ($700K ask, $296K SDE, 2.4x) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Borderline (Primary - cleanest SDE/multiple fit this run, semi-absentee claim needs verification)
+2026-07-27 | Profitable 7-Machine Vending Route, 6 Established Locations, NJ-NY ($150K ask) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Borderline (Passive Hold - structurally in-scope, scale likely below SDE floor)
+2026-07-27 | Established Specialty Retail Smoke & Vape Shop, Mahwah NJ ($850K ask, Listing #2533479) | Gmail - BizBuySell 7/26 (thread 19f9e4e6137ab1ac) | Borderline (Primary - in-geography, SDE undisclosed, thin-margin retail)
+2026-07-27 | Branded Gas Station + Convenience Store + Car Wash, Passaic County NJ | WebSearch - car wash tri-state query | Borderline (mixed-income model, price/SDE undisclosed)
+2026-07-27 | SBA Approved Highly Profitable Pizzeria $1.1M/yr, NJ ($420K ask, Listing #2533347) | Gmail - BizBuySell 7/25 (threads 19f994e5c0edcc24 + 19f9968d93c7b3a4) | Excluded - food
+2026-07-27 | Profitable Italian Restaurant $1.45M/yr, Bergen County NJ ($650K ask, Listing #2533291) | Gmail - BizBuySell 7/25 (threads 19f994e5c0edcc24 + 19f9968d93c7b3a4) | Excluded - food
+2026-07-27 | Bergen County Turnkey Restaurant w/ Liquor License on 1/2 Acre, NJ ($4.5M ask) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Excluded - food + SDE above ceiling
+2026-07-27 | SBA Approved Pizzeria $884K+/yr, Ocean County NJ ($170K ask) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Excluded - food + out of geography
+2026-07-27 | Profitable Authentic Ethnic Italian Restaurant, Bergen County NJ ($320K ask) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Excluded - food (likely relist of 7/6 $325K listing)
+2026-07-27 | Pizza Restaurant $1.45M+/yr, Burlington County NJ ($575K ask, Listing #2533461) | Gmail - BizBuySell 7/26 (thread 19f9e4e6137ab1ac) | Excluded - food + out of geography
+2026-07-27 | Prime Location Bagel Store (NY Style) $6-7K/wk, NJ ($149K ask) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Excluded - food
+2026-07-27 | Absentee-Run Bagel Store $9-10K/wk, Middlesex County NJ ($210K ask) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Excluded - food
+2026-07-27 | Profitable Bagel Store (NY Style) $13-14K/wk, Middlesex County NJ ($370K ask) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Excluded - food
+2026-07-27 | Restaurant for sale!, NJ ($59K ask) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Excluded - food
+2026-07-27 | 2-Year Established Personal Care Franchise Resale, NJ ($450K ask) | Gmail - BizBuySell 7/25 (thread 19f9968d93c7b3a4) | Excluded - under 5 years in operation
+2026-07-27 | Established Café, Pizza & Bakery Concept, Bergen County NJ | Gmail - Transworld 7/21 (thread 19f9ed829f1c6a84) | Excluded - food
+2026-07-27 | Transworld 7/21 "Recent Business Listings 2026-07-16" (7 listings: Music & Arts Education, Florist & Event Supply, Burger & Wings Franchise, Vietnamese Noodle Kiosk, Fusion Restaurant, Family Entertainment Play Center, Nail Salon) | Gmail - Transworld thread 19f9ed829f1c6a84 (7/21) | Dedup - full relist of Transworld 7/12 email, all previously logged 2026-07-13
+2026-07-27 | [49 threads in label:Acquisitions, dated 2025-08 through 2026-07-19] | Gmail - full label re-check | Dedup - all previously logged/deduped in prior runs
+2026-07-29 | Promotional Product Supplier | Wholesale to National Brands, NJ ($3.7M ask, Listing #2533522) | Gmail - BizBuySell 7/28 (thread 19fa8efb3e231116) | Borderline (Primary - SDE undisclosed, ask at/above ceiling, new distribution sub-sector)
+2026-07-29 | French Bakery w/ Expansion Kitchen, Essex County NJ ($510K ask, $286K SDE) | WebSearch - SDE $500K NJ query | Excluded - food
+2026-07-29 | Hummus Republic Franchise, Morristown NJ ($350K ask, $100K SDE) | WebSearch - SDE $500K NJ query | Excluded - food + SDE below Primary floor
+2026-07-29 | Montclair Diner, Upper Montclair NJ (since 1923) | WebSearch - Essex County query | Excluded - food
+2026-07-29 | Established Pizzeria, Caldwell NJ (since 2004) | WebSearch - Essex County query | Excluded - food
+2026-07-29 | Hand/Brushless Car Wash, Essex County NJ (30+ yrs) | WebSearch - Essex County query | Excluded - not automated/express mechanism (Passive Hold structural test fail), no price for Primary
+2026-07-29 | 5-Star Rated Child Care Center, Essex County NJ | WebSearch - Essex County query | Excluded - no specific price/SDE, licensing-adjacent
+2026-07-29 | Essex County Pharmacy (6 yrs) | WebSearch - Essex County query | Excluded - no specific price/SDE, licensing red flag
+2026-07-29 | Semi-Absentee Operation, Jersey City NJ ($500K ask) | WebSearch - SDE $500K NJ query | Dedup - already logged 2026-07-22
+2026-07-29 | [56 threads in label:Acquisitions, dated 2025-08 through 2026-07-28] | Gmail - full label re-check | Dedup - 55 previously logged/deduped in prior runs, 1 new (7/28 BizBuySell) processed above

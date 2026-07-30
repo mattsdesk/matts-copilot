@@ -453,3 +453,19 @@ v1 of the pipeline system set up on 2026-04-19. Folder structure, templates, the
 - **Borderline:** 2 new via WebSearch — Warren County NJ car wash (20 yrs, new equipment, 18-yr lease, geography-edge + mechanism unconfirmed); Jersey City semi-absentee operation ($500K ask, sector/SDE undisclosed).
 - **Excluded:** 4 new (2 out-of-geography, 2 SDE-below-floor, 1 SDE-above-ceiling — Specialty Glass Contractor Monmouth County counted once across both reasons).
 - Pattern: worth watching whether the Gmail label stays this quiet — could mean broker/marketplace alert volume has genuinely slowed, or an upstream saved-search/filter issue. Self-storage WebSearch query continues to return only development sites, not operating businesses; consider retiring or tightening that query. Digest output: 2026-07-22.md.
+
+### 2026-07-27 (scheduled run)
+
+- Gmail: 55 threads in label:Acquisitions, 49 previously logged, 6 new threads processed (BizBuySell 7/23, 7/24, 7/25 x2, 7/26; Transworld 7/21). 27 listings extracted (20 net-new, 7 confirmed as a byte-for-byte Transworld relist of 7/12 content already logged 2026-07-13). WebSearch: 4 queries, 1 unique new find.
+- **Primary Strong Matches:** 0. **Passive Strong Matches:** 0.
+- **Borderline:** 9 new — HVAC Contractor 30+yrs NJ ($2.25M ask, best lead by sector pattern, SDE undisclosed); Package of 2 Auto Repair Franchise Locations NJ ($1.9M ask); Turnkey Auto Service & Tire Center NJ ($1.85M ask); Precision Aviation Tooling & Fabrication NJ ($1.1M ask, new sector); Cannabis Dispensary Hudson County NJ ($1.75M ask, licensing red flag); Semi-Absentee Pool Service Co NJ ($700K ask/$296K SDE, 2.4x — cleanest math this run, semi-absentee claim needs verification); 7-Machine Vending Route NJ-NY ($150K ask, Passive Hold, likely below SDE floor); Smoke & Vape Shop Mahwah NJ ($850K ask); Passaic County gas station/car wash/convenience combo (WebSearch, price/SDE undisclosed).
+- **Excluded:** 12 new (11 food, 1 under-5-years) + 49 threads dedup + 7 Transworld relist dedup.
+- Pattern: BizBuySell's "39 New Business Matches" email again truncated to 15 rendered listings, consistent with the 15-listing cap first noted 2026-07-06. HVAC remains the most sector-consistent lead source in this pipeline's history but has never once shipped with a disclosed SDE — broker contact is the only way past Borderline for that sector. Self-storage WebSearch query is now 6+ consecutive runs with zero actionable operating-facility listings; recommend retiring or retargeting the query phrase. Digest output: 2026-07-27.md.
+
+### 2026-07-29 (scheduled run)
+
+- Gmail: 56 threads in label:Acquisitions, 55 previously logged, 1 new thread processed (BizBuySell 7/28). 1 listing extracted.
+- **Primary Strong Matches:** 0. **Passive Strong Matches:** 0.
+- **Borderline:** 1 new — Promotional Product Supplier | Wholesale to National Brands, NJ ($3.7M ask, Listing #2533522, SDE undisclosed, new distribution sub-sector, ask at/above Primary ceiling).
+- **Excluded:** 4 food (WebSearch-sourced, no Gmail alerts this run), 1 dedup (Jersey City semi-absentee, already logged 2026-07-22), 6 no-specific-data (Essex County aggregate results incl. non-automated car wash that fails Passive Hold mechanism test), 55 Gmail threads dedup.
+- Pattern: Gmail volume slowed to just 1 new thread since 2026-07-27. Self-storage WebSearch query now 7 consecutive runs with zero actionable finds — recommend retiring/retargeting. Broad county-level WebSearch queries (Essex, Bergen) return directory aggregates, not individual listings with price/SDE; Gmail remains higher-signal channel. Digest output: 2026-07-29.md.
